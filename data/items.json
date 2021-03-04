@@ -1,1084 +1,1082 @@
-{
-  "items": [
-    {
-      "name": "Woosh-Type Upgrade Tome A",
-      "code": 1040003
-    },
-    {
-      "name": "Woosh-Type Upgrade Tome B",
-      "code": 1040002
-    },
-    {
-      "name": "Woosh-Type Upgrade Tome C",
-      "code": 1040001
-    },
-    {
-      "name": "Zap-Type Upgrade Tome A",
-      "code": 1060003
-    },
-    {
-      "name": "Zap-Type Upgrade Tome B",
-      "code": 1060002
-    },
-    {
-      "name": "Zap-Type Upgrade Tome C",
-      "code": 1060001
-    },
-    {
-      "name": "Zam-Type Upgrade Tome A",
-      "code": 1070003
-    },
-    {
-      "name": "Zam-Type Upgrade Tome B",
-      "code": 1070002
-    },
-    {
-      "name": "Zam-Type Upgrade Tome C",
-      "code": 1070001
-    },
-    {
-      "name": "All-Purpose Upgrade Tome A",
-      "code": 1080003
-    },
-    {
-      "name": "All-Purpose Upgrade Tome B",
-      "code": 1080002
-    },
-    {
-      "name": "All-Purpose Upgrade Tome C",
-      "code": 1080001
-    },
-    {
-      "name": "Sizz-Type Upgrade Tome A",
-      "code": 1020003
-    },
-    {
-      "name": "Sizz-Type Upgrade Tome B",
-      "code": 1020002
-    },
-    {
-      "name": "Sizz-Type Upgrade Tome C",
-      "code": 1020001
-    },
-    {
-      "name": "Crack-Type Upgrade Tome A",
-      "code": 1030003
-    },
-    {
-      "name": "Crack-Type Upgrade Tome B",
-      "code": 1030002
-    },
-    {
-      "name": "Crack-Type Upgrade Tome C",
-      "code": 1030001
-    },
-    {
-      "name": "Bang-Type Upgrade Tome A",
-      "code": 1050003
-    },
-    {
-      "name": "Bang-Type Upgrade Tome B",
-      "code": 1050002
-    },
-    {
-      "name": "Bang-Type Upgrade Tome C",
-      "code": 1050001
-    },
-    {
-      "name": "Frizz-Type Upgrade Tome A",
-      "code": 1010003
-    },
-    {
-      "name": "Frizz-Type Upgrade Tome B",
-      "code": 1010002
-    },
-    {
-      "name": "Frizz-Type Upgrade Tome C",
-      "code": 1010001
-    },
-    {
-      "name": "Typeless Upgrade Tome A",
-      "code": 1000003
-    },
-    {
-      "name": "Typeless Upgrade Tome B",
-      "code": 1000002
-    },
-    {
-      "name": "Typeless Upgrade Tome C",
-      "code": 1000001
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1894870001
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2867955013
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1803614369
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1383894403
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 4035140178
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1798435070
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3462906204
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1712061303
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3115112937
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2777970045
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3564187305
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1011491590
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3338424414
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3727936118
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2670343036
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2726493084
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3533930612
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2556649015
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2499805925
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3193348952
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3334156157
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 137991671
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 432027909
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3334156158
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2888485417
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2820878730
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1872200350
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3212526827
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2864501634
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3523946711
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1847206252
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2187394872
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1852019270
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1514894904
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1098570926
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3961932143
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 740032508
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1349817557
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3124829549
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1709890766
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 4001490365
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 120918776
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2176050405
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1754173817
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3881204092
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 4085464218
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2008232164
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1191797475
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2524228730
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3705041167
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1927010920
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2605423237
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1591916518
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2556145544
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1011508013
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3242434011
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 4040407516
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2621690804
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3294490973
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 4180669994
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2071859314
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2182455007
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1884221071
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2417664795
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1136965881
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1894870000
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 781255897
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3974636379
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1894875765
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 4264561653
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 4063686342
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1135748209
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2796638453
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3523946661
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1415291671
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2581142182
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3071583801
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2153453024
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 685954466
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2322286232
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1996182686
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 2574582424
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 159813695
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 3896193071
-    },
-    {
-      "name": "Ability Scroll",
-      "code": 1130474729
-    },
-    {
-      "name": "EXP Codex S",
-      "code": 30001
-    },
-    {
-      "name": "EXP Codex M",
-      "code": 30002
-    },
-    {
-      "name": "EXP Codex L",
-      "code": 30003
-    },
-    {
-      "name": "Beast Fragment",
-      "code": 4289200075
-    },
-    {
-      "name": "Demon Fragment",
-      "code": 1727653242
-    },
-    {
-      "name": "Dragon Fragment",
-      "code": 3665385783
-    },
-    {
-      "name": "Hero Fragment",
-      "code": 190928069
-    },
-    {
-      "name": "Inorganic Fragment",
-      "code": 445753921
-    },
-    {
-      "name": "Nature Fragment",
-      "code": 2706523079
-    },
-    {
-      "name": "Slime Fragment",
-      "code": 2139806065
-    },
-    {
-      "name": "??? Fragment",
-      "code": 100007
-    },
-    {
-      "name": "Undead Fragment",
-      "code": 100008
-    },
-    {
-      "name": "Skip Ticket",
-      "code": 3145650632
-    },
-    {
-      "name": "Gems",
-      "code": 10003
-    },
-    {
-      "name": "Gems",
-      "code": 10002
-    },
-    {
-      "name": "Gold",
-      "code": 10001
-    },
-    {
-      "name": "10 Million Downloads Medal",
-      "code": 40005
-    },
-    {
-      "name": "Arena Medal",
-      "code": 3803217766
-    },
-    {
-      "name": "Spooky Cookie",
-      "code": 40007
-    },
-    {
-      "name": "DQ I Medal",
-      "code": 40001
-    },
-    {
-      "name": "DQ III Medal",
-      "code": 40003
-    },
-    {
-      "name": "DQ IV Medal",
-      "code": 40008
-    },
-    {
-      "name": "Master Medal",
-      "code": 50004
-    },
-    {
-      "name": "Gold Mindini Medal",
-      "code": 4000021083
-    },
-    {
-      "name": "Rainbow Mindini Medal",
-      "code": 1039086975
-    },
-    {
-      "name": "Silver Mindini Medal",
-      "code": 201797602
-    },
-    {
-      "name": "Troll Decoration",
-      "code": 40006
-    },
-    {
-      "name": "Slime Fest Medal",
-      "code": 40004
-    },
-    {
-      "name": "Summer Fest Medal",
-      "code": 40002
-    },
-    {
-      "name": "Mini Medal",
-      "code": 10004
-    },
-    {
-      "name": "Party Member Meeting Ticket A",
-      "code": 3881800031
-    },
-    {
-      "name": "Party Member Meeting Ticket S",
-      "code": 387849400
-    },
-    {
-      "name": "Tact Points",
-      "code": 2467471982
-    },
-    {
-      "name": "Savvy Sapphire",
-      "code": 4020003
-    },
-    {
-      "name": "Equable Emerald",
-      "code": 4020002
-    },
-    {
-      "name": "Illustrious Iris",
-      "code": 4020004
-    },
-    {
-      "name": "Royal Ruby",
-      "code": 4020001
-    },
-    {
-      "name": "Beast Orb",
-      "code": 4140001
-    },
-    {
-      "name": "Demon Orb",
-      "code": 4160001
-    },
-    {
-      "name": "Dragon Orb",
-      "code": 4120001
-    },
-    {
-      "name": "Hero Orb",
-      "code": 4190001
-    },
-    {
-      "name": "Inorganic Orb",
-      "code": 4150001
-    },
-    {
-      "name": "Nature Orb",
-      "code": 4130001
-    },
-    {
-      "name": "Iridescent orb",
-      "code": 4030002
-    },
-    {
-      "name": "Slime Orb",
-      "code": 4110001
-    },
-    {
-      "name": "Mystery Orb",
-      "code": 4180001
-    },
-    {
-      "name": "White orb",
-      "code": 4030001
-    },
-    {
-      "name": "Undead Orb",
-      "code": 4170001
-    },
-    {
-      "name": "Beast Pearl",
-      "code": 4140002
-    },
-    {
-      "name": "Demon Pearl",
-      "code": 4160002
-    },
-    {
-      "name": "Dragon Pearl",
-      "code": 4120002
-    },
-    {
-      "name": "Hero Pearl",
-      "code": 4190002
-    },
-    {
-      "name": "Inorganic Pearl",
-      "code": 4150002
-    },
-    {
-      "name": "Nature Pearl",
-      "code": 4130002
-    },
-    {
-      "name": "Slime Pearl",
-      "code": 4110002
-    },
-    {
-      "name": "Mystery Pearl",
-      "code": 4180002
-    },
-    {
-      "name": "Undead Pearl",
-      "code": 4170002
-    },
-    {
-      "name": "Blue Stone",
-      "code": 4010003
-    },
-    {
-      "name": "Green Stone",
-      "code": 4010002
-    },
-    {
-      "name": "Red Stone",
-      "code": 4010001
-    },
-    {
-      "name": "White Stone",
-      "code": 4010004
-    },
-    {
-      "name": "Guaranteed S 10 Million Downloads SP Scout Voucher",
-      "code": 20009
-    },
-    {
-      "name": "Dragonlord Scout Voucher",
-      "code": 20002
-    },
-    {
-      "name": "Dragonlord's True Form Vo.",
-      "code": 20003
-    },
-    {
-      "name": "Dread Dragon Scout Voucher",
-      "code": 20004
-    },
-    {
-      "name": "Party Animal J. Voucher",
-      "code": 20005
-    },
-    {
-      "name": "Baramos SP Scout Voucher",
-      "code": 20006
-    },
-    {
-      "name": "Zoma SP Scout Voucher",
-      "code": 20008
-    },
-    {
-      "name": "Queen Slime SP Scout Voucher",
-      "code": 2877825795
-    },
-    {
-      "name": "Slionheart SP Scout Voucher",
-      "code": 1572885482
-    },
-    {
-      "name": "Alena SP Scout Voucher",
-      "code": 20011
-    },
-    {
-      "name": "Killing Machine Voucher",
-      "code": 2020976462
-    },
-    {
-      "name": "Spooky Valencia SP Scout Voucher",
-      "code": 20010
-    },
-    {
-      "name": "S-Rank Scout Voucher",
-      "code": 79241941
-    },
-    {
-      "name": "Regular SP Scout Voucher",
-      "code": 351355001
-    },
-    {
-      "name": "Stamina Herb",
-      "code": 3844975519
-    },
-    {
-      "name": "Axe Alchemy Stone A",
-      "code": 178720398
-    },
-    {
-      "name": "Axe Alchemy Stone B",
-      "code": 500964045
-    },
-    {
-      "name": "Axe Alchemy Stone C",
-      "code": 1213558169
-    },
-    {
-      "name": "Axe Alchemy Stone D",
-      "code": 3760762921
-    },
-    {
-      "name": "Axe Alchemy Stone S",
-      "code": 3281406253
-    },
-    {
-      "name": "Claw Alchemy Stone A",
-      "code": 1598602101
-    },
-    {
-      "name": "Claw Alchemy Stone B",
-      "code": 1211346742
-    },
-    {
-      "name": "Claw Alchemy Stone C",
-      "code": 743621375
-    },
-    {
-      "name": "Claw Alchemy Stone D",
-      "code": 2042459908
-    },
-    {
-      "name": "Claw Alchemy Stone S",
-      "code": 1724221360
-    },
-    {
-      "name": "Dagger Alchemy Stone A",
-      "code": 3115870502
-    },
-    {
-      "name": "Dagger Alchemy Stone B",
-      "code": 2932047205
-    },
-    {
-      "name": "Dagger Alchemy Stone C",
-      "code": 3399618732
-    },
-    {
-      "name": "Dagger Alchemy Stone D",
-      "code": 3813993345
-    },
-    {
-      "name": "Dagger Alchemy Stone S",
-      "code": 2150979043
-    },
-    {
-      "name": "Sword Alchemy Stone A",
-      "code": 2409776887
-    },
-    {
-      "name": "Sword Alchemy Stone B",
-      "code": 2564379316
-    },
-    {
-      "name": "Sword Alchemy Stone C",
-      "code": 4239933309
-    },
-    {
-      "name": "Sword Alchemy Stone D",
-      "code": 1387163655
-    },
-    {
-      "name": "Sword Alchemy Stone S",
-      "code": 3056564786
-    },
-    {
-      "name": "Staff Alchemy Stone A",
-      "code": 586831303
-    },
-    {
-      "name": "Staff Alchemy Stone B",
-      "code": 897663364
-    },
-    {
-      "name": "Staff Alchemy Stone C",
-      "code": 1373645901
-    },
-    {
-      "name": "Staff Alchemy Stone D",
-      "code": 3220227263
-    },
-    {
-      "name": "Staff Alchemy Stone S",
-      "code": 460810498
-    },
-    {
-      "name": "Omni Alchemy Stone A",
-      "code": 2879279573
-    },
-    {
-      "name": "Omni Alchemy Stone B",
-      "code": 3169142166
-    },
-    {
-      "name": "Omni Alchemy Stone C",
-      "code": 3632539743
-    },
-    {
-      "name": "Omni Alchemy Stone D",
-      "code": 977399084
-    },
-    {
-      "name": "Omni Alchemy Stone S",
-      "code": 2450746640
-    },
-    {
-      "name": "Hellion Crystal",
-      "code": 11140003
-    },
-    {
-      "name": "Striking Sabrecat Crystal",
-      "code": 11140004
-    },
-    {
-      "name": "Prism Peacock Crystal",
-      "code": 11140001
-    },
-    {
-      "name": "Night Clubber Crystal",
-      "code": 11140002
-    },
-    {
-      "name": "Party Animal Juliante Crystal",
-      "code": 3996766384
-    },
-    {
-      "name": "Wrecktor Crystal",
-      "code": 11160003
-    },
-    {
-      "name": "Moosifer Crystal",
-      "code": 11160004
-    },
-    {
-      "name": "Archdemon Crystal",
-      "code": 11160001
-    },
-    {
-      "name": "Boss Troll Crystal",
-      "code": 1806299415
-    },
-    {
-      "name": "Gigantes Crystal",
-      "code": 11160007
-    },
-    {
-      "name": "Silvapithecus Crystal",
-      "code": 11160005
-    },
-    {
-      "name": "Knight Abhorrent Crystal",
-      "code": 11160006
-    },
-    {
-      "name": "Spooky Valencia Crystal",
-      "code": 1032636010
-    },
-    {
-      "name": "Troll Crystal",
-      "code": 1260886832
-    },
-    {
-      "name": "Great Troll Crystal",
-      "code": 11160002
-    },
-    {
-      "name": "Axesaurus Crystal",
-      "code": 11120006
-    },
-    {
-      "name": "Dread Dragon Crystal",
-      "code": 11120001
-    },
-    {
-      "name": "Green Dragon Crystal",
-      "code": 11120004
-    },
-    {
-      "name": "Wyrtoise Crystal",
-      "code": 11120005
-    },
-    {
-      "name": "Great Dragon Crystal",
-      "code": 11120002
-    },
-    {
-      "name": "Royal Reptile Crystal",
-      "code": 11120003
-    },
-    {
-      "name": "Boreal Serpent Crystal",
-      "code": 11180006
-    },
-    {
-      "name": "Alena Crystal",
-      "code": 1391362551
-    },
-    {
-      "name": "Ragnar Crystal",
-      "code": 2900880725
-    },
-    {
-      "name": "Lethal Armour Crystal",
-      "code": 11150003
-    },
-    {
-      "name": "Killing Machine Crystal",
-      "code": 11150001
-    },
-    {
-      "name": "Metal Dragon Crystal",
-      "code": 11150002
-    },
-    {
-      "name": "Living Statue Crystal",
-      "code": 11150004
-    },
-    {
-      "name": "Devilmoth Crystal",
-      "code": 11130003
-    },
-    {
-      "name": "Handsome Crab Crystal",
-      "code": 11130004
-    },
-    {
-      "name": "Hybird Crystal",
-      "code": 11130001
-    },
-    {
-      "name": "Armoured Scorpion Crystal",
-      "code": 106938224
-    },
-    {
-      "name": "Cosmic Chimaera Crystal",
-      "code": 11130005
-    },
-    {
-      "name": "Squidzilla Crystal",
-      "code": 11130002
-    },
-    {
-      "name": "King She-Slime Crystal",
-      "code": 11110001
-    },
-    {
-      "name": "Slionheart Crystal",
-      "code": 2613448427
-    },
-    {
-      "name": "Lime Slime Crystal",
-      "code": 3331775656
-    },
-    {
-      "name": "Slimeshroom Crystal",
-      "code": 11110003
-    },
-    {
-      "name": "Queen Slime Crystal",
-      "code": 2078557154
-    },
-    {
-      "name": "Dragon Slime Crystal",
-      "code": 2248775172
-    },
-    {
-      "name": "Emperor Slime Crystal",
-      "code": 11110002
-    },
-    {
-      "name": "Slimecicle Crystal",
-      "code": 11110004
-    },
-    {
-      "name": "Baramos Crystal",
-      "code": 11180003
-    },
-    {
-      "name": "Dragonlord Crystal",
-      "code": 11180001
-    },
-    {
-      "name": "Dragonlord's True Form Crystal",
-      "code": 11180002
-    },
-    {
-      "name": "Zoma Crystal",
-      "code": 11180005
-    },
-    {
-      "name": "Dragon Zombie Crystal",
-      "code": 11170003
-    },
-    {
-      "name": "Hell Gladiator Crystal",
-      "code": 11170001
-    },
-    {
-      "name": "Dark Skeleton Crystal",
-      "code": 11170004
-    },
-    {
-      "name": "Tortured Soul Crystal",
-      "code": 1636734243
-    },
-    {
-      "name": "Bone Baron Crystal",
-      "code": 11170005
-    },
-    {
-      "name": "Wight King Crystal",
-      "code": 11170002
-    }
-  ]
-}
+[
+  {
+    "name": "Woosh-Type Upgrade Tome A",
+    "code": 1040003
+  },
+  {
+    "name": "Woosh-Type Upgrade Tome B",
+    "code": 1040002
+  },
+  {
+    "name": "Woosh-Type Upgrade Tome C",
+    "code": 1040001
+  },
+  {
+    "name": "Zap-Type Upgrade Tome A",
+    "code": 1060003
+  },
+  {
+    "name": "Zap-Type Upgrade Tome B",
+    "code": 1060002
+  },
+  {
+    "name": "Zap-Type Upgrade Tome C",
+    "code": 1060001
+  },
+  {
+    "name": "Zam-Type Upgrade Tome A",
+    "code": 1070003
+  },
+  {
+    "name": "Zam-Type Upgrade Tome B",
+    "code": 1070002
+  },
+  {
+    "name": "Zam-Type Upgrade Tome C",
+    "code": 1070001
+  },
+  {
+    "name": "All-Purpose Upgrade Tome A",
+    "code": 1080003
+  },
+  {
+    "name": "All-Purpose Upgrade Tome B",
+    "code": 1080002
+  },
+  {
+    "name": "All-Purpose Upgrade Tome C",
+    "code": 1080001
+  },
+  {
+    "name": "Sizz-Type Upgrade Tome A",
+    "code": 1020003
+  },
+  {
+    "name": "Sizz-Type Upgrade Tome B",
+    "code": 1020002
+  },
+  {
+    "name": "Sizz-Type Upgrade Tome C",
+    "code": 1020001
+  },
+  {
+    "name": "Crack-Type Upgrade Tome A",
+    "code": 1030003
+  },
+  {
+    "name": "Crack-Type Upgrade Tome B",
+    "code": 1030002
+  },
+  {
+    "name": "Crack-Type Upgrade Tome C",
+    "code": 1030001
+  },
+  {
+    "name": "Bang-Type Upgrade Tome A",
+    "code": 1050003
+  },
+  {
+    "name": "Bang-Type Upgrade Tome B",
+    "code": 1050002
+  },
+  {
+    "name": "Bang-Type Upgrade Tome C",
+    "code": 1050001
+  },
+  {
+    "name": "Frizz-Type Upgrade Tome A",
+    "code": 1010003
+  },
+  {
+    "name": "Frizz-Type Upgrade Tome B",
+    "code": 1010002
+  },
+  {
+    "name": "Frizz-Type Upgrade Tome C",
+    "code": 1010001
+  },
+  {
+    "name": "Typeless Upgrade Tome A",
+    "code": 1000003
+  },
+  {
+    "name": "Typeless Upgrade Tome B",
+    "code": 1000002
+  },
+  {
+    "name": "Typeless Upgrade Tome C",
+    "code": 1000001
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1894870001
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2867955013
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1803614369
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1383894403
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 4035140178
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1798435070
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3462906204
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1712061303
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3115112937
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2777970045
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3564187305
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1011491590
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3338424414
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3727936118
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2670343036
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2726493084
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3533930612
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2556649015
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2499805925
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3193348952
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3334156157
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 137991671
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 432027909
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3334156158
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2888485417
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2820878730
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1872200350
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3212526827
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2864501634
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3523946711
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1847206252
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2187394872
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1852019270
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1514894904
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1098570926
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3961932143
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 740032508
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1349817557
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3124829549
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1709890766
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 4001490365
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 120918776
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2176050405
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1754173817
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3881204092
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 4085464218
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2008232164
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1191797475
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2524228730
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3705041167
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1927010920
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2605423237
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1591916518
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2556145544
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1011508013
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3242434011
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 4040407516
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2621690804
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3294490973
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 4180669994
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2071859314
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2182455007
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1884221071
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2417664795
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1136965881
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1894870000
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 781255897
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3974636379
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1894875765
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 4264561653
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 4063686342
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1135748209
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2796638453
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3523946661
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1415291671
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2581142182
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3071583801
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2153453024
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 685954466
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2322286232
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1996182686
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2574582424
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 159813695
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3896193071
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1130474729
+  },
+  {
+    "name": "EXP Codex S",
+    "code": 30001
+  },
+  {
+    "name": "EXP Codex M",
+    "code": 30002
+  },
+  {
+    "name": "EXP Codex L",
+    "code": 30003
+  },
+  {
+    "name": "Beast Fragment",
+    "code": 4289200075
+  },
+  {
+    "name": "Demon Fragment",
+    "code": 1727653242
+  },
+  {
+    "name": "Dragon Fragment",
+    "code": 3665385783
+  },
+  {
+    "name": "Hero Fragment",
+    "code": 190928069
+  },
+  {
+    "name": "Inorganic Fragment",
+    "code": 445753921
+  },
+  {
+    "name": "Nature Fragment",
+    "code": 2706523079
+  },
+  {
+    "name": "Slime Fragment",
+    "code": 2139806065
+  },
+  {
+    "name": "??? Fragment",
+    "code": 100007
+  },
+  {
+    "name": "Undead Fragment",
+    "code": 100008
+  },
+  {
+    "name": "Skip Ticket",
+    "code": 3145650632
+  },
+  {
+    "name": "Gems",
+    "code": 10003
+  },
+  {
+    "name": "Gems",
+    "code": 10002
+  },
+  {
+    "name": "Gold",
+    "code": 10001
+  },
+  {
+    "name": "10 Million Downloads Medal",
+    "code": 40005
+  },
+  {
+    "name": "Arena Medal",
+    "code": 3803217766
+  },
+  {
+    "name": "Spooky Cookie",
+    "code": 40007
+  },
+  {
+    "name": "DQ I Medal",
+    "code": 40001
+  },
+  {
+    "name": "DQ III Medal",
+    "code": 40003
+  },
+  {
+    "name": "DQ IV Medal",
+    "code": 40008
+  },
+  {
+    "name": "Master Medal",
+    "code": 50004
+  },
+  {
+    "name": "Gold Mindini Medal",
+    "code": 4000021083
+  },
+  {
+    "name": "Rainbow Mindini Medal",
+    "code": 1039086975
+  },
+  {
+    "name": "Silver Mindini Medal",
+    "code": 201797602
+  },
+  {
+    "name": "Troll Decoration",
+    "code": 40006
+  },
+  {
+    "name": "Slime Fest Medal",
+    "code": 40004
+  },
+  {
+    "name": "Summer Fest Medal",
+    "code": 40002
+  },
+  {
+    "name": "Mini Medal",
+    "code": 10004
+  },
+  {
+    "name": "Party Member Meeting Ticket A",
+    "code": 3881800031
+  },
+  {
+    "name": "Party Member Meeting Ticket S",
+    "code": 387849400
+  },
+  {
+    "name": "Tact Points",
+    "code": 2467471982
+  },
+  {
+    "name": "Savvy Sapphire",
+    "code": 4020003
+  },
+  {
+    "name": "Equable Emerald",
+    "code": 4020002
+  },
+  {
+    "name": "Illustrious Iris",
+    "code": 4020004
+  },
+  {
+    "name": "Royal Ruby",
+    "code": 4020001
+  },
+  {
+    "name": "Beast Orb",
+    "code": 4140001
+  },
+  {
+    "name": "Demon Orb",
+    "code": 4160001
+  },
+  {
+    "name": "Dragon Orb",
+    "code": 4120001
+  },
+  {
+    "name": "Hero Orb",
+    "code": 4190001
+  },
+  {
+    "name": "Inorganic Orb",
+    "code": 4150001
+  },
+  {
+    "name": "Nature Orb",
+    "code": 4130001
+  },
+  {
+    "name": "Iridescent orb",
+    "code": 4030002
+  },
+  {
+    "name": "Slime Orb",
+    "code": 4110001
+  },
+  {
+    "name": "Mystery Orb",
+    "code": 4180001
+  },
+  {
+    "name": "White orb",
+    "code": 4030001
+  },
+  {
+    "name": "Undead Orb",
+    "code": 4170001
+  },
+  {
+    "name": "Beast Pearl",
+    "code": 4140002
+  },
+  {
+    "name": "Demon Pearl",
+    "code": 4160002
+  },
+  {
+    "name": "Dragon Pearl",
+    "code": 4120002
+  },
+  {
+    "name": "Hero Pearl",
+    "code": 4190002
+  },
+  {
+    "name": "Inorganic Pearl",
+    "code": 4150002
+  },
+  {
+    "name": "Nature Pearl",
+    "code": 4130002
+  },
+  {
+    "name": "Slime Pearl",
+    "code": 4110002
+  },
+  {
+    "name": "Mystery Pearl",
+    "code": 4180002
+  },
+  {
+    "name": "Undead Pearl",
+    "code": 4170002
+  },
+  {
+    "name": "Blue Stone",
+    "code": 4010003
+  },
+  {
+    "name": "Green Stone",
+    "code": 4010002
+  },
+  {
+    "name": "Red Stone",
+    "code": 4010001
+  },
+  {
+    "name": "White Stone",
+    "code": 4010004
+  },
+  {
+    "name": "Guaranteed S 10 Million Downloads SP Scout Voucher",
+    "code": 20009
+  },
+  {
+    "name": "Dragonlord Scout Voucher",
+    "code": 20002
+  },
+  {
+    "name": "Dragonlord's True Form Vo.",
+    "code": 20003
+  },
+  {
+    "name": "Dread Dragon Scout Voucher",
+    "code": 20004
+  },
+  {
+    "name": "Party Animal J. Voucher",
+    "code": 20005
+  },
+  {
+    "name": "Baramos SP Scout Voucher",
+    "code": 20006
+  },
+  {
+    "name": "Zoma SP Scout Voucher",
+    "code": 20008
+  },
+  {
+    "name": "Queen Slime SP Scout Voucher",
+    "code": 2877825795
+  },
+  {
+    "name": "Slionheart SP Scout Voucher",
+    "code": 1572885482
+  },
+  {
+    "name": "Alena SP Scout Voucher",
+    "code": 20011
+  },
+  {
+    "name": "Killing Machine Voucher",
+    "code": 2020976462
+  },
+  {
+    "name": "Spooky Valencia SP Scout Voucher",
+    "code": 20010
+  },
+  {
+    "name": "S-Rank Scout Voucher",
+    "code": 79241941
+  },
+  {
+    "name": "Regular SP Scout Voucher",
+    "code": 351355001
+  },
+  {
+    "name": "Stamina Herb",
+    "code": 3844975519
+  },
+  {
+    "name": "Axe Alchemy Stone A",
+    "code": 178720398
+  },
+  {
+    "name": "Axe Alchemy Stone B",
+    "code": 500964045
+  },
+  {
+    "name": "Axe Alchemy Stone C",
+    "code": 1213558169
+  },
+  {
+    "name": "Axe Alchemy Stone D",
+    "code": 3760762921
+  },
+  {
+    "name": "Axe Alchemy Stone S",
+    "code": 3281406253
+  },
+  {
+    "name": "Claw Alchemy Stone A",
+    "code": 1598602101
+  },
+  {
+    "name": "Claw Alchemy Stone B",
+    "code": 1211346742
+  },
+  {
+    "name": "Claw Alchemy Stone C",
+    "code": 743621375
+  },
+  {
+    "name": "Claw Alchemy Stone D",
+    "code": 2042459908
+  },
+  {
+    "name": "Claw Alchemy Stone S",
+    "code": 1724221360
+  },
+  {
+    "name": "Dagger Alchemy Stone A",
+    "code": 3115870502
+  },
+  {
+    "name": "Dagger Alchemy Stone B",
+    "code": 2932047205
+  },
+  {
+    "name": "Dagger Alchemy Stone C",
+    "code": 3399618732
+  },
+  {
+    "name": "Dagger Alchemy Stone D",
+    "code": 3813993345
+  },
+  {
+    "name": "Dagger Alchemy Stone S",
+    "code": 2150979043
+  },
+  {
+    "name": "Sword Alchemy Stone A",
+    "code": 2409776887
+  },
+  {
+    "name": "Sword Alchemy Stone B",
+    "code": 2564379316
+  },
+  {
+    "name": "Sword Alchemy Stone C",
+    "code": 4239933309
+  },
+  {
+    "name": "Sword Alchemy Stone D",
+    "code": 1387163655
+  },
+  {
+    "name": "Sword Alchemy Stone S",
+    "code": 3056564786
+  },
+  {
+    "name": "Staff Alchemy Stone A",
+    "code": 586831303
+  },
+  {
+    "name": "Staff Alchemy Stone B",
+    "code": 897663364
+  },
+  {
+    "name": "Staff Alchemy Stone C",
+    "code": 1373645901
+  },
+  {
+    "name": "Staff Alchemy Stone D",
+    "code": 3220227263
+  },
+  {
+    "name": "Staff Alchemy Stone S",
+    "code": 460810498
+  },
+  {
+    "name": "Omni Alchemy Stone A",
+    "code": 2879279573
+  },
+  {
+    "name": "Omni Alchemy Stone B",
+    "code": 3169142166
+  },
+  {
+    "name": "Omni Alchemy Stone C",
+    "code": 3632539743
+  },
+  {
+    "name": "Omni Alchemy Stone D",
+    "code": 977399084
+  },
+  {
+    "name": "Omni Alchemy Stone S",
+    "code": 2450746640
+  },
+  {
+    "name": "Hellion Crystal",
+    "code": 11140003
+  },
+  {
+    "name": "Striking Sabrecat Crystal",
+    "code": 11140004
+  },
+  {
+    "name": "Prism Peacock Crystal",
+    "code": 11140001
+  },
+  {
+    "name": "Night Clubber Crystal",
+    "code": 11140002
+  },
+  {
+    "name": "Party Animal Juliante Crystal",
+    "code": 3996766384
+  },
+  {
+    "name": "Wrecktor Crystal",
+    "code": 11160003
+  },
+  {
+    "name": "Moosifer Crystal",
+    "code": 11160004
+  },
+  {
+    "name": "Archdemon Crystal",
+    "code": 11160001
+  },
+  {
+    "name": "Boss Troll Crystal",
+    "code": 1806299415
+  },
+  {
+    "name": "Gigantes Crystal",
+    "code": 11160007
+  },
+  {
+    "name": "Silvapithecus Crystal",
+    "code": 11160005
+  },
+  {
+    "name": "Knight Abhorrent Crystal",
+    "code": 11160006
+  },
+  {
+    "name": "Spooky Valencia Crystal",
+    "code": 1032636010
+  },
+  {
+    "name": "Troll Crystal",
+    "code": 1260886832
+  },
+  {
+    "name": "Great Troll Crystal",
+    "code": 11160002
+  },
+  {
+    "name": "Axesaurus Crystal",
+    "code": 11120006
+  },
+  {
+    "name": "Dread Dragon Crystal",
+    "code": 11120001
+  },
+  {
+    "name": "Green Dragon Crystal",
+    "code": 11120004
+  },
+  {
+    "name": "Wyrtoise Crystal",
+    "code": 11120005
+  },
+  {
+    "name": "Great Dragon Crystal",
+    "code": 11120002
+  },
+  {
+    "name": "Royal Reptile Crystal",
+    "code": 11120003
+  },
+  {
+    "name": "Boreal Serpent Crystal",
+    "code": 11180006
+  },
+  {
+    "name": "Alena Crystal",
+    "code": 1391362551
+  },
+  {
+    "name": "Ragnar Crystal",
+    "code": 2900880725
+  },
+  {
+    "name": "Lethal Armour Crystal",
+    "code": 11150003
+  },
+  {
+    "name": "Killing Machine Crystal",
+    "code": 11150001
+  },
+  {
+    "name": "Metal Dragon Crystal",
+    "code": 11150002
+  },
+  {
+    "name": "Living Statue Crystal",
+    "code": 11150004
+  },
+  {
+    "name": "Devilmoth Crystal",
+    "code": 11130003
+  },
+  {
+    "name": "Handsome Crab Crystal",
+    "code": 11130004
+  },
+  {
+    "name": "Hybird Crystal",
+    "code": 11130001
+  },
+  {
+    "name": "Armoured Scorpion Crystal",
+    "code": 106938224
+  },
+  {
+    "name": "Cosmic Chimaera Crystal",
+    "code": 11130005
+  },
+  {
+    "name": "Squidzilla Crystal",
+    "code": 11130002
+  },
+  {
+    "name": "King She-Slime Crystal",
+    "code": 11110001
+  },
+  {
+    "name": "Slionheart Crystal",
+    "code": 2613448427
+  },
+  {
+    "name": "Lime Slime Crystal",
+    "code": 3331775656
+  },
+  {
+    "name": "Slimeshroom Crystal",
+    "code": 11110003
+  },
+  {
+    "name": "Queen Slime Crystal",
+    "code": 2078557154
+  },
+  {
+    "name": "Dragon Slime Crystal",
+    "code": 2248775172
+  },
+  {
+    "name": "Emperor Slime Crystal",
+    "code": 11110002
+  },
+  {
+    "name": "Slimecicle Crystal",
+    "code": 11110004
+  },
+  {
+    "name": "Baramos Crystal",
+    "code": 11180003
+  },
+  {
+    "name": "Dragonlord Crystal",
+    "code": 11180001
+  },
+  {
+    "name": "Dragonlord's True Form Crystal",
+    "code": 11180002
+  },
+  {
+    "name": "Zoma Crystal",
+    "code": 11180005
+  },
+  {
+    "name": "Dragon Zombie Crystal",
+    "code": 11170003
+  },
+  {
+    "name": "Hell Gladiator Crystal",
+    "code": 11170001
+  },
+  {
+    "name": "Dark Skeleton Crystal",
+    "code": 11170004
+  },
+  {
+    "name": "Tortured Soul Crystal",
+    "code": 1636734243
+  },
+  {
+    "name": "Bone Baron Crystal",
+    "code": 11170005
+  },
+  {
+    "name": "Wight King Crystal",
+    "code": 11170002
+  }
+]

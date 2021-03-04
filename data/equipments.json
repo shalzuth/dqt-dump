@@ -1,0 +1,350 @@
+[
+  {
+    "name": "Silver Tiara",
+    "code": 205001
+  },
+  {
+    "name": "Iron Mask",
+    "code": 203001
+  },
+  {
+    "name": "Silk Robe",
+    "code": 204002
+  },
+  {
+    "name": "Cloak of Evasion",
+    "code": 204003
+  },
+  {
+    "name": "Wayfarer's Clothes",
+    "code": 204001
+  },
+  {
+    "name": "Steel Armour",
+    "code": 201001
+  },
+  {
+    "name": "Battle-Axe",
+    "code": 101015
+  },
+  {
+    "name": "Demon Axe",
+    "code": 101011
+  },
+  {
+    "name": "Copper Axe",
+    "code": 101001
+  },
+  {
+    "name": "Great Axe",
+    "code": 101013
+  },
+  {
+    "name": "Steel Axe",
+    "code": 101006
+  },
+  {
+    "name": "Flail of Destruction",
+    "code": 101019
+  },
+  {
+    "name": "Overlord's Axe",
+    "code": 101012
+  },
+  {
+    "name": "Horde Hammer",
+    "code": 101010
+  },
+  {
+    "name": "King Axe",
+    "code": 101016
+  },
+  {
+    "name": "Oaken Club",
+    "code": 101002
+  },
+  {
+    "name": "Headsman's Axe",
+    "code": 101017
+  },
+  {
+    "name": "Festevil Fan",
+    "code": 101018
+  },
+  {
+    "name": "Bronze Axe",
+    "code": 101004
+  },
+  {
+    "name": "Iron Club",
+    "code": 101003
+  },
+  {
+    "name": "Iron Axe",
+    "code": 101005
+  },
+  {
+    "name": "War Hammer",
+    "code": 101008
+  },
+  {
+    "name": "Rammer Hammer",
+    "code": 101009
+  },
+  {
+    "name": "Copper Claws",
+    "code": 103001
+  },
+  {
+    "name": "Fire Claws",
+    "code": 103011
+  },
+  {
+    "name": "Stone Claws",
+    "code": 103002
+  },
+  {
+    "name": "Jaguar Claws",
+    "code": 103008
+  },
+  {
+    "name": "Infernails",
+    "code": 103006
+  },
+  {
+    "name": "Sacred Claws",
+    "code": 103003
+  },
+  {
+    "name": "Kestrel Claws",
+    "code": 103010
+  },
+  {
+    "name": "Golden Claws",
+    "code": 103012
+  },
+  {
+    "name": "Bronze Claws",
+    "code": 103004
+  },
+  {
+    "name": "Silver Claws",
+    "code": 103007
+  },
+  {
+    "name": "Conifer Claws",
+    "code": 103009
+  },
+  {
+    "name": "Iron Claws",
+    "code": 103005
+  },
+  {
+    "name": "Assassin's Dagger",
+    "code": 102005
+  },
+  {
+    "name": "Bloodletter",
+    "code": 102004
+  },
+  {
+    "name": "Bronze Knife",
+    "code": 102001
+  },
+  {
+    "name": "Devil Knife",
+    "code": 102042
+  },
+  {
+    "name": "Eagle Dagger",
+    "code": 102007
+  },
+  {
+    "name": "Silver Dagger",
+    "code": 102008
+  },
+  {
+    "name": "Doom Dagger",
+    "code": 102078
+  },
+  {
+    "name": "Falcon Knife Earrings",
+    "code": 102079
+  },
+  {
+    "name": "Imp Knife",
+    "code": 102010
+  },
+  {
+    "name": "Icicle Dirk",
+    "code": 102011
+  },
+  {
+    "name": "Divine Dagger",
+    "code": 102006
+  },
+  {
+    "name": "Slime Dagger",
+    "code": 102009
+  },
+  {
+    "name": "Deadly Nightblade",
+    "code": 102002
+  },
+  {
+    "name": "Copper Sword",
+    "code": 104002
+  },
+  {
+    "name": "Silver Rapier",
+    "code": 104008
+  },
+  {
+    "name": "Steel Broadsword",
+    "code": 104007
+  },
+  {
+    "name": "Liquid Metal Slime Sword",
+    "code": 104021
+  },
+  {
+    "name": "Heavy Blade",
+    "code": 104010
+  },
+  {
+    "name": "Cypress Stick",
+    "code": 104001
+  },
+  {
+    "name": "Fire Blade",
+    "code": 104017
+  },
+  {
+    "name": "Blizzard Blade",
+    "code": 104015
+  },
+  {
+    "name": "Undying Sword",
+    "code": 104012
+  },
+  {
+    "name": "Foliage Foil",
+    "code": 104011
+  },
+  {
+    "name": "Beastly Blade",
+    "code": 104088
+  },
+  {
+    "name": "Lollipop",
+    "code": 104089
+  },
+  {
+    "name": "Platinum Sword",
+    "code": 104018
+  },
+  {
+    "name": "Sunderbolt Blade",
+    "code": 104014
+  },
+  {
+    "name": "Rapier",
+    "code": 104003
+  },
+  {
+    "name": "Dragonfang Sword",
+    "code": 104009
+  },
+  {
+    "name": "Bronze Sword",
+    "code": 104005
+  },
+  {
+    "name": "Slime Saber",
+    "code": 104022
+  },
+  {
+    "name": "Iron Broadsword",
+    "code": 104004
+  },
+  {
+    "name": "Hell Sabre",
+    "code": 104013
+  },
+  {
+    "name": "Staff of Rain",
+    "code": 105006
+  },
+  {
+    "name": "Celestial Sceptre",
+    "code": 105007
+  },
+  {
+    "name": "Devil Wand",
+    "code": 105010
+  },
+  {
+    "name": "Skull Staff",
+    "code": 105009
+  },
+  {
+    "name": "Thunder Staff",
+    "code": 105016
+  },
+  {
+    "name": "Oak Staff",
+    "code": 105001
+  },
+  {
+    "name": "Sage's Staff",
+    "code": 105014
+  },
+  {
+    "name": "Wizard's Staff",
+    "code": 105002
+  },
+  {
+    "name": "Magma Staff",
+    "code": 105013
+  },
+  {
+    "name": "Pumpkin Parasol",
+    "code": 105019
+  },
+  {
+    "name": "Lightning Conductor",
+    "code": 105012
+  },
+  {
+    "name": "Rune Staff",
+    "code": 105004
+  },
+  {
+    "name": "Dragonlord's Staff",
+    "code": 105017
+  },
+  {
+    "name": "Staff of Sentencing",
+    "code": 105008
+  },
+  {
+    "name": "Slime Wand",
+    "code": 105011
+  },
+  {
+    "name": "Staff of Divine Wrath",
+    "code": 105015
+  },
+  {
+    "name": "Watermaul Wand",
+    "code": 105005
+  },
+  {
+    "name": "Grilled Corn",
+    "code": 105018
+  },
+  {
+    "name": "Faerie Staff",
+    "code": 105003
+  }
+]

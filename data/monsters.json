@@ -1,0 +1,786 @@
+[
+  {
+    "name": "Leery Lantern",
+    "code": 16003201
+  },
+  {
+    "name": "Spooky Valencia",
+    "code": 16003101
+  },
+  {
+    "name": "Foo Dog",
+    "code": 140035
+  },
+  {
+    "name": "Bullfinch",
+    "code": 140008
+  },
+  {
+    "name": "Spiked Hare",
+    "code": 140030
+  },
+  {
+    "name": "Hellion",
+    "code": 140019
+  },
+  {
+    "name": "Great Sabrecub",
+    "code": 140010
+  },
+  {
+    "name": "Tigercub",
+    "code": 140025
+  },
+  {
+    "name": "Brownie",
+    "code": 140009
+  },
+  {
+    "name": "Buffalo Wing",
+    "code": 140026
+  },
+  {
+    "name": "Pruslas",
+    "code": 140032
+  },
+  {
+    "name": "Orc Chieftain",
+    "code": 140016
+  },
+  {
+    "name": "Bunicorn",
+    "code": 140002
+  },
+  {
+    "name": "Mischievous Mole",
+    "code": 140004
+  },
+  {
+    "name": "Clawcerer",
+    "code": 140011
+  },
+  {
+    "name": "Tearwolf",
+    "code": 140029
+  },
+  {
+    "name": "Great Sabrecat",
+    "code": 140017
+  },
+  {
+    "name": "Mad Mole",
+    "code": 140022
+  },
+  {
+    "name": "Striking Sabrecat",
+    "code": 140028
+  },
+  {
+    "name": "Bewarewolf",
+    "code": 140013
+  },
+  {
+    "name": "Scarewolf",
+    "code": 140027
+  },
+  {
+    "name": "Crack-billed Platypunk",
+    "code": 140012
+  },
+  {
+    "name": "Platypunk",
+    "code": 140001
+  },
+  {
+    "name": "Meowgician",
+    "code": 140006
+  },
+  {
+    "name": "Prism Peacock",
+    "code": 140021
+  },
+  {
+    "name": "Night Clubber",
+    "code": 140020
+  },
+  {
+    "name": "Hammerhood",
+    "code": 140005
+  },
+  {
+    "name": "Orc",
+    "code": 140014
+  },
+  {
+    "name": "Jailcat",
+    "code": 140007
+  },
+  {
+    "name": "Abracadabrador",
+    "code": 140034
+  },
+  {
+    "name": "Party Animal Juliante",
+    "code": 140031
+  },
+  {
+    "name": "Candy Cat",
+    "code": 140003
+  },
+  {
+    "name": "Tuskateer",
+    "code": 140015
+  },
+  {
+    "name": "Knight Aberrant",
+    "code": 160025
+  },
+  {
+    "name": "Wrecktor",
+    "code": 160018
+  },
+  {
+    "name": "Moosifer",
+    "code": 160014
+  },
+  {
+    "name": "Archdemon",
+    "code": 160016
+  },
+  {
+    "name": "Imp",
+    "code": 160009
+  },
+  {
+    "name": "Beleth",
+    "code": 160008
+  },
+  {
+    "name": "Boss Troll",
+    "code": 160030
+  },
+  {
+    "name": "Bodkin Fletcher",
+    "code": 160022
+  },
+  {
+    "name": "Dracky",
+    "code": 160001
+  },
+  {
+    "name": "Drackyma",
+    "code": 160006
+  },
+  {
+    "name": "Aamon",
+    "code": 160034
+  },
+  {
+    "name": "Gigantes",
+    "code": 160017
+  },
+  {
+    "name": "Barbatos",
+    "code": 160033
+  },
+  {
+    "name": "Lump Shaman",
+    "code": 160027
+  },
+  {
+    "name": "Bodkin Archer",
+    "code": 160003
+  },
+  {
+    "name": "Drackolyte",
+    "code": 160007
+  },
+  {
+    "name": "Raving Lunatick",
+    "code": 160024
+  },
+  {
+    "name": "Minidemon",
+    "code": 160010
+  },
+  {
+    "name": "Teeny Sanguini",
+    "code": 160002
+  },
+  {
+    "name": "Leery Lantern",
+    "code": 160032
+  },
+  {
+    "name": "Winky",
+    "code": 160037
+  },
+  {
+    "name": "Leery Lout",
+    "code": 160005
+  },
+  {
+    "name": "Silvapithecus",
+    "code": 160013
+  },
+  {
+    "name": "Knight Abhorrent",
+    "code": 160021
+  },
+  {
+    "name": "Peeper",
+    "code": 160036
+  },
+  {
+    "name": "Drackmage",
+    "code": 160004
+  },
+  {
+    "name": "Spooky Valencia",
+    "code": 160031
+  },
+  {
+    "name": "Troll",
+    "code": 160015
+  },
+  {
+    "name": "Great Troll",
+    "code": 160023
+  },
+  {
+    "name": "Knight Errant",
+    "code": 160020
+  },
+  {
+    "name": "Grim Keeper",
+    "code": 160012
+  },
+  {
+    "name": "Whackolyte",
+    "code": 160011
+  },
+  {
+    "name": "Rashaverak",
+    "code": 120020
+  },
+  {
+    "name": "Axesaurus",
+    "code": 120004
+  },
+  {
+    "name": "Salamander Fry",
+    "code": 120014
+  },
+  {
+    "name": "Hacksaurus",
+    "code": 120005
+  },
+  {
+    "name": "Dread Dragon",
+    "code": 120012
+  },
+  {
+    "name": "Jargon",
+    "code": 120001
+  },
+  {
+    "name": "Green Dragon",
+    "code": 120008
+  },
+  {
+    "name": "Dragurn",
+    "code": 120006
+  },
+  {
+    "name": "Wyrtle",
+    "code": 120019
+  },
+  {
+    "name": "Wyrtoise",
+    "code": 120013
+  },
+  {
+    "name": "Great Dragon",
+    "code": 120009
+  },
+  {
+    "name": "Royal Reptile",
+    "code": 120010
+  },
+  {
+    "name": "Mandrake Major",
+    "code": 120002
+  },
+  {
+    "name": "Mandrake Mercenary",
+    "code": 120003
+  },
+  {
+    "name": "Wharfhorse",
+    "code": 120011
+  },
+  {
+    "name": "Ethereal Serpent",
+    "code": 120018
+  },
+  {
+    "name": "Boreal Serpent",
+    "code": 120017
+  },
+  {
+    "name": "Orochi",
+    "code": 120016
+  },
+  {
+    "name": "Alena",
+    "code": 190001
+  },
+  {
+    "name": "Ragnar",
+    "code": 190003
+  },
+  {
+    "name": "Mud Mannequin",
+    "code": 150015
+  },
+  {
+    "name": "Dancing Flame",
+    "code": 150004
+  },
+  {
+    "name": "Freezing Fog",
+    "code": 150025
+  },
+  {
+    "name": "Gold Golem",
+    "code": 150008
+  },
+  {
+    "name": "Golem",
+    "code": 150005
+  },
+  {
+    "name": "Hell Niño",
+    "code": 150016
+  },
+  {
+    "name": "Cannibox",
+    "code": 150002
+  },
+  {
+    "name": "Silhouette",
+    "code": 150024
+  },
+  {
+    "name": "Lethal Armour",
+    "code": 150022
+  },
+  {
+    "name": "Killing Machine",
+    "code": 150013
+  },
+  {
+    "name": "Killing Machine Light",
+    "code": 150009
+  },
+  {
+    "name": "Umbra",
+    "code": 150023
+  },
+  {
+    "name": "Metal Dragon",
+    "code": 150021
+  },
+  {
+    "name": "Hunter Mech",
+    "code": 150017
+  },
+  {
+    "name": "Mecha-Mynah",
+    "code": 150001
+  },
+  {
+    "name": "Muddy Hand",
+    "code": 150018
+  },
+  {
+    "name": "Wax Murderer",
+    "code": 150027
+  },
+  {
+    "name": "Goodybag",
+    "code": 150007
+  },
+  {
+    "name": "Restless Armour",
+    "code": 150010
+  },
+  {
+    "name": "Shadow",
+    "code": 150019
+  },
+  {
+    "name": "Arrghgoyle",
+    "code": 150014
+  },
+  {
+    "name": "Stone Golem",
+    "code": 150012
+  },
+  {
+    "name": "Bag o' Sweets",
+    "code": 150026
+  },
+  {
+    "name": "Bad Karmour",
+    "code": 150020
+  },
+  {
+    "name": "Living Statue",
+    "code": 150011
+  },
+  {
+    "name": "Bag o' Laughs",
+    "code": 150003
+  },
+  {
+    "name": "Chimaera",
+    "code": 130007
+  },
+  {
+    "name": "Devilmoth",
+    "code": 130015
+  },
+  {
+    "name": "Handsome Crab",
+    "code": 130013
+  },
+  {
+    "name": "Gargoyle",
+    "code": 130011
+  },
+  {
+    "name": "Crabid",
+    "code": 130008
+  },
+  {
+    "name": "Hawk Man",
+    "code": 130006
+  },
+  {
+    "name": "Hades Condor",
+    "code": 130010
+  },
+  {
+    "name": "Carnivine",
+    "code": 130003
+  },
+  {
+    "name": "Grillerpillar",
+    "code": 130020
+  },
+  {
+    "name": "Stump Chump",
+    "code": 130002
+  },
+  {
+    "name": "Lips",
+    "code": 130004
+  },
+  {
+    "name": "Hocus Chimaera",
+    "code": 130012
+  },
+  {
+    "name": "Mushroom Mage",
+    "code": 130017
+  },
+  {
+    "name": "Funghoul",
+    "code": 130005
+  },
+  {
+    "name": "Stark Raven",
+    "code": 130021
+  },
+  {
+    "name": "Hybird",
+    "code": 130018
+  },
+  {
+    "name": "Cactiball",
+    "code": 130001
+  },
+  {
+    "name": "Armoured Scorpion",
+    "code": 130022
+  },
+  {
+    "name": "Cosmic Chimaera",
+    "code": 130014
+  },
+  {
+    "name": "Squidzilla",
+    "code": 130016
+  },
+  {
+    "name": "Crabber Dabber Doo",
+    "code": 130019
+  },
+  {
+    "name": "Treeface",
+    "code": 130009
+  },
+  {
+    "name": "Angel Slime",
+    "code": 110014
+  },
+  {
+    "name": "Medislime",
+    "code": 110007
+  },
+  {
+    "name": "King She-Slime",
+    "code": 110018
+  },
+  {
+    "name": "King Bubble Slime",
+    "code": 110026
+  },
+  {
+    "name": "Bubble Slime",
+    "code": 110004
+  },
+  {
+    "name": "Drake Slime",
+    "code": 110028
+  },
+  {
+    "name": "Slionheart",
+    "code": 110022
+  },
+  {
+    "name": "Liquid Metal Slime",
+    "code": 110011
+  },
+  {
+    "name": "Healslime",
+    "code": 110002
+  },
+  {
+    "name": "King Slime",
+    "code": 110012
+  },
+  {
+    "name": "Lemon Slime",
+    "code": 110020
+  },
+  {
+    "name": "Lime Slime",
+    "code": 110025
+  },
+  {
+    "name": "Seaslime",
+    "code": 110021
+  },
+  {
+    "name": "Metal Slime Knight",
+    "code": 110009
+  },
+  {
+    "name": "Metal Slime",
+    "code": 110005
+  },
+  {
+    "name": "Slimeshroom",
+    "code": 110019
+  },
+  {
+    "name": "Pickled Slime",
+    "code": 110027
+  },
+  {
+    "name": "Queen Slime",
+    "code": 110023
+  },
+  {
+    "name": "Man o' War",
+    "code": 110015
+  },
+  {
+    "name": "Slime",
+    "code": 110001
+  },
+  {
+    "name": "She-Slime",
+    "code": 110003
+  },
+  {
+    "name": "Cyber Slime",
+    "code": 110010
+  },
+  {
+    "name": "Dragon Slime",
+    "code": 110024
+  },
+  {
+    "name": "Emperor Slime",
+    "code": 110016
+  },
+  {
+    "name": "Slime Knight",
+    "code": 110008
+  },
+  {
+    "name": "Slime Knight",
+    "code": 110999
+  },
+  {
+    "name": "Shell Slime",
+    "code": 110006
+  },
+  {
+    "name": "Slimecicle",
+    "code": 110017
+  },
+  {
+    "name": "Baramos",
+    "code": 180007
+  },
+  {
+    "name": "Psaro the Manslayer",
+    "code": 180008
+  },
+  {
+    "name": "Robbin' 'Ood",
+    "code": 180002
+  },
+  {
+    "name": "Robbin' 'Oodlum",
+    "code": 180001
+  },
+  {
+    "name": "Dragonlord",
+    "code": 180003
+  },
+  {
+    "name": "Dragonlord's True Form",
+    "code": 180006
+  },
+  {
+    "name": "Zoma",
+    "code": 180005
+  },
+  {
+    "name": "Bones of Baramos",
+    "code": 170023
+  },
+  {
+    "name": "Phantom Fencer",
+    "code": 170006
+  },
+  {
+    "name": "Drohl Drone",
+    "code": 170018
+  },
+  {
+    "name": "Dragon Zombie",
+    "code": 170015
+  },
+  {
+    "name": "Skeleton",
+    "code": 170002
+  },
+  {
+    "name": "Ghost",
+    "code": 170001
+  },
+  {
+    "name": "Hell Gladiator",
+    "code": 170016
+  },
+  {
+    "name": "Dark Skeleton",
+    "code": 170017
+  },
+  {
+    "name": "Walking Corpse",
+    "code": 170005
+  },
+  {
+    "name": "Corpse Corporal",
+    "code": 170003
+  },
+  {
+    "name": "Firespirit",
+    "code": 170011
+  },
+  {
+    "name": "Fightgeist",
+    "code": 170012
+  },
+  {
+    "name": "Mummy Boy",
+    "code": 170004
+  },
+  {
+    "name": "Mummy",
+    "code": 170021
+  },
+  {
+    "name": "Tortured Soul",
+    "code": 170009
+  },
+  {
+    "name": "Bone Baron",
+    "code": 170008
+  },
+  {
+    "name": "Skeleton Soldier",
+    "code": 170010
+  },
+  {
+    "name": "Drooling Ghoul",
+    "code": 170013
+  },
+  {
+    "name": "Skelegon",
+    "code": 170007
+  },
+  {
+    "name": "Lickspittle",
+    "code": 170014
+  },
+  {
+    "name": "Wight King",
+    "code": 170019
+  },
+  {
+    "name": "Vendor Ghost",
+    "code": 170022
+  },
+  {
+    "name": "Armful",
+    "code": 170020
+  },
+  {
+    "name": "Ramming Rosie",
+    "code": 800002
+  },
+  {
+    "name": "Glowering Griff",
+    "code": 800003
+  },
+  {
+    "name": "Drubbing Drake",
+    "code": 800005
+  },
+  {
+    "name": "Shellacking Sheila",
+    "code": 800004
+  },
+  {
+    "name": "Armful (Father)",
+    "code": 800001
+  }
+]
