@@ -1,0 +1,3514 @@
+{
+  "stages": [
+    {
+      "name": "Tutorial",
+      "code": 5000101,
+      "stamina": 0
+    },
+    {
+      "name": "Great Sabrecub Road 1",
+      "code": 4000501,
+      "stamina": 0
+    },
+    {
+      "name": "Great Sabrecub Road 2",
+      "code": 4000502,
+      "stamina": 0
+    },
+    {
+      "name": "Great Sabrecub Road 3",
+      "code": 4000503,
+      "stamina": 0
+    },
+    {
+      "name": "Great Sabrecub Road 4",
+      "code": 4000504,
+      "stamina": 0
+    },
+    {
+      "name": "Great Sabrecub Road 5",
+      "code": 4000505,
+      "stamina": 0
+    },
+    {
+      "name": "Great Sabrecub Road 6",
+      "code": 4000506,
+      "stamina": 0
+    },
+    {
+      "name": "Great Sabrecub Road 7",
+      "code": 4000507,
+      "stamina": 0
+    },
+    {
+      "name": "Imp Road 1",
+      "code": 4001501,
+      "stamina": 0
+    },
+    {
+      "name": "Imp Road 2",
+      "code": 4001502,
+      "stamina": 0
+    },
+    {
+      "name": "Imp Road 3",
+      "code": 4001503,
+      "stamina": 0
+    },
+    {
+      "name": "Imp Road 4",
+      "code": 4001504,
+      "stamina": 0
+    },
+    {
+      "name": "Imp Road 5",
+      "code": 4001505,
+      "stamina": 0
+    },
+    {
+      "name": "Imp Road 6",
+      "code": 4001506,
+      "stamina": 0
+    },
+    {
+      "name": "Imp Road 7",
+      "code": 4001507,
+      "stamina": 0
+    },
+    {
+      "name": "Brownie Road 1",
+      "code": 4000601,
+      "stamina": 0
+    },
+    {
+      "name": "Brownie Road 2",
+      "code": 4000602,
+      "stamina": 0
+    },
+    {
+      "name": "Brownie Road 3",
+      "code": 4000603,
+      "stamina": 0
+    },
+    {
+      "name": "Brownie Road 4",
+      "code": 4000604,
+      "stamina": 0
+    },
+    {
+      "name": "Brownie Road 5",
+      "code": 4000605,
+      "stamina": 0
+    },
+    {
+      "name": "Brownie Road 6",
+      "code": 4000606,
+      "stamina": 0
+    },
+    {
+      "name": "Brownie Road 7",
+      "code": 4000607,
+      "stamina": 0
+    },
+    {
+      "name": "Bubble Slime Road 1",
+      "code": 4001001,
+      "stamina": 0
+    },
+    {
+      "name": "Bubble Slime Road 2",
+      "code": 4001002,
+      "stamina": 0
+    },
+    {
+      "name": "Bubble Slime Road 3",
+      "code": 4001003,
+      "stamina": 0
+    },
+    {
+      "name": "Bubble Slime Road 4",
+      "code": 4001004,
+      "stamina": 0
+    },
+    {
+      "name": "Bubble Slime Road 5",
+      "code": 4001005,
+      "stamina": 0
+    },
+    {
+      "name": "Bubble Slime Road 6",
+      "code": 4001006,
+      "stamina": 0
+    },
+    {
+      "name": "Bubble Slime Road 7",
+      "code": 4001007,
+      "stamina": 0
+    },
+    {
+      "name": "Dracky Road 1",
+      "code": 4000201,
+      "stamina": 0
+    },
+    {
+      "name": "Dracky Road 2",
+      "code": 4000202,
+      "stamina": 0
+    },
+    {
+      "name": "Dracky Road 3",
+      "code": 4000203,
+      "stamina": 0
+    },
+    {
+      "name": "Dracky Road 4",
+      "code": 4000204,
+      "stamina": 0
+    },
+    {
+      "name": "Dracky Road 5",
+      "code": 4000205,
+      "stamina": 0
+    },
+    {
+      "name": "Dracky Road 6",
+      "code": 4000206,
+      "stamina": 0
+    },
+    {
+      "name": "Dracky Road 7",
+      "code": 4000207,
+      "stamina": 0
+    },
+    {
+      "name": "Green Dragon Road 1",
+      "code": 4000801,
+      "stamina": 0
+    },
+    {
+      "name": "Green Dragon Road 2",
+      "code": 4000802,
+      "stamina": 0
+    },
+    {
+      "name": "Green Dragon Road 3",
+      "code": 4000803,
+      "stamina": 0
+    },
+    {
+      "name": "Green Dragon Road 4",
+      "code": 4000804,
+      "stamina": 0
+    },
+    {
+      "name": "Green Dragon Road 5",
+      "code": 4000805,
+      "stamina": 0
+    },
+    {
+      "name": "Green Dragon Road 6",
+      "code": 4000806,
+      "stamina": 0
+    },
+    {
+      "name": "Green Dragon Road 7",
+      "code": 4000807,
+      "stamina": 0
+    },
+    {
+      "name": "Dancing Flame Road 1",
+      "code": 4000901,
+      "stamina": 0
+    },
+    {
+      "name": "Dancing Flame Road 2",
+      "code": 4000902,
+      "stamina": 0
+    },
+    {
+      "name": "Dancing Flame Road 3",
+      "code": 4000903,
+      "stamina": 0
+    },
+    {
+      "name": "Dancing Flame Road 4",
+      "code": 4000904,
+      "stamina": 0
+    },
+    {
+      "name": "Dancing Flame Road 5",
+      "code": 4000905,
+      "stamina": 0
+    },
+    {
+      "name": "Dancing Flame Road 6",
+      "code": 4000906,
+      "stamina": 0
+    },
+    {
+      "name": "Dancing Flame Road 7",
+      "code": 4000907,
+      "stamina": 0
+    },
+    {
+      "name": "Ghost Road 1",
+      "code": 4000301,
+      "stamina": 0
+    },
+    {
+      "name": "Ghost Road 2",
+      "code": 4000302,
+      "stamina": 0
+    },
+    {
+      "name": "Ghost Road 3",
+      "code": 4000303,
+      "stamina": 0
+    },
+    {
+      "name": "Ghost Road 4",
+      "code": 4000304,
+      "stamina": 0
+    },
+    {
+      "name": "Ghost Road 5",
+      "code": 4000305,
+      "stamina": 0
+    },
+    {
+      "name": "Ghost Road 6",
+      "code": 4000306,
+      "stamina": 0
+    },
+    {
+      "name": "Ghost Road 7",
+      "code": 4000307,
+      "stamina": 0
+    },
+    {
+      "name": "Golem Road 1",
+      "code": 4000701,
+      "stamina": 0
+    },
+    {
+      "name": "Golem Road 2",
+      "code": 4000702,
+      "stamina": 0
+    },
+    {
+      "name": "Golem Road 3",
+      "code": 4000703,
+      "stamina": 0
+    },
+    {
+      "name": "Golem Road 4",
+      "code": 4000704,
+      "stamina": 0
+    },
+    {
+      "name": "Golem Road 5",
+      "code": 4000705,
+      "stamina": 0
+    },
+    {
+      "name": "Golem Road 6",
+      "code": 4000706,
+      "stamina": 0
+    },
+    {
+      "name": "Golem Road 7",
+      "code": 4000707,
+      "stamina": 0
+    },
+    {
+      "name": "Crabid Road 1",
+      "code": 4001201,
+      "stamina": 0
+    },
+    {
+      "name": "Crabid Road 2",
+      "code": 4001202,
+      "stamina": 0
+    },
+    {
+      "name": "Crabid Road 3",
+      "code": 4001203,
+      "stamina": 0
+    },
+    {
+      "name": "Crabid Road 4",
+      "code": 4001204,
+      "stamina": 0
+    },
+    {
+      "name": "Crabid Road 5",
+      "code": 4001205,
+      "stamina": 0
+    },
+    {
+      "name": "Crabid Road 6",
+      "code": 4001206,
+      "stamina": 0
+    },
+    {
+      "name": "Crabid Road 7",
+      "code": 4001207,
+      "stamina": 0
+    },
+    {
+      "name": "Stump Chump Road 1",
+      "code": 4000401,
+      "stamina": 0
+    },
+    {
+      "name": "Stump Chump Road 2",
+      "code": 4000402,
+      "stamina": 0
+    },
+    {
+      "name": "Stump Chump Road 3",
+      "code": 4000403,
+      "stamina": 0
+    },
+    {
+      "name": "Stump Chump Road 4",
+      "code": 4000404,
+      "stamina": 0
+    },
+    {
+      "name": "Stump Chump Road 5",
+      "code": 4000405,
+      "stamina": 0
+    },
+    {
+      "name": "Stump Chump Road 6",
+      "code": 4000406,
+      "stamina": 0
+    },
+    {
+      "name": "Stump Chump Road 7",
+      "code": 4000407,
+      "stamina": 0
+    },
+    {
+      "name": "Walking Corpse Road 1",
+      "code": 4001401,
+      "stamina": 0
+    },
+    {
+      "name": "Walking Corpse Road 2",
+      "code": 4001402,
+      "stamina": 0
+    },
+    {
+      "name": "Walking Corpse Road 3",
+      "code": 4001403,
+      "stamina": 0
+    },
+    {
+      "name": "Walking Corpse Road 4",
+      "code": 4001404,
+      "stamina": 0
+    },
+    {
+      "name": "Walking Corpse Road 5",
+      "code": 4001405,
+      "stamina": 0
+    },
+    {
+      "name": "Walking Corpse Road 6",
+      "code": 4001406,
+      "stamina": 0
+    },
+    {
+      "name": "Walking Corpse Road 7",
+      "code": 4001407,
+      "stamina": 0
+    },
+    {
+      "name": "Bewarewolf Road 1",
+      "code": 4001301,
+      "stamina": 0
+    },
+    {
+      "name": "Bewarewolf Road 2",
+      "code": 4001302,
+      "stamina": 0
+    },
+    {
+      "name": "Bewarewolf Road 3",
+      "code": 4001303,
+      "stamina": 0
+    },
+    {
+      "name": "Bewarewolf Road 4",
+      "code": 4001304,
+      "stamina": 0
+    },
+    {
+      "name": "Bewarewolf Road 5",
+      "code": 4001305,
+      "stamina": 0
+    },
+    {
+      "name": "Bewarewolf Road 6",
+      "code": 4001306,
+      "stamina": 0
+    },
+    {
+      "name": "Bewarewolf Road 7",
+      "code": 4001307,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lout Road 1",
+      "code": 4001101,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lout Road 2",
+      "code": 4001102,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lout Road 3",
+      "code": 4001103,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lout Road 4",
+      "code": 4001104,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lout Road 5",
+      "code": 4001105,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lout Road 6",
+      "code": 4001106,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lout Road 7",
+      "code": 4001107,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Knight Road 1",
+      "code": 4000101,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Knight Road 2",
+      "code": 4000102,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Knight Road 3",
+      "code": 4000103,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Knight Road 4",
+      "code": 4000104,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Knight Road 5",
+      "code": 4000105,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Knight Road 6",
+      "code": 4000106,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Knight Road 7",
+      "code": 4000107,
+      "stamina": 0
+    },
+    {
+      "name": "Majellan Road 1",
+      "code": 4000001,
+      "stamina": 0
+    },
+    {
+      "name": "Majellan Road 2",
+      "code": 4000002,
+      "stamina": 0
+    },
+    {
+      "name": "Majellan Road 3",
+      "code": 4000003,
+      "stamina": 0
+    },
+    {
+      "name": "Majellan Road 4",
+      "code": 4000004,
+      "stamina": 0
+    },
+    {
+      "name": "Majellan Road 5",
+      "code": 4000005,
+      "stamina": 0
+    },
+    {
+      "name": "1 Million Downloads Quest",
+      "code": 3900301,
+      "stamina": 0
+    },
+    {
+      "name": "3 Million Downloads Quest",
+      "code": 3900401,
+      "stamina": 0
+    },
+    {
+      "name": "5 Million Downloads Quest",
+      "code": 3900501,
+      "stamina": 0
+    },
+    {
+      "name": "7 Million Downloads Quest",
+      "code": 3900601,
+      "stamina": 0
+    },
+    {
+      "name": "10 Million Downloads Quest",
+      "code": 3900701,
+      "stamina": 0
+    },
+    {
+      "name": "Starting Boost Quest",
+      "code": 3900101,
+      "stamina": 0
+    },
+    {
+      "name": "Top App in Stores Quest",
+      "code": 3900201,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Battle Road 1",
+      "code": 4100101,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Battle Road 2",
+      "code": 4100102,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Battle Road 3",
+      "code": 4100103,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Battle Road 4",
+      "code": 4100104,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Battle Road 5",
+      "code": 4100105,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Battle Road 6",
+      "code": 4100106,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Battle Road 7",
+      "code": 4100107,
+      "stamina": 0
+    },
+    {
+      "name": "Dragonlord & Dragonlord's True Form",
+      "code": 3111101,
+      "stamina": 0
+    },
+    {
+      "name": "Dragonlord & Dragonlord's True Form EX",
+      "code": 3111102,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 1 Episode 1",
+      "code": 3101101,
+      "stamina": 5
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 1 Episode 2",
+      "code": 3101102,
+      "stamina": 5
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 1 Episode 3",
+      "code": 3101103,
+      "stamina": 5
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 1 Episode 4",
+      "code": 3101104,
+      "stamina": 5
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 1 Episode 5",
+      "code": 3101105,
+      "stamina": 10
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 2 Episode 1",
+      "code": 3101111,
+      "stamina": 7
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 2 Episode 2",
+      "code": 3101112,
+      "stamina": 7
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 2 Episode 3",
+      "code": 3101113,
+      "stamina": 7
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 2 Episode 4",
+      "code": 3101114,
+      "stamina": 7
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 2 Episode 5",
+      "code": 3101115,
+      "stamina": 15
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 3 Episode 1",
+      "code": 3101121,
+      "stamina": 9
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 3 Episode 2",
+      "code": 3101122,
+      "stamina": 9
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 3 Episode 3",
+      "code": 3101123,
+      "stamina": 9
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 3 Episode 4",
+      "code": 3101124,
+      "stamina": 9
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 3 Episode 5",
+      "code": 3101125,
+      "stamina": 20
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 4 Episode 1",
+      "code": 3101131,
+      "stamina": 12
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 4 Episode 2",
+      "code": 3101132,
+      "stamina": 12
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 4 Episode 3",
+      "code": 3101133,
+      "stamina": 12
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 4 Episode 4",
+      "code": 3101134,
+      "stamina": 12
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 4 Episode 5",
+      "code": 3101135,
+      "stamina": 12
+    },
+    {
+      "name": "DQ I Event: Hard Chapter 4 Episode 6",
+      "code": 3101136,
+      "stamina": 24
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 1 Episode 1",
+      "code": 3100101,
+      "stamina": 3
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 1 Episode 2",
+      "code": 3100102,
+      "stamina": 3
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 1 Episode 3",
+      "code": 3100103,
+      "stamina": 3
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 1 Episode 4",
+      "code": 3100104,
+      "stamina": 3
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 1 Episode 5",
+      "code": 3100105,
+      "stamina": 6
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 2 Episode 1",
+      "code": 3100111,
+      "stamina": 4
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 2 Episode 2",
+      "code": 3100112,
+      "stamina": 4
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 2 Episode 3",
+      "code": 3100113,
+      "stamina": 4
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 2 Episode 4",
+      "code": 3100114,
+      "stamina": 4
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 2 Episode 5",
+      "code": 3100115,
+      "stamina": 8
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 3 Episode 1",
+      "code": 3100121,
+      "stamina": 5
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 3 Episode 2",
+      "code": 3100122,
+      "stamina": 5
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 3 Episode 3",
+      "code": 3100123,
+      "stamina": 5
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 3 Episode 4",
+      "code": 3100124,
+      "stamina": 5
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 3 Episode 5",
+      "code": 3100125,
+      "stamina": 10
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 4 Episode 1",
+      "code": 3100131,
+      "stamina": 6
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 4 Episode 2",
+      "code": 3100132,
+      "stamina": 6
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 4 Episode 3",
+      "code": 3100133,
+      "stamina": 6
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 4 Episode 4",
+      "code": 3100134,
+      "stamina": 6
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 4 Episode 5",
+      "code": 3100135,
+      "stamina": 6
+    },
+    {
+      "name": "DQ I Event: Normal Chapter 4 Episode 6",
+      "code": 3100136,
+      "stamina": 12
+    },
+    {
+      "name": "DQ I Boss Battle: Green Dragon",
+      "code": 3110101,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Boss Battle: Golem",
+      "code": 3110102,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Boss Battle: Dragonlord",
+      "code": 3110103,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Boss Battle: Dragonlord's True Form",
+      "code": 3110104,
+      "stamina": 0
+    },
+    {
+      "name": "DQ I Boss Battle: EX Dragonlord's True Form",
+      "code": 3110105,
+      "stamina": 0
+    },
+    {
+      "name": "Skelegon Road 1",
+      "code": 4120201,
+      "stamina": 0
+    },
+    {
+      "name": "Skelegon Road 2",
+      "code": 4120202,
+      "stamina": 0
+    },
+    {
+      "name": "Skelegon Road 3",
+      "code": 4120203,
+      "stamina": 0
+    },
+    {
+      "name": "Skelegon Road 4",
+      "code": 4120204,
+      "stamina": 0
+    },
+    {
+      "name": "Skelegon Road 5",
+      "code": 4120205,
+      "stamina": 0
+    },
+    {
+      "name": "Skelegon Road 6",
+      "code": 4120206,
+      "stamina": 0
+    },
+    {
+      "name": "Skelegon Road 7",
+      "code": 4120207,
+      "stamina": 0
+    },
+    {
+      "name": "Armful Road 1",
+      "code": 4120101,
+      "stamina": 0
+    },
+    {
+      "name": "Armful Road 2",
+      "code": 4120102,
+      "stamina": 0
+    },
+    {
+      "name": "Armful Road 3",
+      "code": 4120103,
+      "stamina": 0
+    },
+    {
+      "name": "Armful Road 4",
+      "code": 4120104,
+      "stamina": 0
+    },
+    {
+      "name": "Armful Road 5",
+      "code": 4120105,
+      "stamina": 0
+    },
+    {
+      "name": "Armful Road 6",
+      "code": 4120106,
+      "stamina": 0
+    },
+    {
+      "name": "Armful Road 7",
+      "code": 4120107,
+      "stamina": 0
+    },
+    {
+      "name": "The Pyramid's Treasure: Episode 1",
+      "code": 3124101,
+      "stamina": 0
+    },
+    {
+      "name": "The Pyramid's Treasure: Episode 2",
+      "code": 3124102,
+      "stamina": 0
+    },
+    {
+      "name": "The Pyramid's Treasure: Episode 3",
+      "code": 3124103,
+      "stamina": 0
+    },
+    {
+      "name": "The Pyramid's Treasure: Episode 4",
+      "code": 3124104,
+      "stamina": 0
+    },
+    {
+      "name": "The Pyramid's Treasure: Episode 5",
+      "code": 3124105,
+      "stamina": 0
+    },
+    {
+      "name": "EX The Pyramid's Treasure: Episode 1",
+      "code": 3124201,
+      "stamina": 0
+    },
+    {
+      "name": "EX The Pyramid's Treasure: Episode 2",
+      "code": 3124202,
+      "stamina": 0
+    },
+    {
+      "name": "EX The Pyramid's Treasure: Episode 3",
+      "code": 3124203,
+      "stamina": 0
+    },
+    {
+      "name": "The Archfiend Draws Near!",
+      "code": 3125101,
+      "stamina": 0
+    },
+    {
+      "name": "Hard Chapter 1, Episode 1: A New World",
+      "code": 3121101,
+      "stamina": 4
+    },
+    {
+      "name": "Hard Chapter 1, Episode 2: Patty's Pub",
+      "code": 3121102,
+      "stamina": 4
+    },
+    {
+      "name": "Hard Chapter 1, Episode 3: Teleportal Discovered!",
+      "code": 3121103,
+      "stamina": 4
+    },
+    {
+      "name": "Hard Chapter 1, Episode 4: An Old Friend...?",
+      "code": 3121104,
+      "stamina": 8
+    },
+    {
+      "name": "Hard Chapter 2, Episode 1: A Ship Voyage",
+      "code": 3121201,
+      "stamina": 5
+    },
+    {
+      "name": "Hard Chapter 2, Episode 2: Mindini's Whereabouts 1",
+      "code": 3121202,
+      "stamina": 5
+    },
+    {
+      "name": "Hard Chapter 2, Episode 3: Mindini's Whereabouts 2",
+      "code": 3121203,
+      "stamina": 5
+    },
+    {
+      "name": "Hard Chapter 2, Episode 4: Master of the Volcano",
+      "code": 3121204,
+      "stamina": 10
+    },
+    {
+      "name": "Hard Chapter 3, Episode 1: Another Ship Voyage",
+      "code": 3121301,
+      "stamina": 6
+    },
+    {
+      "name": "Hard Chapter 3, Episode 2: Arrival at Manoza 1",
+      "code": 3121302,
+      "stamina": 6
+    },
+    {
+      "name": "Hard Chapter 3, Episode 3: Arrival at Manoza 2",
+      "code": 3121303,
+      "stamina": 6
+    },
+    {
+      "name": "Hard Chapter 3, Episode 4: The King(?) of Manoza",
+      "code": 3121304,
+      "stamina": 12
+    },
+    {
+      "name": "Hard Chapter 4, Episode 1: To Baramos Castle",
+      "code": 3121401,
+      "stamina": 7
+    },
+    {
+      "name": "Hard Chapter 4, Episode 2: Baramos Castle 1",
+      "code": 3121402,
+      "stamina": 7
+    },
+    {
+      "name": "Hard Chapter 4, Episode 3: Baramos Castle 2",
+      "code": 3121403,
+      "stamina": 7
+    },
+    {
+      "name": "Hard Chapter 4, Episode 4: Archfiend Baramos",
+      "code": 3121404,
+      "stamina": 14
+    },
+    {
+      "name": "Hard Chapter 5, Episode 1: The Dark World 1",
+      "code": 3121501,
+      "stamina": 9
+    },
+    {
+      "name": "Hard Chapter 5, Episode 2: The Dark World 2",
+      "code": 3121502,
+      "stamina": 9
+    },
+    {
+      "name": "Hard Chapter 5, Episode 3: Baramos?",
+      "code": 3121503,
+      "stamina": 9
+    },
+    {
+      "name": "Hard Chapter 5, Episode 4: Archfiend Zoma",
+      "code": 3121504,
+      "stamina": 18
+    },
+    {
+      "name": "Normal Chapter 1, Episode 1: A New World",
+      "code": 3120101,
+      "stamina": 3
+    },
+    {
+      "name": "Normal Chapter 1, Episode 2: Patty's Pub",
+      "code": 3120102,
+      "stamina": 3
+    },
+    {
+      "name": "Normal Chapter 1, Episode 3: Teleportal Discovered!",
+      "code": 3120103,
+      "stamina": 3
+    },
+    {
+      "name": "Normal Chapter 1, Episode 4: An Old Friend...?",
+      "code": 3120104,
+      "stamina": 6
+    },
+    {
+      "name": "Normal Chapter 2, Episode 1: A Ship Voyage",
+      "code": 3120201,
+      "stamina": 4
+    },
+    {
+      "name": "Normal Chapter 2, Episode 2: Mindini's Whereabouts 1",
+      "code": 3120202,
+      "stamina": 4
+    },
+    {
+      "name": "Normal Chapter 2, Episode 3: Mindini's Whereabouts 2",
+      "code": 3120203,
+      "stamina": 4
+    },
+    {
+      "name": "Normal Chapter 2, Episode 4: Master of the Volcano",
+      "code": 3120204,
+      "stamina": 8
+    },
+    {
+      "name": "Normal Chapter 3, Episode 1: Another Ship Voyage",
+      "code": 3120301,
+      "stamina": 5
+    },
+    {
+      "name": "Normal Chapter 3, Episode 2: Arrival at Manoza 1",
+      "code": 3120302,
+      "stamina": 5
+    },
+    {
+      "name": "Normal Chapter 3, Episode 3: Arrival at Manoza 2",
+      "code": 3120303,
+      "stamina": 5
+    },
+    {
+      "name": "Normal Chapter 3, Episode 4: The King(?) of Manoza",
+      "code": 3120304,
+      "stamina": 10
+    },
+    {
+      "name": "Normal Chapter 4, Episode 1: To Baramos Castle",
+      "code": 3120401,
+      "stamina": 6
+    },
+    {
+      "name": "Normal Chapter 4, Episode 2: Baramos Castle 1",
+      "code": 3120402,
+      "stamina": 6
+    },
+    {
+      "name": "Normal Chapter 4, Episode 3: Baramos Castle 2",
+      "code": 3120403,
+      "stamina": 6
+    },
+    {
+      "name": "Normal Chapter 4, Episode 4: Archfiend Baramos",
+      "code": 3120404,
+      "stamina": 12
+    },
+    {
+      "name": "Normal Chapter 5, Episode 1: The Dark World 1",
+      "code": 3120501,
+      "stamina": 8
+    },
+    {
+      "name": "Normal Chapter 5, Episode 2: The Dark World 2",
+      "code": 3120502,
+      "stamina": 8
+    },
+    {
+      "name": "Normal Chapter 5, Episode 3: Baramos?",
+      "code": 3120503,
+      "stamina": 8
+    },
+    {
+      "name": "Normal Chapter 5, Episode 4: Archfiend Zoma",
+      "code": 3120504,
+      "stamina": 16
+    },
+    {
+      "name": "Very Hard Chapter 1, Episode 1: A New World",
+      "code": 3123101,
+      "stamina": 5
+    },
+    {
+      "name": "Very Hard Chapter 1, Episode 2: Patty's Pub",
+      "code": 3123102,
+      "stamina": 5
+    },
+    {
+      "name": "Very Hard Chapter 1, Episode 3: Teleportal Discovered!",
+      "code": 3123103,
+      "stamina": 5
+    },
+    {
+      "name": "Very Hard Chapter 1, Episode 4: An Old Friend...?",
+      "code": 3123104,
+      "stamina": 10
+    },
+    {
+      "name": "Very Hard Chapter 2, Episode 1: A Ship Voyage",
+      "code": 3123201,
+      "stamina": 6
+    },
+    {
+      "name": "Very Hard Chapter 2, Episode 2: Mindini's Whereabouts 1",
+      "code": 3123202,
+      "stamina": 6
+    },
+    {
+      "name": "Very Hard Chapter 2, Episode 3: Mindini's Whereabouts 2",
+      "code": 3123203,
+      "stamina": 6
+    },
+    {
+      "name": "Very Hard Chapter 2, Episode 4: Master of the Volcano",
+      "code": 3123204,
+      "stamina": 12
+    },
+    {
+      "name": "Very Hard Chapter 3, Episode 1: Another Ship Voyage",
+      "code": 3123301,
+      "stamina": 7
+    },
+    {
+      "name": "Very Hard Chapter 3, Episode 2: Arrival at Manoza 1",
+      "code": 3123302,
+      "stamina": 7
+    },
+    {
+      "name": "Very Hard Chapter 3, Episode 3: Arrival at Manoza 2",
+      "code": 3123303,
+      "stamina": 7
+    },
+    {
+      "name": "Very Hard Chapter 3, Episode 4: The King(?) of Manoza",
+      "code": 3123304,
+      "stamina": 14
+    },
+    {
+      "name": "Very Hard Chapter 4, Episode 1: To Baramos Castle",
+      "code": 3123401,
+      "stamina": 8
+    },
+    {
+      "name": "Very Hard Chapter 4, Episode 2: Baramos Castle 1",
+      "code": 3123402,
+      "stamina": 8
+    },
+    {
+      "name": "Very Hard Chapter 4, Episode 3: Baramos Castle 2",
+      "code": 3123403,
+      "stamina": 8
+    },
+    {
+      "name": "Very Hard Chapter 4, Episode 4: Archfiend Baramos",
+      "code": 3123404,
+      "stamina": 16
+    },
+    {
+      "name": "Very Hard Chapter 5, Episode 1: The Dark World 1",
+      "code": 3123501,
+      "stamina": 10
+    },
+    {
+      "name": "Very Hard Chapter 5, Episode 2: The Dark World 2",
+      "code": 3123502,
+      "stamina": 10
+    },
+    {
+      "name": "Very Hard Chapter 5, Episode 3: Baramos?",
+      "code": 3123503,
+      "stamina": 10
+    },
+    {
+      "name": "Very Hard Chapter 5, Episode 4: Archfiend Zoma",
+      "code": 3123504,
+      "stamina": 20
+    },
+    {
+      "name": "DQ III Boss Battle: Orochi",
+      "code": 3122101,
+      "stamina": 0
+    },
+    {
+      "name": "DQ III Boss Battle: Boss Troll",
+      "code": 3122102,
+      "stamina": 0
+    },
+    {
+      "name": "DQ III Boss Battle: Baramos",
+      "code": 3122103,
+      "stamina": 0
+    },
+    {
+      "name": "DQ III Boss Battle: Zoma",
+      "code": 3122104,
+      "stamina": 0
+    },
+    {
+      "name": "DQ III Boss Battle: Zoma EX",
+      "code": 3122106,
+      "stamina": 0
+    },
+    {
+      "name": "DQ IV Ragnar Road 1 ",
+      "code": 4130101,
+      "stamina": 0
+    },
+    {
+      "name": "DQ IV Ragnar Road 2 ",
+      "code": 4130102,
+      "stamina": 0
+    },
+    {
+      "name": "DQ IV Ragnar Road 3 ",
+      "code": 4130103,
+      "stamina": 0
+    },
+    {
+      "name": "DQ IV Ragnar Road 4 ",
+      "code": 4130104,
+      "stamina": 0
+    },
+    {
+      "name": "DQ IV Ragnar Road 5 ",
+      "code": 4130105,
+      "stamina": 0
+    },
+    {
+      "name": "DQ IV Ragnar Road 6 ",
+      "code": 4130106,
+      "stamina": 0
+    },
+    {
+      "name": "DQ IV Ragnar Road 7 ",
+      "code": 4130107,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Rashaverak",
+      "code": 3134201,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Barbatos",
+      "code": 3134202,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Pruslas",
+      "code": 3134203,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Aamon",
+      "code": 3134204,
+      "stamina": 0
+    },
+    {
+      "name": "Psaro's Peak",
+      "code": 3134205,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Rashaverak",
+      "code": 3134101,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Barbatos",
+      "code": 3134102,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Pruslas",
+      "code": 3134103,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Aamon",
+      "code": 3134104,
+      "stamina": 0
+    },
+    {
+      "name": "Psaro's Peak",
+      "code": 3134105,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Rashaverak",
+      "code": 3134301,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Barbatos",
+      "code": 3134302,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Pruslas",
+      "code": 3134303,
+      "stamina": 0
+    },
+    {
+      "name": "Den of Aamon",
+      "code": 3134304,
+      "stamina": 0
+    },
+    {
+      "name": "Psaro's Peak",
+      "code": 3134305,
+      "stamina": 0
+    },
+    {
+      "name": "Hard Chapter 1, Episode 1: The Tsarevna",
+      "code": 3131101,
+      "stamina": 4
+    },
+    {
+      "name": "Hard Chapter 1, Episode 2: Wanting to Meet",
+      "code": 3131102,
+      "stamina": 4
+    },
+    {
+      "name": "Hard Chapter 1, Episode 3: A Training Journey",
+      "code": 3131103,
+      "stamina": 4
+    },
+    {
+      "name": "Hard Chapter 1, Episode 4: Mindini in Trouble!",
+      "code": 3131104,
+      "stamina": 8
+    },
+    {
+      "name": "Hard Chapter 2, Episode 1: A Priest Arrives",
+      "code": 3131201,
+      "stamina": 5
+    },
+    {
+      "name": "Hard Chapter 2, Episode 2: Mutual Agreement?",
+      "code": 3131202,
+      "stamina": 5
+    },
+    {
+      "name": "Hard Chapter 2, Episode 3: A Royal Soldier?",
+      "code": 3131203,
+      "stamina": 5
+    },
+    {
+      "name": "Hard Chapter 2, Episode 4: A Royal Soldier",
+      "code": 3131204,
+      "stamina": 10
+    },
+    {
+      "name": "Normal Chapter 1, Episode 1: The Tsarevna",
+      "code": 3130101,
+      "stamina": 3
+    },
+    {
+      "name": "Normal Chapter 1, Episode 2: Wanting to Meet",
+      "code": 3130102,
+      "stamina": 3
+    },
+    {
+      "name": "Normal Chapter 1, Episode 3: A Training Journey",
+      "code": 3130103,
+      "stamina": 3
+    },
+    {
+      "name": "Normal Chapter 1, Episode 4: Mindini in Trouble!",
+      "code": 3130104,
+      "stamina": 6
+    },
+    {
+      "name": "Normal Chapter 2, Episode 1: A Priest Arrives",
+      "code": 3130201,
+      "stamina": 4
+    },
+    {
+      "name": "Normal Chapter 2, Episode 2: Mutual Agreement?",
+      "code": 3130202,
+      "stamina": 4
+    },
+    {
+      "name": "Normal Chapter 2, Episode 3: A Royal Soldier?",
+      "code": 3130203,
+      "stamina": 4
+    },
+    {
+      "name": "Normal Chapter 2, Episode 4: A Royal Soldier",
+      "code": 3130204,
+      "stamina": 8
+    },
+    {
+      "name": "Very Hard Chapter 1, Episode 1: The Tsarevna",
+      "code": 3132101,
+      "stamina": 5
+    },
+    {
+      "name": "Very Hard Chapter 1, Episode 2: Wanting to Meet",
+      "code": 3132102,
+      "stamina": 5
+    },
+    {
+      "name": "Very Hard Chapter 1, Episode 3: A Training Journey",
+      "code": 3132103,
+      "stamina": 5
+    },
+    {
+      "name": "Very Hard Chapter 1, Episode 4: Mindini in Trouble!",
+      "code": 3132104,
+      "stamina": 10
+    },
+    {
+      "name": "Very Hard Chapter 2, Episode 1: A Priest Arrives",
+      "code": 3132201,
+      "stamina": 6
+    },
+    {
+      "name": "Very Hard Chapter 2, Episode 2: Mutual Agreement?",
+      "code": 3132202,
+      "stamina": 6
+    },
+    {
+      "name": "Very Hard Chapter 2, Episode 3: A Royal Soldier?",
+      "code": 3132203,
+      "stamina": 6
+    },
+    {
+      "name": "Very Hard Chapter 2, Episode 4: A Royal Soldier",
+      "code": 3132204,
+      "stamina": 12
+    },
+    {
+      "name": "DQ IV Boss Battle: Armoured Scorpion",
+      "code": 3133101,
+      "stamina": 0
+    },
+    {
+      "name": "DQ IV Boss Battle: Tricksy",
+      "code": 3133102,
+      "stamina": 0
+    },
+    {
+      "name": "King Bubble Slime Road 1",
+      "code": 4500201,
+      "stamina": 0
+    },
+    {
+      "name": "King Bubble Slime Road 2",
+      "code": 4500202,
+      "stamina": 0
+    },
+    {
+      "name": "King Bubble Slime Road 3",
+      "code": 4500203,
+      "stamina": 0
+    },
+    {
+      "name": "King Bubble Slime Road 4",
+      "code": 4500204,
+      "stamina": 0
+    },
+    {
+      "name": "King Bubble Slime Road 5",
+      "code": 4500205,
+      "stamina": 0
+    },
+    {
+      "name": "King Bubble Slime Road 6",
+      "code": 4500206,
+      "stamina": 0
+    },
+    {
+      "name": "King Bubble Slime Road 7",
+      "code": 4500207,
+      "stamina": 0
+    },
+    {
+      "name": "Pickled Slime Road 1",
+      "code": 4500101,
+      "stamina": 0
+    },
+    {
+      "name": "Pickled Slime Road 2",
+      "code": 4500102,
+      "stamina": 0
+    },
+    {
+      "name": "Pickled Slime Road 3",
+      "code": 4500103,
+      "stamina": 0
+    },
+    {
+      "name": "Pickled Slime Road 4",
+      "code": 4500104,
+      "stamina": 0
+    },
+    {
+      "name": "Pickled Slime Road 5",
+      "code": 4500105,
+      "stamina": 0
+    },
+    {
+      "name": "Pickled Slime Road 6",
+      "code": 4500106,
+      "stamina": 0
+    },
+    {
+      "name": "Pickled Slime Road 7",
+      "code": 4500107,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 1, Episode 1",
+      "code": 3502101,
+      "stamina": 6
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 1, Episode 2",
+      "code": 3502102,
+      "stamina": 6
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 1, Episode 3",
+      "code": 3502103,
+      "stamina": 6
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 1, Episode 4",
+      "code": 3502104,
+      "stamina": 6
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 1, Episode 5",
+      "code": 3502105,
+      "stamina": 12
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 2, Episode 1",
+      "code": 3502201,
+      "stamina": 7
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 2, Episode 2",
+      "code": 3502202,
+      "stamina": 7
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 2, Episode 3",
+      "code": 3502203,
+      "stamina": 7
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 2, Episode 4",
+      "code": 3502204,
+      "stamina": 14
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 2, Episode 5",
+      "code": 3502205,
+      "stamina": 14
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 3, Episode 1",
+      "code": 3502301,
+      "stamina": 8
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 3, Episode 2",
+      "code": 3502302,
+      "stamina": 8
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 3, Episode 3",
+      "code": 3502303,
+      "stamina": 8
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 3, Episode 4",
+      "code": 3502304,
+      "stamina": 8
+    },
+    {
+      "name": "Slime Fest: Hard Chapter 3, Episode 5",
+      "code": 3502305,
+      "stamina": 16
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 1, Episode 1",
+      "code": 3501101,
+      "stamina": 5
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 1, Episode 2",
+      "code": 3501102,
+      "stamina": 5
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 1, Episode 3",
+      "code": 3501103,
+      "stamina": 5
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 1, Episode 4",
+      "code": 3501104,
+      "stamina": 5
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 1, Episode 5",
+      "code": 3501105,
+      "stamina": 10
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 2, Episode 1",
+      "code": 3501201,
+      "stamina": 6
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 2, Episode 2",
+      "code": 3501202,
+      "stamina": 6
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 2, Episode 3",
+      "code": 3501203,
+      "stamina": 6
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 2, Episode 4",
+      "code": 3501204,
+      "stamina": 12
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 2, Episode 5",
+      "code": 3501205,
+      "stamina": 12
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 3, Episode 1",
+      "code": 3501301,
+      "stamina": 7
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 3, Episode 2",
+      "code": 3501302,
+      "stamina": 7
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 3, Episode 3",
+      "code": 3501303,
+      "stamina": 7
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 3, Episode 4",
+      "code": 3501304,
+      "stamina": 7
+    },
+    {
+      "name": "Slime Fest: Normal Chapter 3, Episode 5",
+      "code": 3501305,
+      "stamina": 14
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 1, Episode 1",
+      "code": 3503101,
+      "stamina": 7
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 1, Episode 2",
+      "code": 3503102,
+      "stamina": 7
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 1, Episode 3",
+      "code": 3503103,
+      "stamina": 7
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 1, Episode 4",
+      "code": 3503104,
+      "stamina": 7
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 1, Episode 5",
+      "code": 3503105,
+      "stamina": 14
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 2, Episode 1",
+      "code": 3503201,
+      "stamina": 8
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 2, Episode 2",
+      "code": 3503202,
+      "stamina": 8
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 2, Episode 3",
+      "code": 3503203,
+      "stamina": 8
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 2, Episode 4",
+      "code": 3503204,
+      "stamina": 16
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 2, Episode 5",
+      "code": 3503205,
+      "stamina": 16
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 3, Episode 1",
+      "code": 3503301,
+      "stamina": 9
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 3, Episode 2",
+      "code": 3503302,
+      "stamina": 9
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 3, Episode 3",
+      "code": 3503303,
+      "stamina": 9
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 3, Episode 4",
+      "code": 3503304,
+      "stamina": 9
+    },
+    {
+      "name": "Slime Fest: Very Hard Chapter 3, Episode 5",
+      "code": 3503305,
+      "stamina": 18
+    },
+    {
+      "name": "Slime Fest Boss Battle: Advanced",
+      "code": 3505101,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Fest Boss Battle: Ultra",
+      "code": 3505102,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Fest Boss Battle: Hell",
+      "code": 3505103,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Fest Boss Battle EX1",
+      "code": 3505104,
+      "stamina": 0
+    },
+    {
+      "name": "Slime Fest Boss Battle EX2",
+      "code": 3505105,
+      "stamina": 0
+    },
+    {
+      "name": "The Arena Grand Pre-Opening Begins!",
+      "code": 3000101,
+      "stamina": 5
+    },
+    {
+      "name": "Power Workout: Stage 1",
+      "code": 4600101,
+      "stamina": 0
+    },
+    {
+      "name": "Power Workout: Stage 2",
+      "code": 4600102,
+      "stamina": 0
+    },
+    {
+      "name": "Power Workout: Stage 3",
+      "code": 4600103,
+      "stamina": 0
+    },
+    {
+      "name": "Power Workout: Stage 4",
+      "code": 4600104,
+      "stamina": 0
+    },
+    {
+      "name": "Power Workout: Stage 5",
+      "code": 4600105,
+      "stamina": 0
+    },
+    {
+      "name": "Power Workout: Stage 6",
+      "code": 4600106,
+      "stamina": 0
+    },
+    {
+      "name": "Power Workout: Stage 7",
+      "code": 4600107,
+      "stamina": 0
+    },
+    {
+      "name": "Militant Mentor Mindini's Boot Camp: Troll",
+      "code": 3600001,
+      "stamina": 5
+    },
+    {
+      "name": "Troll Super Training: Beginner",
+      "code": 3600101,
+      "stamina": 5
+    },
+    {
+      "name": "Troll Super Training: Intermediate",
+      "code": 3600102,
+      "stamina": 7
+    },
+    {
+      "name": "Troll Super Training: Advanced",
+      "code": 3600103,
+      "stamina": 9
+    },
+    {
+      "name": "Leery Lantern Road 1",
+      "code": 4300101,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lantern Road 2",
+      "code": 4300102,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lantern Road 3",
+      "code": 4300103,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lantern Road 4",
+      "code": 4300104,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lantern Road 5",
+      "code": 4300105,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lantern Road 6",
+      "code": 4300106,
+      "stamina": 0
+    },
+    {
+      "name": "Leery Lantern Road 7",
+      "code": 4300107,
+      "stamina": 0
+    },
+    {
+      "name": "Trick or Treat with Valencia: Beginner",
+      "code": 3315101,
+      "stamina": 0
+    },
+    {
+      "name": "Trick or Treat with Valencia: Intermediate",
+      "code": 3315102,
+      "stamina": 0
+    },
+    {
+      "name": "Trick or Treat with Valencia: Advanced",
+      "code": 3315103,
+      "stamina": 0
+    },
+    {
+      "name": "Halloween Event: Hard Chapter 1 Episode 1",
+      "code": 3311101,
+      "stamina": 4
+    },
+    {
+      "name": "Halloween Event: Hard Chapter 1 Episode 2",
+      "code": 3311102,
+      "stamina": 4
+    },
+    {
+      "name": "Halloween Event: Hard Chapter 1 Episode 3",
+      "code": 3311103,
+      "stamina": 5
+    },
+    {
+      "name": "Halloween Event: Hard Chapter 1 Episode 4",
+      "code": 3311104,
+      "stamina": 6
+    },
+    {
+      "name": "Halloween Event: Hard Chapter 1 Episode 5",
+      "code": 3311105,
+      "stamina": 12
+    },
+    {
+      "name": "Halloween Event: Hard Chapter 2, Episode 1",
+      "code": 3311201,
+      "stamina": 6
+    },
+    {
+      "name": "Halloween Event: Hard Chapter 2, Episode 2",
+      "code": 3311202,
+      "stamina": 6
+    },
+    {
+      "name": "Halloween Event: Hard Chapter 2, Episode 3",
+      "code": 3311203,
+      "stamina": 7
+    },
+    {
+      "name": "Halloween Event: Hard Chapter 2, Episode 4",
+      "code": 3311204,
+      "stamina": 8
+    },
+    {
+      "name": "Halloween Event: Hard Chapter 2, Episode 5",
+      "code": 3311205,
+      "stamina": 16
+    },
+    {
+      "name": "Halloween Event: Normal Chapter 1 Episode 1",
+      "code": 3310101,
+      "stamina": 3
+    },
+    {
+      "name": "Halloween Event: Normal Chapter 1 Episode 2",
+      "code": 3310102,
+      "stamina": 3
+    },
+    {
+      "name": "Halloween Event: Normal Chapter 1 Episode 3",
+      "code": 3310103,
+      "stamina": 4
+    },
+    {
+      "name": "Halloween Event: Normal Chapter 1 Episode 4",
+      "code": 3310104,
+      "stamina": 5
+    },
+    {
+      "name": "Halloween Event: Normal Chapter 1 Episode 5",
+      "code": 3310105,
+      "stamina": 10
+    },
+    {
+      "name": "Halloween Event: Normal Chapter 2, Episode 1",
+      "code": 3310201,
+      "stamina": 5
+    },
+    {
+      "name": "Halloween Event: Normal Chapter 2, Episode 2",
+      "code": 3310202,
+      "stamina": 5
+    },
+    {
+      "name": "Halloween Event: Normal Chapter 2, Episode 3",
+      "code": 3310203,
+      "stamina": 6
+    },
+    {
+      "name": "Halloween Event: Normal Chapter 2, Episode 4",
+      "code": 3310204,
+      "stamina": 7
+    },
+    {
+      "name": "Halloween Event: Normal Chapter 2, Episode 5",
+      "code": 3310205,
+      "stamina": 14
+    },
+    {
+      "name": "Halloween Event: Very Hard Chapter 1 Episode 1",
+      "code": 3312101,
+      "stamina": 5
+    },
+    {
+      "name": "Halloween Event: Very Hard Chapter 1 Episode 2",
+      "code": 3312102,
+      "stamina": 5
+    },
+    {
+      "name": "Halloween Event: Very Hard Chapter 1 Episode 3",
+      "code": 3312103,
+      "stamina": 6
+    },
+    {
+      "name": "Halloween Event: Very Hard Chapter 1 Episode 4",
+      "code": 3312104,
+      "stamina": 7
+    },
+    {
+      "name": "Halloween Event: Very Hard Chapter 1 Episode 5",
+      "code": 3312105,
+      "stamina": 14
+    },
+    {
+      "name": "Halloween Event: Very Hard Chapter 2, Episode 1",
+      "code": 3312201,
+      "stamina": 7
+    },
+    {
+      "name": "Halloween Event: Very Hard Chapter 2, Episode 2",
+      "code": 3312202,
+      "stamina": 7
+    },
+    {
+      "name": "Halloween Event: Very Hard Chapter 2, Episode 3",
+      "code": 3312203,
+      "stamina": 8
+    },
+    {
+      "name": "Halloween Event: Very Hard Chapter 2, Episode 4",
+      "code": 3312204,
+      "stamina": 9
+    },
+    {
+      "name": "Halloween Event: Very Hard Chapter 2, Episode 5",
+      "code": 3312205,
+      "stamina": 18
+    },
+    {
+      "name": "Halloween Boss Battle: Leery Lantern",
+      "code": 3313101,
+      "stamina": 0
+    },
+    {
+      "name": "Halloween Boss Battle: Leery Lantern",
+      "code": 3313102,
+      "stamina": 0
+    },
+    {
+      "name": "Halloween Boss Battle: Spooky Valencia",
+      "code": 3313103,
+      "stamina": 0
+    },
+    {
+      "name": "Halloween Boss Battle: Spooky Valencia",
+      "code": 3313104,
+      "stamina": 0
+    },
+    {
+      "name": "Summer Fest Event: Hard Episode 1",
+      "code": 3301101,
+      "stamina": 5
+    },
+    {
+      "name": "Summer Fest Event: Hard Episode 2",
+      "code": 3301102,
+      "stamina": 5
+    },
+    {
+      "name": "Summer Fest Event: Hard Episode 3",
+      "code": 3301103,
+      "stamina": 6
+    },
+    {
+      "name": "Summer Fest Event: Hard Episode 4",
+      "code": 3301104,
+      "stamina": 6
+    },
+    {
+      "name": "Summer Fest Event: Hard Episode 5",
+      "code": 3301105,
+      "stamina": 7
+    },
+    {
+      "name": "Summer Fest Event: Hard Episode 6",
+      "code": 3301106,
+      "stamina": 15
+    },
+    {
+      "name": "Summer Fest Event: Hard Episode 7",
+      "code": 3301107,
+      "stamina": 7
+    },
+    {
+      "name": "Summer Fest Event: Hard Episode 8",
+      "code": 3301108,
+      "stamina": 8
+    },
+    {
+      "name": "Summer Fest Event: Hard Episode 9",
+      "code": 3301109,
+      "stamina": 8
+    },
+    {
+      "name": "Summer Fest Event: Hard Episode 10",
+      "code": 3301110,
+      "stamina": 18
+    },
+    {
+      "name": "Summer Fest Event: Hard Episode 11",
+      "code": 3301111,
+      "stamina": 18
+    },
+    {
+      "name": "Summer Fest Event: Normal Episode 1",
+      "code": 3300101,
+      "stamina": 3
+    },
+    {
+      "name": "Summer Fest Event: Normal Episode 2",
+      "code": 3300102,
+      "stamina": 3
+    },
+    {
+      "name": "Summer Fest Event: Normal Episode 3",
+      "code": 3300103,
+      "stamina": 4
+    },
+    {
+      "name": "Summer Fest Event: Normal Episode 4",
+      "code": 3300104,
+      "stamina": 4
+    },
+    {
+      "name": "Summer Fest Event: Normal Episode 5",
+      "code": 3300105,
+      "stamina": 5
+    },
+    {
+      "name": "Summer Fest Event: Normal Episode 6",
+      "code": 3300106,
+      "stamina": 10
+    },
+    {
+      "name": "Summer Fest Event: Normal Episode 7",
+      "code": 3300107,
+      "stamina": 5
+    },
+    {
+      "name": "Summer Fest Event: Normal Episode 8",
+      "code": 3300108,
+      "stamina": 6
+    },
+    {
+      "name": "Summer Fest Event: Normal Episode 9",
+      "code": 3300109,
+      "stamina": 6
+    },
+    {
+      "name": "Summer Fest Event: Normal Episode 10",
+      "code": 3300110,
+      "stamina": 15
+    },
+    {
+      "name": "Summer Fest Boss Battle: Advanced",
+      "code": 3302101,
+      "stamina": 0
+    },
+    {
+      "name": "Summer Fest Boss Battle: Ultra",
+      "code": 3302102,
+      "stamina": 0
+    },
+    {
+      "name": "Summer Fest Boss Battle: Hell",
+      "code": 3302103,
+      "stamina": 0
+    },
+    {
+      "name": "Summer Fest Boss Battle EX",
+      "code": 3302104,
+      "stamina": 0
+    },
+    {
+      "name": "Round Up the Robbin' 'Oodlums: Advanced",
+      "code": 3400101,
+      "stamina": 8
+    },
+    {
+      "name": "Round Up the Robbin' 'Oodlums: Ultra",
+      "code": 3400102,
+      "stamina": 12
+    },
+    {
+      "name": "Round Up the Robbin' 'Oodlums: Hell",
+      "code": 3400103,
+      "stamina": 15
+    },
+    {
+      "name": "VS King Slime",
+      "code": 3200101,
+      "stamina": 0
+    },
+    {
+      "name": "VS Wrecktor",
+      "code": 3200201,
+      "stamina": 0
+    },
+    {
+      "name": "VS Troll",
+      "code": 3200301,
+      "stamina": 0
+    },
+    {
+      "name": "VS Great Troll",
+      "code": 3200401,
+      "stamina": 0
+    },
+    {
+      "name": "VS Killing Machine",
+      "code": 3200501,
+      "stamina": 0
+    },
+    {
+      "name": "VS Prism Peacock",
+      "code": 3200601,
+      "stamina": 0
+    },
+    {
+      "name": "EXP Quest: Beginner",
+      "code": 2200101,
+      "stamina": 0
+    },
+    {
+      "name": "EXP Quest: Intermediate",
+      "code": 2200102,
+      "stamina": 0
+    },
+    {
+      "name": "EXP Quest: Advanced",
+      "code": 2200103,
+      "stamina": 0
+    },
+    {
+      "name": "Metal Fest: Beginner",
+      "code": 2201101,
+      "stamina": 0
+    },
+    {
+      "name": "Metal Fest: Intermediate",
+      "code": 2201102,
+      "stamina": 0
+    },
+    {
+      "name": "Gold Quest: Beginner",
+      "code": 2200201,
+      "stamina": 0
+    },
+    {
+      "name": "Gold Quest: Intermediate",
+      "code": 2200202,
+      "stamina": 0
+    },
+    {
+      "name": "Gold Quest: Advanced",
+      "code": 2200203,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Beast Intermediate",
+      "code": 2200432,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Beast Advanced",
+      "code": 2200433,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Demon Intermediate",
+      "code": 2200452,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Demon Advanced",
+      "code": 2200453,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Dragon Intermediate",
+      "code": 2200412,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Dragon Advanced",
+      "code": 2200413,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Inorganic Intermediate",
+      "code": 2200442,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Inorganic Advanced",
+      "code": 2200443,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Nature Intermediate",
+      "code": 2200422,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Nature Advanced",
+      "code": 2200423,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Slime Intermediate",
+      "code": 2200402,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Slime Advanced",
+      "code": 2200403,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Undead Intermediate",
+      "code": 2200462,
+      "stamina": 0
+    },
+    {
+      "name": "Master Quest: Undead Advanced",
+      "code": 2200463,
+      "stamina": 0
+    },
+    {
+      "name": "Alena Quest 1",
+      "code": 8000101,
+      "stamina": 0
+    },
+    {
+      "name": "Alena Quest 2",
+      "code": 8000102,
+      "stamina": 0
+    },
+    {
+      "name": "Alena Quest 3",
+      "code": 8000103,
+      "stamina": 0
+    },
+    {
+      "name": "Alena Quest 4",
+      "code": 8000104,
+      "stamina": 0
+    },
+    {
+      "name": "Alena Quest 5",
+      "code": 8000105,
+      "stamina": 0
+    },
+    {
+      "name": "Ragnar Quest 1",
+      "code": 8000301,
+      "stamina": 0
+    },
+    {
+      "name": "Ragnar Quest 2",
+      "code": 8000302,
+      "stamina": 0
+    },
+    {
+      "name": "Ragnar Quest 3",
+      "code": 8000303,
+      "stamina": 0
+    },
+    {
+      "name": "Ragnar Quest 4",
+      "code": 8000304,
+      "stamina": 0
+    },
+    {
+      "name": "Ragnar Quest 5",
+      "code": 8000305,
+      "stamina": 0
+    },
+    {
+      "name": "Woosh-type Upgrade: Intermediate",
+      "code": 2200342,
+      "stamina": 5
+    },
+    {
+      "name": "Woosh-type Upgrade: Advanced",
+      "code": 2200343,
+      "stamina": 8
+    },
+    {
+      "name": "Woosh-type Upgrade: Ultra",
+      "code": 2200344,
+      "stamina": 12
+    },
+    {
+      "name": "Woosh-type Upgrade: Hell",
+      "code": 2200345,
+      "stamina": 20
+    },
+    {
+      "name": "Zap-type Upgrade: Intermediate",
+      "code": 2200362,
+      "stamina": 5
+    },
+    {
+      "name": "Zap-type Upgrade: Advanced",
+      "code": 2200363,
+      "stamina": 8
+    },
+    {
+      "name": "Zap-type Upgrade: Ultra",
+      "code": 2200364,
+      "stamina": 12
+    },
+    {
+      "name": "Zap-type Upgrade: Hell",
+      "code": 2200365,
+      "stamina": 20
+    },
+    {
+      "name": "Zam-type Upgrade: Intermediate",
+      "code": 2200372,
+      "stamina": 5
+    },
+    {
+      "name": "Zam-type Upgrade: Advanced",
+      "code": 2200373,
+      "stamina": 8
+    },
+    {
+      "name": "Zam-type Upgrade: Ultra",
+      "code": 2200374,
+      "stamina": 12
+    },
+    {
+      "name": "Zam-type Upgrade: Hell",
+      "code": 2200375,
+      "stamina": 20
+    },
+    {
+      "name": "Sizz-type Upgrade: Intermediate",
+      "code": 2200322,
+      "stamina": 5
+    },
+    {
+      "name": "Sizz-type Upgrade: Advanced",
+      "code": 2200323,
+      "stamina": 8
+    },
+    {
+      "name": "Sizz-type Upgrade: Ultra",
+      "code": 2200324,
+      "stamina": 12
+    },
+    {
+      "name": "Sizz-type Upgrade: Hell",
+      "code": 2200325,
+      "stamina": 20
+    },
+    {
+      "name": "Crack-type Upgrade: Intermediate",
+      "code": 2200332,
+      "stamina": 5
+    },
+    {
+      "name": "Crack-type Upgrade: Advanced",
+      "code": 2200333,
+      "stamina": 8
+    },
+    {
+      "name": "Crack-type Upgrade: Ultra",
+      "code": 2200334,
+      "stamina": 12
+    },
+    {
+      "name": "Crack-type Upgrade: Hell",
+      "code": 2200335,
+      "stamina": 20
+    },
+    {
+      "name": "Bang-type Upgrade: Intermediate",
+      "code": 2200352,
+      "stamina": 5
+    },
+    {
+      "name": "Bang-type Upgrade: Advanced",
+      "code": 2200353,
+      "stamina": 8
+    },
+    {
+      "name": "Bang-type Upgrade: Ultra",
+      "code": 2200354,
+      "stamina": 12
+    },
+    {
+      "name": "Bang-type Upgrade: Hell",
+      "code": 2200355,
+      "stamina": 20
+    },
+    {
+      "name": "Frizz-type Upgrade: Intermediate",
+      "code": 2200312,
+      "stamina": 5
+    },
+    {
+      "name": "Frizz-type Upgrade: Advanced",
+      "code": 2200313,
+      "stamina": 8
+    },
+    {
+      "name": "Frizz-type Upgrade: Ultra",
+      "code": 2200314,
+      "stamina": 12
+    },
+    {
+      "name": "Frizz-type Upgrade: Hell",
+      "code": 2200315,
+      "stamina": 20
+    },
+    {
+      "name": "Typeless Upgrade: Intermediate",
+      "code": 2200302,
+      "stamina": 5
+    },
+    {
+      "name": "Typeless Upgrade: Advanced",
+      "code": 2200303,
+      "stamina": 8
+    },
+    {
+      "name": "Typeless Upgrade: Ultra",
+      "code": 2200304,
+      "stamina": 12
+    },
+    {
+      "name": "Typeless Upgrade: Hell",
+      "code": 2200305,
+      "stamina": 20
+    },
+    {
+      "name": "Woosh-type Equipment: Ultra",
+      "code": 2101401,
+      "stamina": 12
+    },
+    {
+      "name": "Zap-type Equipment: Ultra",
+      "code": 2101601,
+      "stamina": 12
+    },
+    {
+      "name": "Zam-type Equipment: Ultra",
+      "code": 2101701,
+      "stamina": 12
+    },
+    {
+      "name": "Sizz-type Equipment: Ultra",
+      "code": 2101201,
+      "stamina": 12
+    },
+    {
+      "name": "Crack-type Equipment: Ultra",
+      "code": 2101301,
+      "stamina": 12
+    },
+    {
+      "name": "Bang-type Equipment: Ultra",
+      "code": 2101501,
+      "stamina": 12
+    },
+    {
+      "name": "Frizz-type Equipment: Ultra",
+      "code": 2101101,
+      "stamina": 12
+    },
+    {
+      "name": "Swords: Intermediate",
+      "code": 2100102,
+      "stamina": 5
+    },
+    {
+      "name": "Swords: Advanced",
+      "code": 2100103,
+      "stamina": 8
+    },
+    {
+      "name": "Axes: Intermediate",
+      "code": 2100502,
+      "stamina": 5
+    },
+    {
+      "name": "Axes: Advanced",
+      "code": 2100503,
+      "stamina": 8
+    },
+    {
+      "name": "Daggers: Intermediate",
+      "code": 2100402,
+      "stamina": 5
+    },
+    {
+      "name": "Daggers: Advanced",
+      "code": 2100403,
+      "stamina": 8
+    },
+    {
+      "name": "Staves: Intermediate",
+      "code": 2100302,
+      "stamina": 5
+    },
+    {
+      "name": "Staves: Advanced",
+      "code": 2100303,
+      "stamina": 8
+    },
+    {
+      "name": "Claws: Intermediate",
+      "code": 2100202,
+      "stamina": 5
+    },
+    {
+      "name": "Claws: Advanced",
+      "code": 2100203,
+      "stamina": 8
+    },
+    {
+      "name": "Beasts: Advanced",
+      "code": 2301503,
+      "stamina": 8
+    },
+    {
+      "name": "Beasts: Ultra",
+      "code": 2301504,
+      "stamina": 12
+    },
+    {
+      "name": "Beasts: Hell",
+      "code": 2301505,
+      "stamina": 20
+    },
+    {
+      "name": "Demons: Advanced",
+      "code": 2301303,
+      "stamina": 8
+    },
+    {
+      "name": "Demons: Ultra",
+      "code": 2301304,
+      "stamina": 12
+    },
+    {
+      "name": "Demons: Hell",
+      "code": 2301305,
+      "stamina": 20
+    },
+    {
+      "name": "Dragons: Advanced",
+      "code": 2301103,
+      "stamina": 8
+    },
+    {
+      "name": "Dragons: Ultra",
+      "code": 2301104,
+      "stamina": 12
+    },
+    {
+      "name": "Dragons: Hell",
+      "code": 2301105,
+      "stamina": 20
+    },
+    {
+      "name": "Heroes: Advanced",
+      "code": 2301903,
+      "stamina": 8
+    },
+    {
+      "name": "Heroes: Ultra",
+      "code": 2301904,
+      "stamina": 12
+    },
+    {
+      "name": "Heroes: Hell",
+      "code": 2301905,
+      "stamina": 20
+    },
+    {
+      "name": "Inorganics: Advanced",
+      "code": 2301403,
+      "stamina": 8
+    },
+    {
+      "name": "Inorganics: Ultra",
+      "code": 2301404,
+      "stamina": 12
+    },
+    {
+      "name": "Inorganics: Hell",
+      "code": 2301405,
+      "stamina": 20
+    },
+    {
+      "name": "Naturals: Advanced",
+      "code": 2301703,
+      "stamina": 8
+    },
+    {
+      "name": "Naturals: Ultra",
+      "code": 2301704,
+      "stamina": 12
+    },
+    {
+      "name": "Naturals: Hell",
+      "code": 2301705,
+      "stamina": 20
+    },
+    {
+      "name": "Slimes: Advanced",
+      "code": 2301603,
+      "stamina": 8
+    },
+    {
+      "name": "Slimes: Ultra",
+      "code": 2301604,
+      "stamina": 12
+    },
+    {
+      "name": "Slimes: Hell",
+      "code": 2301605,
+      "stamina": 20
+    },
+    {
+      "name": "???: Advanced",
+      "code": 2301803,
+      "stamina": 8
+    },
+    {
+      "name": "???: Ultra",
+      "code": 2301804,
+      "stamina": 12
+    },
+    {
+      "name": "???: Hell",
+      "code": 2301805,
+      "stamina": 20
+    },
+    {
+      "name": "Undead: Advanced",
+      "code": 2301203,
+      "stamina": 8
+    },
+    {
+      "name": "Undead: Ultra",
+      "code": 2301204,
+      "stamina": 12
+    },
+    {
+      "name": "Undead: Hell",
+      "code": 2301205,
+      "stamina": 20
+    },
+    {
+      "name": "Savvy Sapphire: Beginner",
+      "code": 2300101,
+      "stamina": 3
+    },
+    {
+      "name": "Savvy Sapphire: Intermediate",
+      "code": 2300102,
+      "stamina": 5
+    },
+    {
+      "name": "Equable Emerald: Beginner",
+      "code": 2300301,
+      "stamina": 3
+    },
+    {
+      "name": "Equable Emerald: Intermediate",
+      "code": 2300302,
+      "stamina": 5
+    },
+    {
+      "name": "Royal Ruby: Beginner",
+      "code": 2300201,
+      "stamina": 3
+    },
+    {
+      "name": "Royal Ruby: Intermediate",
+      "code": 2300202,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 1, Episode 1: Use an ability!",
+      "code": 1000101,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 1, Episode 2: Hit from afar!",
+      "code": 1000102,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 1, Episode 3: Hit where it hurts!",
+      "code": 1000103,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 1, Episode 4: The wild great sabrecub",
+      "code": 1000104,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 2, Episode 1: Get moving!",
+      "code": 1000201,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 2, Episode 2: Always go in prepared!",
+      "code": 1000202,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 2, Episode 3: Pincer attack!",
+      "code": 1000203,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 2, Episode 4: The robber's shadow!",
+      "code": 1000204,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 2, Episode 5: A Shady Guide",
+      "code": 1000205,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 2, Episode 6: Robbin' 'Ood",
+      "code": 1000206,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 3, Episode 1: Escape!",
+      "code": 1000301,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 3, Episode 2: Onward!",
+      "code": 1000302,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 3, Episode 3: Heal!",
+      "code": 1000303,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 3, Episode 4: The Bronze Cup Open",
+      "code": 1000304,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 3, Episode 5: The Bronze Cup, Round 2",
+      "code": 1000305,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 3, Episode 6: The Bronze Cup Semifinals",
+      "code": 1000306,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 3, Episode 7: A Fearsome Foe",
+      "code": 1000307,
+      "stamina": 3
+    },
+    {
+      "name": "Chapter 4, Episode 1: The Bronze Cup wrapup",
+      "code": 1000401,
+      "stamina": 4
+    },
+    {
+      "name": "Chapter 4, Episode 2: Back home in Ibbley!",
+      "code": 1000402,
+      "stamina": 4
+    },
+    {
+      "name": "Chapter 4, Episode 3: A favour for Purty",
+      "code": 1000403,
+      "stamina": 4
+    },
+    {
+      "name": "Chapter 4, Episode 4: A material-gathering trap",
+      "code": 1000404,
+      "stamina": 4
+    },
+    {
+      "name": "Chapter 4, Episode 5: Material gathering!",
+      "code": 1000405,
+      "stamina": 4
+    },
+    {
+      "name": "Chapter 4, Episode 6: A woman obsessed",
+      "code": 1000406,
+      "stamina": 4
+    },
+    {
+      "name": "Chapter 4, Episode 7: A quick break",
+      "code": 1000407,
+      "stamina": 4
+    },
+    {
+      "name": "Chapter 4, Episode 8: Combine!",
+      "code": 1000408,
+      "stamina": 4
+    },
+    {
+      "name": "Chapter 5, Episode 1: The grand bar opening",
+      "code": 1000501,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 5, Episode 2: Fun with camping",
+      "code": 1000502,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 5, Episode 3: The prankster ghosts",
+      "code": 1000503,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 5, Episode 4: After that ghost!",
+      "code": 1000504,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 5, Episode 5: A merry chase",
+      "code": 1000505,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 5, Episode 6: In search of walking corpses",
+      "code": 1000506,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 5, Episode 7: Find the walking corpses",
+      "code": 1000507,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 5, Episode 8: Find the walking corpses II",
+      "code": 1000508,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 5, Episode 9: Drooling eagerly",
+      "code": 1000509,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 6, Episode 1: Opening soon!",
+      "code": 1000601,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 6, Episode 2: A smash hit bar",
+      "code": 1000602,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 6, Episode 3: To the Silver Cup!",
+      "code": 1000603,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 6, Episode 4: Stronger and stronger!",
+      "code": 1000604,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 6, Episode 5: A bashful bullfinch",
+      "code": 1000605,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 6, Episode 6: The Silver Cup, Round 1",
+      "code": 1000606,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 6, Episode 7: The Silver Cup, Round 2",
+      "code": 1000607,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 6, Episode 8: The Silver Cup Semifinals",
+      "code": 1000608,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 6, Episode 9: The Silver Cup Final",
+      "code": 1000609,
+      "stamina": 5
+    },
+    {
+      "name": "Chapter 7, Episode 1: A New Adventure",
+      "code": 1000701,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 7, Episode 2: The Rascally Malini",
+      "code": 1000702,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 7, Episode 3: Malini's Feelings",
+      "code": 1000703,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 7, Episode 4: It's Dangerous at Night",
+      "code": 1000704,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 7, Episode 5: Another Day, Another Adventure!",
+      "code": 1000705,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 7, Episode 6: Stronger than Before!",
+      "code": 1000706,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 7, Episode 7: Onward!",
+      "code": 1000707,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 7, Episode 8: Are We Stronger?",
+      "code": 1000708,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 7, Episode 9: The Jarring Jargon",
+      "code": 1000709,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 8, Episode 1: Time to Get Stronger!",
+      "code": 1000801,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 8, Episode 2: Mindini the Treasure Hunter",
+      "code": 1000802,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 8, Episode 3: Treasure Hunting Part 1",
+      "code": 1000803,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 8, Episode 4: Treasure Hunting Part 2",
+      "code": 1000804,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 8, Episode 5: Getting Tired?",
+      "code": 1000805,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 8, Episode 6: Treasure Hunting Part 3",
+      "code": 1000806,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 8, Episode 7: Treasure Hunting Part 4",
+      "code": 1000807,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 8, Episode 8: The Treasure Is Here!",
+      "code": 1000808,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 8, Episode 9: Who's the Mystery Voice?",
+      "code": 1000809,
+      "stamina": 6
+    },
+    {
+      "name": "Chapter 9, Episode 1: A Mysterious Jewel",
+      "code": 1000901,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 9, Episode 2: Hunger Is Dangerous!",
+      "code": 1000902,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 9, Episode 3: What's in the Castle?",
+      "code": 1000903,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 9, Episode 4: To the Castle!",
+      "code": 1000904,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 9, Episode 5: It's Haunted?!",
+      "code": 1000905,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 9, Episode 6: A Ramshackle Castle",
+      "code": 1000906,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 9, Episode 7: Is Someone There...?",
+      "code": 1000907,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 9, Episode 8: Just Fess Up",
+      "code": 1000908,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 9, Episode 9: A Noble Soul",
+      "code": 1000909,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 10, Episode 1: The Upcoming Gold Cup",
+      "code": 1001001,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 10, Episode 2: The Road to the Gold Cup Part 1",
+      "code": 1001002,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 10, Episode 3: The Road to the Gold Cup Part 2",
+      "code": 1001003,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 10, Episode 4: The Road to the Gold Cup Part 3",
+      "code": 1001004,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 10, Episode 5: The Road to the Gold Cup Part 4",
+      "code": 1001005,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 10, Episode 6: The Gold Cup, Round 1",
+      "code": 1001006,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 10, Episode 7: The Gold Cup, Round 2",
+      "code": 1001007,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 10, Episode 8: The Gold Cup Semifinals",
+      "code": 1001008,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 10, Episode 9: The Gold Cup Final",
+      "code": 1001009,
+      "stamina": 7
+    },
+    {
+      "name": "Chapter 11, Episode 1: Cogsgrove's Breakdown",
+      "code": 1001101,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 11, Episode 2: Coping with the Cold",
+      "code": 1001102,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 11, Episode 3: Fun in the Snow",
+      "code": 1001103,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 11, Episode 4: Mind the Icy Roads Part 1",
+      "code": 1001104,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 11, Episode 5: Let's All Play!",
+      "code": 1001105,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 11, Episode 6: Mind the Icy Roads Part 2",
+      "code": 1001106,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 11, Episode 7: Mind the Icy Roads Part 3",
+      "code": 1001107,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 11, Episode 8: Mind the Icy Roads Part 4",
+      "code": 1001108,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 11, Episode 9: The Incorrigible Malini",
+      "code": 1001109,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 12, Episode 1: In Search of More Parts, Part 1",
+      "code": 1001201,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 12, Episode 2: Should We Be Grateful?",
+      "code": 1001202,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 12, Episode 3: Malini in Trouble",
+      "code": 1001203,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 12, Episode 4: In Search of More Parts, Part 2",
+      "code": 1001204,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 12, Episode 5: A Misunderstanding",
+      "code": 1001205,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 12, Episode 6: In Search of More Parts, Part 3",
+      "code": 1001206,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 12, Episode 7: Goobriel's Secret",
+      "code": 1001207,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 12, Episode 8: In Search of More Parts, Part 4",
+      "code": 1001208,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 12, Episode 9: What They Find",
+      "code": 1001209,
+      "stamina": 8
+    },
+    {
+      "name": "Chapter 13, Episode 1: Majellan the Bookslime",
+      "code": 1001301,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 13, Episode 2: An Old Tale",
+      "code": 1001302,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 13, Episode 3: Where Are the Parts?",
+      "code": 1001303,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 13, Episode 4: Goobriel Repays the Favour",
+      "code": 1001304,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 13, Episode 5: Burning Thoughts",
+      "code": 1001305,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 13, Episode 6: Taking the Heat",
+      "code": 1001306,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 13, Episode 7: Mind the Heat! Part 1",
+      "code": 1001307,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 13, Episode 8: Mind the Heat! Part 2",
+      "code": 1001308,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 13, Episode 9: A Night for Clubbing",
+      "code": 1001309,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 14, Episode 1: Cogsgrove's Trip Down Memory Lane 1",
+      "code": 1001401,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 14, Episode 2: Cogsgrove's Trip Down Memory Lane 2",
+      "code": 1001402,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 14, Episode 3: Cogsgrove's Trip Down Memory Lane 3",
+      "code": 1001403,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 14, Episode 4: Cogsgrove's Trip Down Memory Lane 4",
+      "code": 1001404,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 14, Episode 5: What Happened in the Past",
+      "code": 1001405,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 14, Episode 6: Friends",
+      "code": 1001406,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 14, Episode 7: Getting Stronger Part 1",
+      "code": 1001407,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 14, Episode 8: Getting Stronger Part 2",
+      "code": 1001408,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 14, Episode 9: A Monster Commander",
+      "code": 1001409,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 15, Episode 1: Now for the Platinum Cup!",
+      "code": 1001501,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 15, Episode 2: You Won't Get Away!",
+      "code": 1001502,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 15, Episode 3: The Road to the Platinum Cup Part 1",
+      "code": 1001503,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 15, Episode 4: The Road to the Platinum Cup Part 2",
+      "code": 1001504,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 15, Episode 5: Almost to the Platinum Cup!",
+      "code": 1001505,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 15, Episode 6: The Platinum Cup, Round 1",
+      "code": 1001506,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 15, Episode 7: The Platinum Cup, Round 2",
+      "code": 1001507,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 15, Episode 8: The Platinum Cup Semifinals",
+      "code": 1001508,
+      "stamina": 9
+    },
+    {
+      "name": "Chapter 15, Episode 9: The Platinum Cup Final",
+      "code": 1001509,
+      "stamina": 9
+    }
+  ]
+}
