@@ -1538,6 +1538,10 @@
         "name": "DQ I Medal",
         "quantity": 15,
         "rate": 33.0
+      },
+      {
+        "name": "Green Dragon",
+        "rate": 30.0
       }
     ]
   },
@@ -2155,6 +2159,10 @@
         "name": "DQ I Medal",
         "quantity": 6,
         "rate": 33.0
+      },
+      {
+        "name": "Green Dragon",
+        "rate": 10.0
       }
     ]
   },
@@ -3060,6 +3068,14 @@
         "name": "DQ III Medal",
         "quantity": 6,
         "rate": 33.0
+      },
+      {
+        "name": "Stark Raven",
+        "rate": 45.0
+      },
+      {
+        "name": "Stark Raven",
+        "rate": 45.0
       }
     ]
   },
@@ -3087,6 +3103,18 @@
         "name": "DQ III Medal",
         "quantity": 6,
         "rate": 33.0
+      },
+      {
+        "name": "Stark Raven",
+        "rate": 45.0
+      },
+      {
+        "name": "Stark Raven",
+        "rate": 45.0
+      },
+      {
+        "name": "Spiked Hare",
+        "rate": 45.0
       }
     ]
   },
@@ -3168,6 +3196,18 @@
         "name": "DQ III Medal",
         "quantity": 8,
         "rate": 33.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 35.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 35.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 35.0
       }
     ]
   },
@@ -3276,6 +3316,10 @@
         "name": "DQ III Medal",
         "quantity": 9,
         "rate": 33.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 35.0
       }
     ]
   },
@@ -3330,6 +3374,14 @@
         "name": "DQ III Medal",
         "quantity": 9,
         "rate": 33.0
+      },
+      {
+        "name": "Wyrtle",
+        "rate": 25.0
+      },
+      {
+        "name": "Wyrtle",
+        "rate": 25.0
       }
     ]
   },
@@ -3384,6 +3436,22 @@
         "name": "DQ III Medal",
         "quantity": 10,
         "rate": 33.0
+      },
+      {
+        "name": "Armful",
+        "rate": 25.0
+      },
+      {
+        "name": "Armful",
+        "rate": 25.0
+      },
+      {
+        "name": "Armful",
+        "rate": 25.0
+      },
+      {
+        "name": "Armful",
+        "rate": 25.0
       }
     ]
   },
@@ -3411,6 +3479,18 @@
         "name": "DQ III Medal",
         "quantity": 10,
         "rate": 33.0
+      },
+      {
+        "name": "Silhouette",
+        "rate": 30.0
+      },
+      {
+        "name": "Silhouette",
+        "rate": 30.0
+      },
+      {
+        "name": "Silhouette",
+        "rate": 30.0
       }
     ]
   },
@@ -3438,6 +3518,10 @@
         "name": "DQ III Medal",
         "quantity": 10,
         "rate": 33.0
+      },
+      {
+        "name": "Freezing Fog",
+        "rate": 35.0
       }
     ]
   },
@@ -3512,6 +3596,14 @@
         "name": "DQ III Medal",
         "quantity": 13,
         "rate": 33.0
+      },
+      {
+        "name": "Skelegon",
+        "rate": 20.0
+      },
+      {
+        "name": "Skelegon",
+        "rate": 20.0
       }
     ]
   },
@@ -3566,6 +3658,14 @@
         "name": "DQ III Medal",
         "quantity": 13,
         "rate": 33.0
+      },
+      {
+        "name": "Umbra",
+        "rate": 20.0
+      },
+      {
+        "name": "Umbra",
+        "rate": 20.0
       }
     ]
   },
@@ -3645,6 +3745,10 @@
         "name": "DQ III Medal",
         "quantity": 5,
         "rate": 33.0
+      },
+      {
+        "name": "Stark Raven",
+        "rate": 35.0
       }
     ]
   },
@@ -3672,6 +3776,14 @@
         "name": "DQ III Medal",
         "quantity": 5,
         "rate": 33.0
+      },
+      {
+        "name": "Stark Raven",
+        "rate": 35.0
+      },
+      {
+        "name": "Spiked Hare",
+        "rate": 35.0
       }
     ]
   },
@@ -3753,6 +3865,18 @@
         "name": "DQ III Medal",
         "quantity": 6,
         "rate": 33.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 25.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 25.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 25.0
       }
     ]
   },
@@ -3861,6 +3985,10 @@
         "name": "DQ III Medal",
         "quantity": 8,
         "rate": 33.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 25.0
       }
     ]
   },
@@ -3915,6 +4043,14 @@
         "name": "DQ III Medal",
         "quantity": 8,
         "rate": 33.0
+      },
+      {
+        "name": "Wyrtle",
+        "rate": 15.0
+      },
+      {
+        "name": "Wyrtle",
+        "rate": 15.0
       }
     ]
   },
@@ -3969,6 +4105,18 @@
         "name": "DQ III Medal",
         "quantity": 9,
         "rate": 33.0
+      },
+      {
+        "name": "Armful",
+        "rate": 10.0
+      },
+      {
+        "name": "Armful",
+        "rate": 10.0
+      },
+      {
+        "name": "Armful",
+        "rate": 10.0
       }
     ]
   },
@@ -3996,6 +4144,18 @@
         "name": "DQ III Medal",
         "quantity": 9,
         "rate": 33.0
+      },
+      {
+        "name": "Silhouette",
+        "rate": 15.0
+      },
+      {
+        "name": "Silhouette",
+        "rate": 15.0
+      },
+      {
+        "name": "Silhouette",
+        "rate": 15.0
       }
     ]
   },
@@ -4023,6 +4183,14 @@
         "name": "DQ III Medal",
         "quantity": 9,
         "rate": 33.0
+      },
+      {
+        "name": "Freezing Fog",
+        "rate": 25.0
+      },
+      {
+        "name": "Freezing Fog",
+        "rate": 25.0
       }
     ]
   },
@@ -4092,6 +4260,14 @@
         "name": "DQ III Medal",
         "quantity": 12,
         "rate": 33.0
+      },
+      {
+        "name": "Skelegon",
+        "rate": 10.0
+      },
+      {
+        "name": "Skelegon",
+        "rate": 10.0
       }
     ]
   },
@@ -4146,6 +4322,14 @@
         "name": "DQ III Medal",
         "quantity": 12,
         "rate": 33.0
+      },
+      {
+        "name": "Umbra",
+        "rate": 10.0
+      },
+      {
+        "name": "Umbra",
+        "rate": 10.0
       }
     ]
   },
@@ -4215,6 +4399,14 @@
         "name": "DQ III Medal",
         "quantity": 8,
         "rate": 33.0
+      },
+      {
+        "name": "Stark Raven",
+        "rate": 45.0
+      },
+      {
+        "name": "Stark Raven",
+        "rate": 45.0
       }
     ]
   },
@@ -4242,6 +4434,18 @@
         "name": "DQ III Medal",
         "quantity": 8,
         "rate": 33.0
+      },
+      {
+        "name": "Stark Raven",
+        "rate": 45.0
+      },
+      {
+        "name": "Stark Raven",
+        "rate": 45.0
+      },
+      {
+        "name": "Spiked Hare",
+        "rate": 45.0
       }
     ]
   },
@@ -4323,6 +4527,18 @@
         "name": "DQ III Medal",
         "quantity": 9,
         "rate": 33.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 35.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 35.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 35.0
       }
     ]
   },
@@ -4431,6 +4647,10 @@
         "name": "DQ III Medal",
         "quantity": 10,
         "rate": 33.0
+      },
+      {
+        "name": "Seaslime",
+        "rate": 35.0
       }
     ]
   },
@@ -4485,6 +4705,14 @@
         "name": "DQ III Medal",
         "quantity": 10,
         "rate": 33.0
+      },
+      {
+        "name": "Wyrtle",
+        "rate": 25.0
+      },
+      {
+        "name": "Wyrtle",
+        "rate": 25.0
       }
     ]
   },
@@ -4539,6 +4767,22 @@
         "name": "DQ III Medal",
         "quantity": 12,
         "rate": 33.0
+      },
+      {
+        "name": "Armful",
+        "rate": 35.0
+      },
+      {
+        "name": "Armful",
+        "rate": 35.0
+      },
+      {
+        "name": "Armful",
+        "rate": 35.0
+      },
+      {
+        "name": "Armful",
+        "rate": 35.0
       }
     ]
   },
@@ -4566,6 +4810,18 @@
         "name": "DQ III Medal",
         "quantity": 12,
         "rate": 33.0
+      },
+      {
+        "name": "Silhouette",
+        "rate": 30.0
+      },
+      {
+        "name": "Silhouette",
+        "rate": 30.0
+      },
+      {
+        "name": "Silhouette",
+        "rate": 30.0
       }
     ]
   },
@@ -4593,6 +4849,10 @@
         "name": "DQ III Medal",
         "quantity": 12,
         "rate": 33.0
+      },
+      {
+        "name": "Freezing Fog",
+        "rate": 35.0
       }
     ]
   },
@@ -4667,6 +4927,14 @@
         "name": "DQ III Medal",
         "quantity": 15,
         "rate": 33.0
+      },
+      {
+        "name": "Skelegon",
+        "rate": 30.0
+      },
+      {
+        "name": "Skelegon",
+        "rate": 30.0
       }
     ]
   },
@@ -4721,6 +4989,14 @@
         "name": "DQ III Medal",
         "quantity": 15,
         "rate": 33.0
+      },
+      {
+        "name": "Umbra",
+        "rate": 30.0
+      },
+      {
+        "name": "Umbra",
+        "rate": 30.0
       }
     ]
   },
@@ -5124,6 +5400,14 @@
         "name": "DQ IV Medal",
         "quantity": 8,
         "rate": 33.0
+      },
+      {
+        "name": "Foo Dog",
+        "rate": 12.0
+      },
+      {
+        "name": "Foo Dog",
+        "rate": 12.0
       }
     ]
   },
@@ -5225,6 +5509,14 @@
         "name": "DQ IV Medal",
         "quantity": 10,
         "rate": 33.0
+      },
+      {
+        "name": "Peeper",
+        "rate": 15.0
+      },
+      {
+        "name": "Peeper",
+        "rate": 15.0
       }
     ]
   },
@@ -5252,6 +5544,18 @@
         "name": "DQ IV Medal",
         "quantity": 10,
         "rate": 33.0
+      },
+      {
+        "name": "Abracadabrador",
+        "rate": 11.0
+      },
+      {
+        "name": "Abracadabrador",
+        "rate": 11.0
+      },
+      {
+        "name": "Abracadabrador",
+        "rate": 11.0
       }
     ]
   },
@@ -5380,6 +5684,14 @@
         "name": "DQ IV Medal",
         "quantity": 6,
         "rate": 33.0
+      },
+      {
+        "name": "Foo Dog",
+        "rate": 8.0
+      },
+      {
+        "name": "Foo Dog",
+        "rate": 8.0
       }
     ]
   },
@@ -5476,6 +5788,14 @@
         "name": "DQ IV Medal",
         "quantity": 8,
         "rate": 33.0
+      },
+      {
+        "name": "Peeper",
+        "rate": 10.0
+      },
+      {
+        "name": "Peeper",
+        "rate": 10.0
       }
     ]
   },
@@ -5503,6 +5823,18 @@
         "name": "DQ IV Medal",
         "quantity": 8,
         "rate": 33.0
+      },
+      {
+        "name": "Abracadabrador",
+        "rate": 8.0
+      },
+      {
+        "name": "Abracadabrador",
+        "rate": 8.0
+      },
+      {
+        "name": "Abracadabrador",
+        "rate": 8.0
       }
     ]
   },
@@ -5626,6 +5958,14 @@
         "name": "DQ IV Medal",
         "quantity": 10,
         "rate": 33.0
+      },
+      {
+        "name": "Foo Dog",
+        "rate": 17.0
+      },
+      {
+        "name": "Foo Dog",
+        "rate": 17.0
       }
     ]
   },
@@ -5727,6 +6067,14 @@
         "name": "DQ IV Medal",
         "quantity": 12,
         "rate": 33.0
+      },
+      {
+        "name": "Peeper",
+        "rate": 20.0
+      },
+      {
+        "name": "Peeper",
+        "rate": 20.0
       }
     ]
   },
@@ -5754,6 +6102,18 @@
         "name": "DQ IV Medal",
         "quantity": 12,
         "rate": 33.0
+      },
+      {
+        "name": "Abracadabrador",
+        "rate": 15.0
+      },
+      {
+        "name": "Abracadabrador",
+        "rate": 15.0
+      },
+      {
+        "name": "Abracadabrador",
+        "rate": 15.0
       }
     ]
   },
@@ -5988,6 +6348,34 @@
         "name": "Slime Fest Medal",
         "quantity": 24,
         "rate": 33.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
       }
     ]
   },
@@ -6015,6 +6403,26 @@
         "name": "Slime Fest Medal",
         "quantity": 24,
         "rate": 33.0
+      },
+      {
+        "name": "Healslime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
       }
     ]
   },
@@ -6042,6 +6450,14 @@
         "name": "Slime Fest Medal",
         "quantity": 24,
         "rate": 33.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 55.0
       }
     ]
   },
@@ -6069,6 +6485,22 @@
         "name": "Slime Fest Medal",
         "quantity": 24,
         "rate": 33.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
       }
     ]
   },
@@ -6116,6 +6548,10 @@
         "name": "Slime Dagger",
         "quantity": 4,
         "rate": 2.0
+      },
+      {
+        "name": "Pickled Slime",
+        "rate": 25.0
       }
     ]
   },
@@ -6143,6 +6579,14 @@
         "name": "Slime Fest Medal",
         "quantity": 28,
         "rate": 33.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 55.0
       }
     ]
   },
@@ -6170,6 +6614,18 @@
         "name": "Slime Fest Medal",
         "quantity": 28,
         "rate": 33.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 45.0
       }
     ]
   },
@@ -6197,6 +6653,10 @@
         "name": "Slime Fest Medal",
         "quantity": 28,
         "rate": 33.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 45.0
       }
     ]
   },
@@ -6224,6 +6684,10 @@
         "name": "Slime Fest Medal",
         "quantity": 56,
         "rate": 33.0
+      },
+      {
+        "name": "King Bubble Slime",
+        "rate": 25.0
       }
     ]
   },
@@ -6271,6 +6735,10 @@
         "name": "Slime Wand",
         "quantity": 4,
         "rate": 2.0
+      },
+      {
+        "name": "Drake Slime",
+        "rate": 30.0
       }
     ]
   },
@@ -6298,6 +6766,18 @@
         "name": "Slime Fest Medal",
         "quantity": 32,
         "rate": 33.0
+      },
+      {
+        "name": "Medislime",
+        "rate": 8.0
+      },
+      {
+        "name": "Medislime",
+        "rate": 8.0
+      },
+      {
+        "name": "Medislime",
+        "rate": 8.0
       }
     ]
   },
@@ -6352,6 +6832,14 @@
         "name": "Slime Fest Medal",
         "quantity": 32,
         "rate": 33.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
       }
     ]
   },
@@ -6379,6 +6867,18 @@
         "name": "Slime Fest Medal",
         "quantity": 32,
         "rate": 33.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 45.0
       }
     ]
   },
@@ -6453,6 +6953,34 @@
         "name": "Slime Fest Medal",
         "quantity": 20,
         "rate": 33.0
+      },
+      {
+        "name": "Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 45.0
       }
     ]
   },
@@ -6480,6 +7008,30 @@
         "name": "Slime Fest Medal",
         "quantity": 20,
         "rate": 33.0
+      },
+      {
+        "name": "Healslime",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 45.0
       }
     ]
   },
@@ -6507,6 +7059,14 @@
         "name": "Slime Fest Medal",
         "quantity": 20,
         "rate": 33.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 45.0
       }
     ]
   },
@@ -6534,6 +7094,22 @@
         "name": "Slime Fest Medal",
         "quantity": 20,
         "rate": 33.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 45.0
       }
     ]
   },
@@ -6576,6 +7152,10 @@
         "name": "Slime Dagger",
         "quantity": 3,
         "rate": 2.0
+      },
+      {
+        "name": "Pickled Slime",
+        "rate": 10.0
       }
     ]
   },
@@ -6603,6 +7183,22 @@
         "name": "Slime Fest Medal",
         "quantity": 24,
         "rate": 33.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 45.0
       }
     ]
   },
@@ -6630,6 +7226,22 @@
         "name": "Slime Fest Medal",
         "quantity": 24,
         "rate": 33.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
       }
     ]
   },
@@ -6657,6 +7269,18 @@
         "name": "Slime Fest Medal",
         "quantity": 24,
         "rate": 33.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 45.0
       }
     ]
   },
@@ -6684,6 +7308,10 @@
         "name": "Slime Fest Medal",
         "quantity": 48,
         "rate": 33.0
+      },
+      {
+        "name": "King Bubble Slime",
+        "rate": 10.0
       }
     ]
   },
@@ -6726,6 +7354,10 @@
         "name": "Slime Wand",
         "quantity": 3,
         "rate": 2.0
+      },
+      {
+        "name": "Drake Slime",
+        "rate": 15.0
       }
     ]
   },
@@ -6753,6 +7385,10 @@
         "name": "Slime Fest Medal",
         "quantity": 28,
         "rate": 33.0
+      },
+      {
+        "name": "Medislime",
+        "rate": 7.0
       }
     ]
   },
@@ -6780,6 +7416,22 @@
         "name": "Slime Fest Medal",
         "quantity": 28,
         "rate": 33.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
       }
     ]
   },
@@ -6807,6 +7459,14 @@
         "name": "Slime Fest Medal",
         "quantity": 28,
         "rate": 33.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
       }
     ]
   },
@@ -6834,6 +7494,18 @@
         "name": "Slime Fest Medal",
         "quantity": 28,
         "rate": 33.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
       }
     ]
   },
@@ -6903,6 +7575,34 @@
         "name": "Slime Fest Medal",
         "quantity": 28,
         "rate": 33.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
       }
     ]
   },
@@ -6930,6 +7630,26 @@
         "name": "Slime Fest Medal",
         "quantity": 28,
         "rate": 33.0
+      },
+      {
+        "name": "Healslime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
       }
     ]
   },
@@ -6957,6 +7677,14 @@
         "name": "Slime Fest Medal",
         "quantity": 28,
         "rate": 33.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 55.0
       }
     ]
   },
@@ -6984,6 +7712,22 @@
         "name": "Slime Fest Medal",
         "quantity": 28,
         "rate": 33.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
       }
     ]
   },
@@ -7031,6 +7775,10 @@
         "name": "Slime Dagger",
         "quantity": 4,
         "rate": 1.0
+      },
+      {
+        "name": "Pickled Slime",
+        "rate": 35.0
       }
     ]
   },
@@ -7058,6 +7806,14 @@
         "name": "Slime Fest Medal",
         "quantity": 32,
         "rate": 33.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 55.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 55.0
       }
     ]
   },
@@ -7085,6 +7841,18 @@
         "name": "Slime Fest Medal",
         "quantity": 32,
         "rate": 33.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 55.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 55.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 55.0
       }
     ]
   },
@@ -7112,6 +7880,10 @@
         "name": "Slime Fest Medal",
         "quantity": 32,
         "rate": 33.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 55.0
       }
     ]
   },
@@ -7139,6 +7911,10 @@
         "name": "Slime Fest Medal",
         "quantity": 91,
         "rate": 33.0
+      },
+      {
+        "name": "King Bubble Slime",
+        "rate": 35.0
       }
     ]
   },
@@ -7186,6 +7962,10 @@
         "name": "Slime Wand",
         "quantity": 4,
         "rate": 1.0
+      },
+      {
+        "name": "Drake Slime",
+        "rate": 45.0
       }
     ]
   },
@@ -7213,6 +7993,18 @@
         "name": "Slime Fest Medal",
         "quantity": 36,
         "rate": 33.0
+      },
+      {
+        "name": "Medislime",
+        "rate": 10.0
+      },
+      {
+        "name": "Medislime",
+        "rate": 10.0
+      },
+      {
+        "name": "Medislime",
+        "rate": 10.0
       }
     ]
   },
@@ -7267,6 +8059,14 @@
         "name": "Slime Fest Medal",
         "quantity": 36,
         "rate": 33.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 55.0
       }
     ]
   },
@@ -7294,6 +8094,18 @@
         "name": "Slime Fest Medal",
         "quantity": 36,
         "rate": 33.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 55.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 55.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 55.0
       }
     ]
   },
@@ -7508,6 +8320,26 @@
         "name": "Troll Decoration",
         "quantity": 1,
         "rate": 1.0
+      },
+      {
+        "name": "Troll",
+        "rate": 10.0
+      },
+      {
+        "name": "Hammerhood",
+        "rate": 35.0
+      },
+      {
+        "name": "Healslime",
+        "rate": 35.0
+      },
+      {
+        "name": "Drackmage",
+        "rate": 35.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 35.0
       }
     ]
   },
@@ -7535,6 +8367,30 @@
         "name": "Troll Decoration",
         "quantity": 1,
         "rate": 2.0
+      },
+      {
+        "name": "Troll",
+        "rate": 20.0
+      },
+      {
+        "name": "Hammerhood",
+        "rate": 35.0
+      },
+      {
+        "name": "Healslime",
+        "rate": 35.0
+      },
+      {
+        "name": "Drackmage",
+        "rate": 35.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 35.0
+      },
+      {
+        "name": "Tigercub",
+        "rate": 35.0
       }
     ]
   },
@@ -7562,6 +8418,26 @@
         "name": "Troll Decoration",
         "quantity": 1,
         "rate": 3.0
+      },
+      {
+        "name": "Troll",
+        "rate": 35.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 35.0
+      },
+      {
+        "name": "Tigercub",
+        "rate": 35.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 35.0
+      },
+      {
+        "name": "Mandrake Major",
+        "rate": 35.0
       }
     ]
   },
@@ -7917,6 +8793,10 @@
         "name": "Spooky Cookie",
         "quantity": 72,
         "rate": 30.0
+      },
+      {
+        "name": "Leery Lantern",
+        "rate": 20.0
       }
     ]
   },
@@ -8222,6 +9102,10 @@
         "name": "Spooky Cookie",
         "quantity": 50,
         "rate": 30.0
+      },
+      {
+        "name": "Leery Lantern",
+        "rate": 10.0
       }
     ]
   },
@@ -8521,6 +9405,10 @@
       {
         "name": "Spooky Cookie",
         "quantity": 86,
+        "rate": 30.0
+      },
+      {
+        "name": "Leery Lantern",
         "rate": 30.0
       }
     ]
@@ -8879,6 +9767,10 @@
         "name": "Summer Fest Medal",
         "quantity": 30,
         "rate": 33.0
+      },
+      {
+        "name": "Vendor Ghost",
+        "rate": 30.0
       }
     ]
   },
@@ -9216,6 +10108,10 @@
         "name": "Summer Fest Medal",
         "quantity": 20,
         "rate": 33.0
+      },
+      {
+        "name": "Vendor Ghost",
+        "rate": 10.0
       }
     ]
   },
@@ -9390,6 +10286,40 @@
       100004,
       100002,
       20001
+    ],
+    "drops": [
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 12.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 12.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 12.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 12.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 12.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 12.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 12.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 12.0
+      }
     ]
   },
   {
@@ -9400,6 +10330,40 @@
       100004,
       100002,
       20001
+    ],
+    "drops": [
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 22.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 22.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 22.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 22.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 22.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 22.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 22.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 22.0
+      }
     ]
   },
   {
@@ -9410,6 +10374,40 @@
       100004,
       100002,
       20001
+    ],
+    "drops": [
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 30.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 30.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 30.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 30.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 30.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 30.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 30.0
+      },
+      {
+        "name": "Robbin' 'Oodlum",
+        "rate": 30.0
+      }
     ]
   },
   {
@@ -9420,6 +10418,12 @@
       100004,
       100002,
       20001
+    ],
+    "drops": [
+      {
+        "name": "King Slime",
+        "rate": 12.0
+      }
     ]
   },
   {
@@ -9430,6 +10434,12 @@
       100004,
       100002,
       20001
+    ],
+    "drops": [
+      {
+        "name": "King Slime",
+        "rate": 22.0
+      }
     ]
   },
   {
@@ -9440,6 +10450,12 @@
       100004,
       100002,
       20001
+    ],
+    "drops": [
+      {
+        "name": "King Slime",
+        "rate": 30.0
+      }
     ]
   },
   {
@@ -14589,6 +15605,20 @@
       100004,
       100002,
       20001
+    ],
+    "drops": [
+      {
+        "name": "Bunicorn",
+        "rate": 45.0
+      },
+      {
+        "name": "Dracky",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 45.0
+      }
     ]
   },
   {
@@ -14602,6 +15632,20 @@
     ],
     "treasures": [
       100020301
+    ],
+    "drops": [
+      {
+        "name": "Chimaera",
+        "rate": 45.0
+      },
+      {
+        "name": "Lickspittle",
+        "rate": 45.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 45.0
+      }
     ]
   },
   {
@@ -14612,6 +15656,20 @@
       100004,
       100002,
       20001
+    ],
+    "drops": [
+      {
+        "name": "Skeleton",
+        "rate": 45.0
+      },
+      {
+        "name": "Skeleton",
+        "rate": 45.0
+      },
+      {
+        "name": "Mischievous Mole",
+        "rate": 81.0
+      }
     ]
   },
   {
@@ -14625,6 +15683,20 @@
     ],
     "treasures": [
       100020401
+    ],
+    "drops": [
+      {
+        "name": "Mischievous Mole",
+        "rate": 81.0
+      },
+      {
+        "name": "Skeleton",
+        "rate": 45.0
+      },
+      {
+        "name": "Skeleton",
+        "rate": 45.0
+      }
     ]
   },
   {
@@ -14635,6 +15707,20 @@
       100004,
       100002,
       20001
+    ],
+    "drops": [
+      {
+        "name": "Skeleton",
+        "rate": 45.0
+      },
+      {
+        "name": "Skeleton",
+        "rate": 45.0
+      },
+      {
+        "name": "Mischievous Mole",
+        "rate": 81.0
+      }
     ]
   },
   {
@@ -14658,6 +15744,24 @@
       100004,
       100002,
       20001
+    ],
+    "drops": [
+      {
+        "name": "Candy Cat",
+        "rate": 81.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      }
     ]
   },
   {
@@ -14671,6 +15775,24 @@
     ],
     "treasures": [
       100030201
+    ],
+    "drops": [
+      {
+        "name": "Drackmage",
+        "rate": 81.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      }
     ]
   },
   {
@@ -14681,6 +15803,24 @@
       100004,
       100002,
       20001
+    ],
+    "drops": [
+      {
+        "name": "Healslime",
+        "rate": 81.0
+      },
+      {
+        "name": "Bodkin Archer",
+        "rate": 45.0
+      },
+      {
+        "name": "Bodkin Archer",
+        "rate": 45.0
+      },
+      {
+        "name": "Orc",
+        "rate": 81.0
+      }
     ]
   },
   {
@@ -14740,6 +15880,22 @@
         "name": "Green Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Slime",
+        "rate": 81.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Mecha-Mynah",
+        "rate": 81.0
       }
     ]
   },
@@ -14757,6 +15913,22 @@
         "name": "Green Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Platypunk",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Healslime",
+        "rate": 45.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
       }
     ]
   },
@@ -14774,6 +15946,22 @@
         "name": "White Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Orc",
+        "rate": 45.0
+      },
+      {
+        "name": "Bunicorn",
+        "rate": 45.0
+      },
+      {
+        "name": "Platypunk",
+        "rate": 45.0
+      },
+      {
+        "name": "Bewarewolf",
+        "rate": 45.0
       }
     ]
   },
@@ -14791,6 +15979,22 @@
         "name": "Blue Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Cannibox",
+        "rate": 81.0
+      },
+      {
+        "name": "Crack-billed Platypunk",
+        "rate": 45.0
+      },
+      {
+        "name": "Crack-billed Platypunk",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 81.0
       }
     ]
   },
@@ -14811,6 +16015,22 @@
         "name": "Blue Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 81.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Bewarewolf",
+        "rate": 81.0
       }
     ]
   },
@@ -14828,6 +16048,18 @@
         "name": "Blue Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Hawk Man",
+        "rate": 45.0
+      },
+      {
+        "name": "Hawk Man",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 81.0
       }
     ]
   },
@@ -14845,6 +16077,22 @@
         "name": "Red Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Great Sabrecub",
+        "rate": 45.0
+      },
+      {
+        "name": "Great Sabrecub",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime",
+        "rate": 81.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 81.0
       }
     ]
   },
@@ -14879,6 +16127,22 @@
         "name": "White Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 81.0
+      },
+      {
+        "name": "Bag o' Laughs",
+        "rate": 45.0
+      },
+      {
+        "name": "Bag o' Laughs",
+        "rate": 45.0
+      },
+      {
+        "name": "Jailcat",
+        "rate": 81.0
       }
     ]
   },
@@ -14896,6 +16160,22 @@
         "name": "White Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Jailcat",
+        "rate": 45.0
+      },
+      {
+        "name": "Cactiball",
+        "rate": 45.0
+      },
+      {
+        "name": "Cactiball",
+        "rate": 45.0
+      },
+      {
+        "name": "Jailcat",
+        "rate": 45.0
       }
     ]
   },
@@ -14916,6 +16196,22 @@
         "name": "White Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Drooling Ghoul",
+        "rate": 81.0
+      },
+      {
+        "name": "Cactiball",
+        "rate": 45.0
+      },
+      {
+        "name": "Cactiball",
+        "rate": 45.0
+      },
+      {
+        "name": "Jailcat",
+        "rate": 81.0
       }
     ]
   },
@@ -14933,6 +16229,22 @@
         "name": "Green Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 81.0
+      },
+      {
+        "name": "Skeleton",
+        "rate": 45.0
+      },
+      {
+        "name": "Skeleton",
+        "rate": 45.0
+      },
+      {
+        "name": "Lickspittle",
+        "rate": 81.0
       }
     ]
   },
@@ -14950,6 +16262,26 @@
         "name": "Green Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Ghost",
+        "rate": 81.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      },
+      {
+        "name": "Lickspittle",
+        "rate": 81.0
+      },
+      {
+        "name": "Stump Chump",
+        "rate": 81.0
       }
     ]
   },
@@ -14970,6 +16302,22 @@
         "name": "Green Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Scarewolf",
+        "rate": 63.0
+      },
+      {
+        "name": "Drooling Ghoul",
+        "rate": 45.0
+      },
+      {
+        "name": "Drooling Ghoul",
+        "rate": 45.0
+      },
+      {
+        "name": "Meowgician",
+        "rate": 81.0
       }
     ]
   },
@@ -14987,6 +16335,22 @@
         "name": "Blue Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Drooling Ghoul",
+        "rate": 45.0
+      },
+      {
+        "name": "Drooling Ghoul",
+        "rate": 45.0
+      },
+      {
+        "name": "Funghoul",
+        "rate": 45.0
+      },
+      {
+        "name": "Funghoul",
+        "rate": 45.0
       }
     ]
   },
@@ -15004,6 +16368,26 @@
         "name": "Blue Stone",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Hammerhood",
+        "rate": 45.0
+      },
+      {
+        "name": "Hammerhood",
+        "rate": 45.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      },
+      {
+        "name": "Stump Chump",
+        "rate": 81.0
       }
     ]
   },
@@ -15042,6 +16426,18 @@
         "name": "Royal Ruby",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Imp",
+        "rate": 81.0
+      },
+      {
+        "name": "Drackolyte",
+        "rate": 45.0
+      },
+      {
+        "name": "Drackolyte",
+        "rate": 45.0
       }
     ]
   },
@@ -15059,6 +16455,22 @@
         "name": "Savvy Sapphire",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Crabid",
+        "rate": 45.0
+      },
+      {
+        "name": "Crabid",
+        "rate": 45.0
+      },
+      {
+        "name": "Jailcat",
+        "rate": 81.0
+      },
+      {
+        "name": "Bag o' Laughs",
+        "rate": 81.0
       }
     ]
   },
@@ -15079,6 +16491,22 @@
         "name": "Equable Emerald",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 45.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 45.0
+      },
+      {
+        "name": "Chimaera",
+        "rate": 81.0
+      },
+      {
+        "name": "Crack-billed Platypunk",
+        "rate": 81.0
       }
     ]
   },
@@ -15106,6 +16534,18 @@
         "name": "Savvy Sapphire",
         "quantity": 1,
         "rate": 20.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 63.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
       }
     ]
   },
@@ -15123,6 +16563,30 @@
         "name": "Savvy Sapphire",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Bullfinch",
+        "rate": 81.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 45.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 45.0
+      },
+      {
+        "name": "Drackolyte",
+        "rate": 45.0
+      },
+      {
+        "name": "Drackolyte",
+        "rate": 45.0
+      },
+      {
+        "name": "Healslime",
+        "rate": 81.0
       }
     ]
   },
@@ -15208,6 +16672,30 @@
         "name": "Savvy Sapphire",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Walking Corpse",
+        "rate": 45.0
+      },
+      {
+        "name": "Walking Corpse",
+        "rate": 45.0
+      },
+      {
+        "name": "Drackmage",
+        "rate": 45.0
+      },
+      {
+        "name": "Drackmage",
+        "rate": 45.0
+      },
+      {
+        "name": "Funghoul",
+        "rate": 81.0
+      },
+      {
+        "name": "Bag o' Laughs",
+        "rate": 81.0
       }
     ]
   },
@@ -15225,6 +16713,26 @@
         "name": "Equable Emerald",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Scarewolf",
+        "rate": 63.0
+      },
+      {
+        "name": "Great Sabrecub",
+        "rate": 81.0
+      },
+      {
+        "name": "Orc",
+        "rate": 45.0
+      },
+      {
+        "name": "Orc",
+        "rate": 45.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 81.0
       }
     ]
   },
@@ -15245,6 +16753,26 @@
         "name": "Royal Ruby",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
+      },
+      {
+        "name": "Skeleton",
+        "rate": 45.0
+      },
+      {
+        "name": "Skeleton",
+        "rate": 45.0
+      },
+      {
+        "name": "Drooling Ghoul",
+        "rate": 81.0
       }
     ]
   },
@@ -15272,6 +16800,26 @@
         "name": "Savvy Sapphire",
         "quantity": 1,
         "rate": 20.0
+      },
+      {
+        "name": "Crabid",
+        "rate": 45.0
+      },
+      {
+        "name": "Crabid",
+        "rate": 45.0
+      },
+      {
+        "name": "Crabid",
+        "rate": 45.0
+      },
+      {
+        "name": "Crabid",
+        "rate": 45.0
+      },
+      {
+        "name": "Crabid",
+        "rate": 45.0
       }
     ]
   },
@@ -15289,6 +16837,22 @@
         "name": "Equable Emerald",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Tigercub",
+        "rate": 63.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 45.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 45.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 45.0
       }
     ]
   },
@@ -15309,6 +16873,26 @@
         "name": "Royal Ruby",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Cactiball",
+        "rate": 45.0
+      },
+      {
+        "name": "Cactiball",
+        "rate": 45.0
+      },
+      {
+        "name": "Cactiball",
+        "rate": 45.0
+      },
+      {
+        "name": "Meowgician",
+        "rate": 45.0
+      },
+      {
+        "name": "Meowgician",
+        "rate": 45.0
       }
     ]
   },
@@ -15326,6 +16910,26 @@
         "name": "Savvy Sapphire",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 45.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 45.0
+      },
+      {
+        "name": "Bullfinch",
+        "rate": 81.0
+      },
+      {
+        "name": "Cactiball",
+        "rate": 45.0
+      },
+      {
+        "name": "Cactiball",
+        "rate": 45.0
       }
     ]
   },
@@ -15346,6 +16950,26 @@
         "name": "Equable Emerald",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 45.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 45.0
+      },
+      {
+        "name": "Killing Machine Light",
+        "rate": 45.0
+      },
+      {
+        "name": "Killing Machine Light",
+        "rate": 45.0
+      },
+      {
+        "name": "Cactiball",
+        "rate": 81.0
       }
     ]
   },
@@ -15380,6 +17004,26 @@
         "name": "Equable Emerald",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Crabid",
+        "rate": 45.0
+      },
+      {
+        "name": "Crabid",
+        "rate": 45.0
+      },
+      {
+        "name": "Crabid",
+        "rate": 45.0
+      },
+      {
+        "name": "Mecha-Mynah",
+        "rate": 81.0
+      },
+      {
+        "name": "Mischievous Mole",
+        "rate": 81.0
       }
     ]
   },
@@ -15397,6 +17041,26 @@
         "name": "Royal Ruby",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Bullfinch",
+        "rate": 81.0
       }
     ]
   },
@@ -15418,6 +17082,30 @@
         "name": "Savvy Sapphire",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
+      },
+      {
+        "name": "Bodkin Archer",
+        "rate": 45.0
+      },
+      {
+        "name": "Bodkin Archer",
+        "rate": 45.0
+      },
+      {
+        "name": "Bodkin Archer",
+        "rate": 45.0
       }
     ]
   },
@@ -15445,6 +17133,22 @@
         "name": "Savvy Sapphire",
         "quantity": 1,
         "rate": 20.0
+      },
+      {
+        "name": "Medislime",
+        "rate": 5.0
+      },
+      {
+        "name": "Mischievous Mole",
+        "rate": 81.0
+      },
+      {
+        "name": "Mad Mole",
+        "rate": 45.0
+      },
+      {
+        "name": "Mad Mole",
+        "rate": 45.0
       }
     ]
   },
@@ -15462,6 +17166,26 @@
         "name": "Royal Ruby",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Jailcat",
+        "rate": 45.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
+      },
+      {
+        "name": "Jailcat",
+        "rate": 45.0
       }
     ]
   },
@@ -15482,6 +17206,30 @@
         "name": "Savvy Sapphire",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Mecha-Mynah",
+        "rate": 45.0
+      },
+      {
+        "name": "Mecha-Mynah",
+        "rate": 45.0
+      },
+      {
+        "name": "Crack-billed Platypunk",
+        "rate": 81.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 81.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
       }
     ]
   },
@@ -15499,6 +17247,30 @@
         "name": "Equable Emerald",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 63.0
+      },
+      {
+        "name": "Bodkin Archer",
+        "rate": 45.0
+      },
+      {
+        "name": "Bodkin Archer",
+        "rate": 45.0
+      },
+      {
+        "name": "Mischievous Mole",
+        "rate": 81.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 45.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 45.0
       }
     ]
   },
@@ -15516,6 +17288,26 @@
         "name": "Royal Ruby",
         "quantity": 1,
         "rate": 50.0
+      },
+      {
+        "name": "Goodybag",
+        "rate": 63.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 81.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
+      },
+      {
+        "name": "Bullfinch",
+        "rate": 81.0
       }
     ]
   },
@@ -15555,6 +17347,26 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Skeleton",
+        "rate": 81.0
+      },
+      {
+        "name": "Walking Corpse",
+        "rate": 45.0
+      },
+      {
+        "name": "Walking Corpse",
+        "rate": 45.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 45.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 45.0
       }
     ]
   },
@@ -15577,6 +17389,30 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
+      },
+      {
+        "name": "Ghost",
+        "rate": 45.0
+      },
+      {
+        "name": "Ghost",
+        "rate": 45.0
+      },
+      {
+        "name": "Funghoul",
+        "rate": 45.0
+      },
+      {
+        "name": "Funghoul",
+        "rate": 45.0
       }
     ]
   },
@@ -15599,6 +17435,30 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 45.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 45.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 45.0
+      },
+      {
+        "name": "Goodybag",
+        "rate": 63.0
+      },
+      {
+        "name": "Orc",
+        "rate": 45.0
+      },
+      {
+        "name": "Orc",
+        "rate": 45.0
       }
     ]
   },
@@ -15626,6 +17486,18 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 15.0
+      },
+      {
+        "name": "Beleth",
+        "rate": 5.0
+      },
+      {
+        "name": "Killing Machine Light",
+        "rate": 45.0
+      },
+      {
+        "name": "Killing Machine Light",
+        "rate": 45.0
       }
     ]
   },
@@ -15651,6 +17523,26 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Phantom Fencer",
+        "rate": 63.0
+      },
+      {
+        "name": "Grim Keeper",
+        "rate": 35.0
+      },
+      {
+        "name": "Grim Keeper",
+        "rate": 35.0
+      },
+      {
+        "name": "Leery Lout",
+        "rate": 45.0
+      },
+      {
+        "name": "Leery Lout",
+        "rate": 45.0
       }
     ]
   },
@@ -15673,6 +17565,30 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Mandrake Major",
+        "rate": 45.0
+      },
+      {
+        "name": "Mandrake Major",
+        "rate": 45.0
+      },
+      {
+        "name": "Mandrake Major",
+        "rate": 45.0
+      },
+      {
+        "name": "Ghost",
+        "rate": 45.0
+      },
+      {
+        "name": "Ghost",
+        "rate": 45.0
+      },
+      {
+        "name": "Ghost",
+        "rate": 45.0
       }
     ]
   },
@@ -15695,6 +17611,30 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Hocus Chimaera",
+        "rate": 63.0
+      },
+      {
+        "name": "Orc",
+        "rate": 81.0
+      },
+      {
+        "name": "Leery Lout",
+        "rate": 45.0
+      },
+      {
+        "name": "Leery Lout",
+        "rate": 45.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
       }
     ]
   },
@@ -15720,6 +17660,22 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Mandrake Major",
+        "rate": 81.0
+      },
+      {
+        "name": "Scarewolf",
+        "rate": 35.0
+      },
+      {
+        "name": "Scarewolf",
+        "rate": 35.0
+      },
+      {
+        "name": "Scarewolf",
+        "rate": 35.0
       }
     ]
   },
@@ -15764,6 +17720,22 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 63.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 81.0
+      },
+      {
+        "name": "Crack-billed Platypunk",
+        "rate": 45.0
+      },
+      {
+        "name": "Crack-billed Platypunk",
+        "rate": 45.0
       }
     ]
   },
@@ -15786,6 +17758,26 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Golem",
+        "rate": 81.0
+      },
+      {
+        "name": "Jailcat",
+        "rate": 45.0
+      },
+      {
+        "name": "Jailcat",
+        "rate": 45.0
+      },
+      {
+        "name": "Imp",
+        "rate": 45.0
+      },
+      {
+        "name": "Imp",
+        "rate": 45.0
       }
     ]
   },
@@ -15811,6 +17803,30 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Meowgician",
+        "rate": 45.0
+      },
+      {
+        "name": "Meowgician",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 45.0
+      },
+      {
+        "name": "Bubble Slime",
+        "rate": 81.0
+      },
+      {
+        "name": "Goodybag",
+        "rate": 63.0
       }
     ]
   },
@@ -15838,6 +17854,18 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 15.0
+      },
+      {
+        "name": "Hunter Mech",
+        "rate": 35.0
+      },
+      {
+        "name": "Hunter Mech",
+        "rate": 35.0
+      },
+      {
+        "name": "Hunter Mech",
+        "rate": 35.0
       }
     ]
   },
@@ -15863,6 +17891,26 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Drackolyte",
+        "rate": 81.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
       }
     ]
   },
@@ -15973,6 +18021,26 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Healslime",
+        "rate": 81.0
+      },
+      {
+        "name": "Restless Armour",
+        "rate": 63.0
+      },
+      {
+        "name": "Crack-billed Platypunk",
+        "rate": 45.0
+      },
+      {
+        "name": "Crack-billed Platypunk",
+        "rate": 45.0
+      },
+      {
+        "name": "Slime Knight",
+        "rate": 81.0
       }
     ]
   },
@@ -15995,6 +18063,26 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Hocus Chimaera",
+        "rate": 63.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 35.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 35.0
+      },
+      {
+        "name": "Orc",
+        "rate": 45.0
+      },
+      {
+        "name": "Orc",
+        "rate": 45.0
       }
     ]
   },
@@ -16020,6 +18108,26 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Mad Mole",
+        "rate": 45.0
+      },
+      {
+        "name": "Mad Mole",
+        "rate": 45.0
+      },
+      {
+        "name": "Hocus Chimaera",
+        "rate": 63.0
+      },
+      {
+        "name": "She-Slime",
+        "rate": 81.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 81.0
       }
     ]
   },
@@ -16047,6 +18155,22 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 15.0
+      },
+      {
+        "name": "Phantom Fencer",
+        "rate": 35.0
+      },
+      {
+        "name": "Phantom Fencer",
+        "rate": 35.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
       }
     ]
   },
@@ -16069,6 +18193,18 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Hunter Mech",
+        "rate": 35.0
+      },
+      {
+        "name": "Hunter Mech",
+        "rate": 35.0
+      },
+      {
+        "name": "Hawk Man",
+        "rate": 81.0
       }
     ]
   },
@@ -16091,6 +18227,26 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Mandrake Major",
+        "rate": 45.0
+      },
+      {
+        "name": "Mandrake Major",
+        "rate": 45.0
+      },
+      {
+        "name": "Golem",
+        "rate": 81.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 35.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 35.0
       }
     ]
   },
@@ -16116,6 +18272,26 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Scarewolf",
+        "rate": 35.0
+      },
+      {
+        "name": "Scarewolf",
+        "rate": 35.0
+      },
+      {
+        "name": "Hunter Mech",
+        "rate": 35.0
+      },
+      {
+        "name": "Hunter Mech",
+        "rate": 35.0
+      },
+      {
+        "name": "Bag o' Laughs",
+        "rate": 81.0
       }
     ]
   },
@@ -16138,6 +18314,26 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Golem",
+        "rate": 45.0
+      },
+      {
+        "name": "Drooling Ghoul",
+        "rate": 45.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 35.0
+      },
+      {
+        "name": "Hocus Chimaera",
+        "rate": 35.0
+      },
+      {
+        "name": "Mandrake Major",
+        "rate": 45.0
       }
     ]
   },
@@ -16185,6 +18381,26 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Goodybag",
+        "rate": 63.0
+      },
+      {
+        "name": "Orc",
+        "rate": 81.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 45.0
+      },
+      {
+        "name": "Hunter Mech",
+        "rate": 63.0
       }
     ]
   },
@@ -16207,6 +18423,30 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Grim Keeper",
+        "rate": 35.0
+      },
+      {
+        "name": "Grim Keeper",
+        "rate": 35.0
+      },
+      {
+        "name": "Restless Armour",
+        "rate": 35.0
+      },
+      {
+        "name": "Restless Armour",
+        "rate": 35.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 35.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 35.0
       }
     ]
   },
@@ -16232,6 +18472,30 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Mad Mole",
+        "rate": 81.0
+      },
+      {
+        "name": "Mischievous Mole",
+        "rate": 45.0
+      },
+      {
+        "name": "Mischievous Mole",
+        "rate": 45.0
+      },
+      {
+        "name": "Mischievous Mole",
+        "rate": 45.0
+      },
+      {
+        "name": "Hell Niño",
+        "rate": 45.0
+      },
+      {
+        "name": "Hell Niño",
+        "rate": 45.0
       }
     ]
   },
@@ -16259,6 +18523,26 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 15.0
+      },
+      {
+        "name": "Great Sabrecat",
+        "rate": 5.0
+      },
+      {
+        "name": "Great Sabrecub",
+        "rate": 45.0
+      },
+      {
+        "name": "Great Sabrecub",
+        "rate": 45.0
+      },
+      {
+        "name": "Great Sabrecub",
+        "rate": 45.0
+      },
+      {
+        "name": "Great Sabrecub",
+        "rate": 45.0
       }
     ]
   },
@@ -16281,6 +18565,10 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Moosifer",
+        "rate": 3.0
       }
     ]
   },
@@ -16303,6 +18591,30 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Mecha-Mynah",
+        "rate": 45.0
+      },
+      {
+        "name": "Mecha-Mynah",
+        "rate": 45.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 35.0
+      },
+      {
+        "name": "Orc",
+        "rate": 81.0
+      },
+      {
+        "name": "Phantom Fencer",
+        "rate": 63.0
       }
     ]
   },
@@ -16325,6 +18637,34 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Hunter Mech",
+        "rate": 63.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 35.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 35.0
+      },
+      {
+        "name": "Great Sabrecub",
+        "rate": 45.0
+      },
+      {
+        "name": "Great Sabrecub",
+        "rate": 45.0
+      },
+      {
+        "name": "Leery Lout",
+        "rate": 45.0
+      },
+      {
+        "name": "Leery Lout",
+        "rate": 45.0
       }
     ]
   },
@@ -16347,6 +18687,30 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 10.0
+      },
+      {
+        "name": "Mischievous Mole",
+        "rate": 45.0
+      },
+      {
+        "name": "Mischievous Mole",
+        "rate": 45.0
+      },
+      {
+        "name": "Mischievous Mole",
+        "rate": 45.0
+      },
+      {
+        "name": "Hocus Chimaera",
+        "rate": 63.0
+      },
+      {
+        "name": "Grim Keeper",
+        "rate": 35.0
+      },
+      {
+        "name": "Grim Keeper",
+        "rate": 35.0
       }
     ]
   },
@@ -16398,6 +18762,30 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 81.0
+      },
+      {
+        "name": "Hell Niño",
+        "rate": 45.0
+      },
+      {
+        "name": "Hell Niño",
+        "rate": 45.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 45.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 45.0
+      },
+      {
+        "name": "Bullfinch",
+        "rate": 81.0
       }
     ]
   },
@@ -16420,6 +18808,30 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Killing Machine Light",
+        "rate": 45.0
+      },
+      {
+        "name": "Killing Machine Light",
+        "rate": 45.0
+      },
+      {
+        "name": "Jailcat",
+        "rate": 45.0
+      },
+      {
+        "name": "Jailcat",
+        "rate": 45.0
+      },
+      {
+        "name": "Jargon",
+        "rate": 63.0
+      },
+      {
+        "name": "Cannibox",
+        "rate": 81.0
       }
     ]
   },
@@ -16442,6 +18854,30 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Knight Errant",
+        "rate": 35.0
+      },
+      {
+        "name": "Knight Errant",
+        "rate": 35.0
+      },
+      {
+        "name": "Shell Slime",
+        "rate": 81.0
+      },
+      {
+        "name": "Hell Niño",
+        "rate": 45.0
+      },
+      {
+        "name": "Hell Niño",
+        "rate": 45.0
+      },
+      {
+        "name": "Bullfinch",
+        "rate": 81.0
       }
     ]
   },
@@ -16472,6 +18908,22 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 20.0
+      },
+      {
+        "name": "Skelegon",
+        "rate": 5.0
+      },
+      {
+        "name": "Knight Errant",
+        "rate": 63.0
+      },
+      {
+        "name": "Walking Corpse",
+        "rate": 45.0
+      },
+      {
+        "name": "Walking Corpse",
+        "rate": 45.0
       }
     ]
   },
@@ -16494,6 +18946,18 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Dancing Flame",
+        "rate": 81.0
+      },
+      {
+        "name": "Firespirit",
+        "rate": 45.0
+      },
+      {
+        "name": "Firespirit",
+        "rate": 45.0
       }
     ]
   },
@@ -16516,6 +18980,26 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 63.0
+      },
+      {
+        "name": "Jargon",
+        "rate": 35.0
+      },
+      {
+        "name": "Jargon",
+        "rate": 35.0
+      },
+      {
+        "name": "Firespirit",
+        "rate": 45.0
+      },
+      {
+        "name": "Firespirit",
+        "rate": 45.0
       }
     ]
   },
@@ -16538,6 +19022,26 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 45.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 45.0
+      },
+      {
+        "name": "Hell Niño",
+        "rate": 81.0
+      },
+      {
+        "name": "Dancing Flame",
+        "rate": 45.0
+      },
+      {
+        "name": "Dancing Flame",
+        "rate": 45.0
       }
     ]
   },
@@ -16560,6 +19064,26 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Knight Errant",
+        "rate": 63.0
+      },
+      {
+        "name": "Jargon",
+        "rate": 35.0
+      },
+      {
+        "name": "Jargon",
+        "rate": 35.0
+      },
+      {
+        "name": "Tigercub",
+        "rate": 35.0
+      },
+      {
+        "name": "Tigercub",
+        "rate": 35.0
       }
     ]
   },
@@ -16609,6 +19133,30 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Funghoul",
+        "rate": 81.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 45.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 45.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      },
+      {
+        "name": "Teeny Sanguini",
+        "rate": 45.0
+      },
+      {
+        "name": "Ghost",
+        "rate": 81.0
       }
     ]
   },
@@ -16631,6 +19179,26 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Lickspittle",
+        "rate": 81.0
+      },
+      {
+        "name": "Walking Corpse",
+        "rate": 45.0
+      },
+      {
+        "name": "Walking Corpse",
+        "rate": 45.0
+      },
+      {
+        "name": "Walking Corpse",
+        "rate": 45.0
+      },
+      {
+        "name": "Goodybag",
+        "rate": 63.0
       }
     ]
   },
@@ -16653,6 +19221,26 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
+      },
+      {
+        "name": "Funghoul",
+        "rate": 81.0
+      },
+      {
+        "name": "Phantom Fencer",
+        "rate": 63.0
+      },
+      {
+        "name": "Carnivine",
+        "rate": 81.0
       }
     ]
   },
@@ -16680,6 +19268,22 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 20.0
+      },
+      {
+        "name": "Whackolyte",
+        "rate": 5.0
+      },
+      {
+        "name": "Drackolyte",
+        "rate": 45.0
+      },
+      {
+        "name": "Drackolyte",
+        "rate": 45.0
+      },
+      {
+        "name": "Bullfinch",
+        "rate": 81.0
       }
     ]
   },
@@ -16724,6 +19328,30 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 63.0
+      },
+      {
+        "name": "Phantom Fencer",
+        "rate": 35.0
+      },
+      {
+        "name": "Phantom Fencer",
+        "rate": 35.0
+      },
+      {
+        "name": "Funghoul",
+        "rate": 81.0
+      },
+      {
+        "name": "Drooling Ghoul",
+        "rate": 45.0
+      },
+      {
+        "name": "Drooling Ghoul",
+        "rate": 45.0
       }
     ]
   },
@@ -16746,6 +19374,30 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Knight Errant",
+        "rate": 63.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 63.0
+      },
+      {
+        "name": "Lickspittle",
+        "rate": 81.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 81.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
       }
     ]
   },
@@ -16772,6 +19424,30 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Killing Machine Light",
+        "rate": 81.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
+      },
+      {
+        "name": "Muddy Hand",
+        "rate": 45.0
+      },
+      {
+        "name": "Knight Errant",
+        "rate": 35.0
+      },
+      {
+        "name": "Knight Errant",
+        "rate": 35.0
+      },
+      {
+        "name": "Phantom Fencer",
+        "rate": 63.0
       }
     ]
   },
@@ -16822,6 +19498,26 @@
         "name": "Royal Ruby",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Jargon",
+        "rate": 63.0
+      },
+      {
+        "name": "Hell Niño",
+        "rate": 81.0
+      },
+      {
+        "name": "Killing Machine Light",
+        "rate": 81.0
+      },
+      {
+        "name": "Knight Errant",
+        "rate": 35.0
+      },
+      {
+        "name": "Knight Errant",
+        "rate": 35.0
       }
     ]
   },
@@ -16844,6 +19540,26 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 45.0
+      },
+      {
+        "name": "Arrghgoyle",
+        "rate": 45.0
+      },
+      {
+        "name": "Meowgician",
+        "rate": 81.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
+      },
+      {
+        "name": "Corpse Corporal",
+        "rate": 35.0
       }
     ]
   },
@@ -16869,6 +19585,30 @@
         "name": "Equable Emerald",
         "quantity": 2,
         "rate": 25.0
+      },
+      {
+        "name": "Hocus Chimaera",
+        "rate": 63.0
+      },
+      {
+        "name": "Metal Slime Knight",
+        "rate": 63.0
+      },
+      {
+        "name": "Bodkin Archer",
+        "rate": 45.0
+      },
+      {
+        "name": "Bodkin Archer",
+        "rate": 45.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 45.0
+      },
+      {
+        "name": "Brownie",
+        "rate": 45.0
       }
     ]
   },
@@ -16896,6 +19636,18 @@
         "name": "Savvy Sapphire",
         "quantity": 2,
         "rate": 20.0
+      },
+      {
+        "name": "Tuskateer",
+        "rate": 5.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 35.0
+      },
+      {
+        "name": "Drackyma",
+        "rate": 35.0
       }
     ]
   },
