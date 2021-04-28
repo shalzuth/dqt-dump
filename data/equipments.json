@@ -4,24 +4,156 @@
     "code": 205001
   },
   {
+    "name": "Material Crown",
+    "code": 205004
+  },
+  {
+    "name": "Gold Circlet",
+    "code": 205002
+  },
+  {
+    "name": "Dark God Circlet",
+    "code": 205005
+  },
+  {
+    "name": "Horde Helm",
+    "code": 203004
+  },
+  {
+    "name": "Mythril Helm",
+    "code": 203005
+  },
+  {
+    "name": "Platinum Helm",
+    "code": 203002
+  },
+  {
+    "name": "Conifer Helm",
+    "code": 203006
+  },
+  {
     "name": "Iron Mask",
     "code": 203001
+  },
+  {
+    "name": "Sweetheart Apron",
+    "code": 204014
+  },
+  {
+    "name": "Brigandine",
+    "code": 204005
+  },
+  {
+    "name": "Beastly Jacket",
+    "code": 204013
+  },
+  {
+    "name": "Liquid Metal Jacket",
+    "code": 204016
   },
   {
     "name": "Silk Robe",
     "code": 204002
   },
   {
+    "name": "Leafy Robe",
+    "code": 204008
+  },
+  {
+    "name": "Void Robes",
+    "code": 204012
+  },
+  {
     "name": "Cloak of Evasion",
     "code": 204003
+  },
+  {
+    "name": "Mink Mantle",
+    "code": 204015
+  },
+  {
+    "name": "Flowing Dress",
+    "code": 204006
+  },
+  {
+    "name": "Princess's Robe",
+    "code": 204010
+  },
+  {
+    "name": "Santa Robe",
+    "code": 204009
+  },
+  {
+    "name": "Slime Robes",
+    "code": 204011
   },
   {
     "name": "Wayfarer's Clothes",
     "code": 204001
   },
   {
+    "name": "Robe of Serenity",
+    "code": 204004
+  },
+  {
+    "name": "Beastly Armour",
+    "code": 201007
+  },
+  {
+    "name": "Demon Mail",
+    "code": 201004
+  },
+  {
+    "name": "Full Metal Armour",
+    "code": 201006
+  },
+  {
     "name": "Steel Armour",
     "code": 201001
+  },
+  {
+    "name": "Liquid Metal Armour",
+    "code": 201003
+  },
+  {
+    "name": "Undead Armour",
+    "code": 201005
+  },
+  {
+    "name": "Magic Armour",
+    "code": 201008
+  },
+  {
+    "name": "Platinum Mail",
+    "code": 201002
+  },
+  {
+    "name": "Demon Shield",
+    "code": 202006
+  },
+  {
+    "name": "Dragon Shield",
+    "code": 202005
+  },
+  {
+    "name": "Steel Shield",
+    "code": 202001
+  },
+  {
+    "name": "Liquid Metal Shield",
+    "code": 202003
+  },
+  {
+    "name": "Flame Shield",
+    "code": 202002
+  },
+  {
+    "name": "Material Shield",
+    "code": 202007
+  },
+  {
+    "name": "Slime Shield",
+    "code": 202004
   },
   {
     "name": "Battle-Axe",
@@ -112,6 +244,10 @@
     "code": 103006
   },
   {
+    "name": "Material Maulers",
+    "code": 103018
+  },
+  {
     "name": "Sacred Claws",
     "code": 103003
   },
@@ -124,12 +260,24 @@
     "code": 103012
   },
   {
+    "name": "Psaro Nails",
+    "code": 103015
+  },
+  {
     "name": "Bronze Claws",
     "code": 103004
   },
   {
+    "name": "Akillics",
+    "code": 103016
+  },
+  {
     "name": "Silver Claws",
     "code": 103007
+  },
+  {
+    "name": "Sweet Claw",
+    "code": 103017
   },
   {
     "name": "Conifer Claws",
@@ -180,6 +328,10 @@
     "code": 102011
   },
   {
+    "name": "Grandmaster Dagger",
+    "code": 102012
+  },
+  {
     "name": "Divine Dagger",
     "code": 102006
   },
@@ -208,8 +360,16 @@
     "code": 104021
   },
   {
+    "name": "Sword of Ruin",
+    "code": 104092
+  },
+  {
     "name": "Heavy Blade",
     "code": 104010
+  },
+  {
+    "name": "Aurora Blade",
+    "code": 104091
   },
   {
     "name": "Cypress Stick",
@@ -252,6 +412,10 @@
     "code": 104003
   },
   {
+    "name": "Infernal Sword",
+    "code": 104090
+  },
+  {
     "name": "Dragonfang Sword",
     "code": 104009
   },
@@ -264,8 +428,16 @@
     "code": 104022
   },
   {
+    "name": "Underworld Sabre",
+    "code": 104023
+  },
+  {
     "name": "Iron Broadsword",
     "code": 104004
+  },
+  {
+    "name": "Faerie Foil",
+    "code": 104024
   },
   {
     "name": "Hell Sabre",
@@ -288,6 +460,18 @@
     "code": 105009
   },
   {
+    "name": "Hargon's Staff",
+    "code": 105025
+  },
+  {
+    "name": "Destroyer's Staff",
+    "code": 105026
+  },
+  {
+    "name": "Thalian Staff",
+    "code": 105020
+  },
+  {
     "name": "Thunder Staff",
     "code": 105016
   },
@@ -306,6 +490,14 @@
   {
     "name": "Magma Staff",
     "code": 105013
+  },
+  {
+    "name": "Dark Crystal Staff",
+    "code": 105023
+  },
+  {
+    "name": "Moonbrooke Staff",
+    "code": 105024
   },
   {
     "name": "Pumpkin Parasol",
@@ -336,6 +528,10 @@
     "code": 105015
   },
   {
+    "name": "Butterfly Baton",
+    "code": 105022
+  },
+  {
     "name": "Watermaul Wand",
     "code": 105005
   },
@@ -346,5 +542,9 @@
   {
     "name": "Faerie Staff",
     "code": 105003
+  },
+  {
+    "name": "Snowman Wand",
+    "code": 105021
   }
 ]

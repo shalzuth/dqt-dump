@@ -1,5 +1,9 @@
 [
   {
+    "name": "Ability Scroll",
+    "code": 4260682988
+  },
+  {
     "name": "Woosh-Type Upgrade Tome A",
     "code": 1040003
   },
@@ -161,6 +165,10 @@
   },
   {
     "name": "Ability Scroll",
+    "code": 1819447165
+  },
+  {
+    "name": "Ability Scroll",
     "code": 3727936118
   },
   {
@@ -193,6 +201,10 @@
   },
   {
     "name": "Ability Scroll",
+    "code": 2351065031
+  },
+  {
+    "name": "Ability Scroll",
     "code": 137991671
   },
   {
@@ -205,7 +217,15 @@
   },
   {
     "name": "Ability Scroll",
+    "code": 802746851
+  },
+  {
+    "name": "Ability Scroll",
     "code": 2888485417
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 4050126120
   },
   {
     "name": "Ability Scroll",
@@ -246,6 +266,10 @@
   {
     "name": "Ability Scroll",
     "code": 1098570926
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 4260682990
   },
   {
     "name": "Ability Scroll",
@@ -293,6 +317,14 @@
   },
   {
     "name": "Ability Scroll",
+    "code": 1415291672
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 255511829
+  },
+  {
+    "name": "Ability Scroll",
     "code": 2008232164
   },
   {
@@ -325,6 +357,10 @@
   },
   {
     "name": "Ability Scroll",
+    "code": 1425057593
+  },
+  {
+    "name": "Ability Scroll",
     "code": 1011508013
   },
   {
@@ -333,11 +369,23 @@
   },
   {
     "name": "Ability Scroll",
+    "code": 3984257079
+  },
+  {
+    "name": "Ability Scroll",
     "code": 4040407516
   },
   {
     "name": "Ability Scroll",
     "code": 2621690804
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 4081988208
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 1699244297
   },
   {
     "name": "Ability Scroll",
@@ -397,6 +445,10 @@
   },
   {
     "name": "Ability Scroll",
+    "code": 4260682992
+  },
+  {
+    "name": "Ability Scroll",
     "code": 2796638453
   },
   {
@@ -410,6 +462,14 @@
   {
     "name": "Ability Scroll",
     "code": 2581142182
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 2680675675
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 3938006097
   },
   {
     "name": "Ability Scroll",
@@ -446,6 +506,10 @@
   {
     "name": "Ability Scroll",
     "code": 1130474729
+  },
+  {
+    "name": "Ability Scroll",
+    "code": 153961003
   },
   {
     "name": "EXP Codex S",
@@ -520,12 +584,32 @@
     "code": 3803217766
   },
   {
+    "name": "Atlas Medal",
+    "code": 40022
+  },
+  {
+    "name": "Bjørn Medal",
+    "code": 40016
+  },
+  {
+    "name": "Psaro Decoration",
+    "code": 40009
+  },
+  {
+    "name": "6-Month Anniversary Medal",
+    "code": 40015
+  },
+  {
     "name": "Spooky Cookie",
     "code": 40007
   },
   {
     "name": "DQ I Medal",
     "code": 40001
+  },
+  {
+    "name": "DQ II Medal",
+    "code": 40019
   },
   {
     "name": "DQ III Medal",
@@ -536,8 +620,16 @@
     "code": 40008
   },
   {
+    "name": "DQ V Medal",
+    "code": 40011
+  },
+  {
     "name": "Master Medal",
     "code": 50004
+  },
+  {
+    "name": "Circle of Water",
+    "code": 40014
   },
   {
     "name": "Gold Mindini Medal",
@@ -556,6 +648,18 @@
     "code": 40006
   },
   {
+    "name": "Patissier Knight Decoration",
+    "code": 40018
+  },
+  {
+    "name": "Peronel Decoration",
+    "code": 40020
+  },
+  {
+    "name": "Santa Krystalinda Decoration",
+    "code": 40013
+  },
+  {
     "name": "Slime Fest Medal",
     "code": 40004
   },
@@ -568,6 +672,18 @@
     "code": 10004
   },
   {
+    "name": "Rickerd Decoration",
+    "code": 40021
+  },
+  {
+    "name": "Chocolate Truffle",
+    "code": 40017
+  },
+  {
+    "name": "Holiday Card",
+    "code": 40010
+  },
+  {
     "name": "Party Member Meeting Ticket A",
     "code": 3881800031
   },
@@ -578,6 +694,46 @@
   {
     "name": "Tact Points",
     "code": 2467471982
+  },
+  {
+    "name": "Orochi Mark",
+    "code": 40012
+  },
+  {
+    "name": "Beast Sphere",
+    "code": 4140003
+  },
+  {
+    "name": "Demon Sphere",
+    "code": 4160003
+  },
+  {
+    "name": "Dragon Sphere",
+    "code": 4120003
+  },
+  {
+    "name": "Hero Sphere",
+    "code": 4190003
+  },
+  {
+    "name": "Inorganic Sphere",
+    "code": 4150003
+  },
+  {
+    "name": "Nature Sphere",
+    "code": 4130003
+  },
+  {
+    "name": "Slime Sphere",
+    "code": 4110003
+  },
+  {
+    "name": "Mystery Sphere",
+    "code": 4180003
+  },
+  {
+    "name": "Undead Sphere",
+    "code": 4170003
   },
   {
     "name": "Savvy Sapphire",
@@ -732,8 +888,76 @@
     "code": 20011
   },
   {
+    "name": "Kiryl SP Scout Voucher",
+    "code": 20012
+  },
+  {
+    "name": "Psaro the Manslayer SP Scout Voucher",
+    "code": 20013
+  },
+  {
+    "name": "Santa Krystalinda SP Scout Ticket",
+    "code": 20014
+  },
+  {
+    "name": "Draguar SP Scout Voucher",
+    "code": 20015
+  },
+  {
+    "name": "Bride SP Scout Ticket (Bianca)",
+    "code": 20016
+  },
+  {
+    "name": "Bride SP Scout Ticket (Nera)",
+    "code": 20017
+  },
+  {
+    "name": "Bride SP Scout Ticket (Debora)",
+    "code": 20018
+  },
+  {
+    "name": "Grandmaster Nimzo SP Scout Ticket",
+    "code": 20019
+  },
+  {
+    "name": "Estark SP Scout Ticket",
+    "code": 20020
+  },
+  {
+    "name": "New Year Grab Bag SP Scout Ticket",
+    "code": 20021
+  },
+  {
+    "name": "6-Month Anniversary SP Scout Ticket",
+    "code": 20022
+  },
+  {
+    "name": "Seraphi SP Scout Voucher",
+    "code": 20023
+  },
+  {
+    "name": "DQ II Heroes SP Scout Voucher (Peronel)",
+    "code": 20024
+  },
+  {
+    "name": "DQ II Heroes SP Scout Voucher (Rickerd)",
+    "code": 20025
+  },
+  {
+    "name": "Hargon SP Scout Voucher",
+    "code": 20026
+  },
+  {
+    "name": "Malroth SP Scout Voucher",
+    "code": 20027
+  },
+  {
     "name": "Killing Machine Voucher",
     "code": 2020976462
+  },
+  {
+    "name": "Overkilling Machine SP Scout Voucher",
+    "code": 20028
   },
   {
     "name": "Spooky Valencia SP Scout Voucher",
@@ -748,8 +972,32 @@
     "code": 351355001
   },
   {
+    "name": "DQ II Atlas Key",
+    "code": 2573398907
+  },
+  {
+    "name": "DQV Bjørn the Behemoose Key",
+    "code": 2697918414
+  },
+  {
     "name": "Stamina Herb",
     "code": 3844975519
+  },
+  {
+    "name": "Sweetheart Chocolate",
+    "code": 3065051751
+  },
+  {
+    "name": "Bronze Trophy",
+    "code": 3026705887
+  },
+  {
+    "name": "Gold Trophy",
+    "code": 1465998757
+  },
+  {
+    "name": "Silver Trophy",
+    "code": 1438705006
   },
   {
     "name": "Axe Alchemy Stone A",
@@ -810,6 +1058,14 @@
   {
     "name": "Dagger Alchemy Stone S",
     "code": 2150979043
+  },
+  {
+    "name": "Clothing Alchemy Stone A",
+    "code": 1815553506
+  },
+  {
+    "name": "Armour Alchemy Stone S",
+    "code": 737104869
   },
   {
     "name": "Sword Alchemy Stone A",
@@ -876,6 +1132,10 @@
     "code": 11140003
   },
   {
+    "name": "Slon Crystal",
+    "code": 822448016
+  },
+  {
     "name": "Striking Sabrecat Crystal",
     "code": 11140004
   },
@@ -888,8 +1148,24 @@
     "code": 11140002
   },
   {
+    "name": "Orc King Crystal",
+    "code": 11140046
+  },
+  {
+    "name": "Rhinoceraxe Crystal",
+    "code": 3270324928
+  },
+  {
     "name": "Party Animal Juliante Crystal",
     "code": 3996766384
+  },
+  {
+    "name": "Jolly Sasquash Crystal",
+    "code": 11140043
+  },
+  {
+    "name": "Clawde Crystal",
+    "code": 11140045
   },
   {
     "name": "Wrecktor Crystal",
@@ -904,12 +1180,28 @@
     "code": 11160001
   },
   {
+    "name": "Bodkin Bowyer Crystal",
+    "code": 2443004950
+  },
+  {
+    "name": "Grimlin Crystal",
+    "code": 11160040
+  },
+  {
     "name": "Boss Troll Crystal",
     "code": 1806299415
   },
   {
+    "name": "Batmandrill Crystal",
+    "code": 11160041
+  },
+  {
     "name": "Gigantes Crystal",
     "code": 11160007
+  },
+  {
+    "name": "Santa Krystalinda Crystal",
+    "code": 1214687039
   },
   {
     "name": "Silvapithecus Crystal",
@@ -936,6 +1228,10 @@
     "code": 11120006
   },
   {
+    "name": "Black Dragon Crystal",
+    "code": 11120022
+  },
+  {
     "name": "Dread Dragon Crystal",
     "code": 11120001
   },
@@ -956,20 +1252,72 @@
     "code": 11120003
   },
   {
+    "name": "Mandrake Marauder Crystal",
+    "code": 1471840757
+  },
+  {
     "name": "Boreal Serpent Crystal",
     "code": 11180006
+  },
+  {
+    "name": "Halberdsaurus Crystal",
+    "code": 2471168505
   },
   {
     "name": "Alena Crystal",
     "code": 1391362551
   },
   {
+    "name": "Bianca Crystal",
+    "code": 11190004
+  },
+  {
+    "name": "Debora Crystal",
+    "code": 11190006
+  },
+  {
+    "name": "Nera Crystal",
+    "code": 11190005
+  },
+  {
+    "name": "Kiryl Crystal",
+    "code": 375009703
+  },
+  {
+    "name": "Peronel Crystal",
+    "code": 11190008
+  },
+  {
     "name": "Ragnar Crystal",
     "code": 2900880725
   },
   {
+    "name": "Rickerd Crystal",
+    "code": 11190007
+  },
+  {
+    "name": "Blizzybody Crystal",
+    "code": 305104216
+  },
+  {
+    "name": "Draguar Crystal",
+    "code": 718627372
+  },
+  {
+    "name": "Balhib Crystal",
+    "code": 11150028
+  },
+  {
+    "name": "Gold Golem Crystal",
+    "code": 2933937250
+  },
+  {
     "name": "Lethal Armour Crystal",
     "code": 11150003
+  },
+  {
+    "name": "Overkilling Machine Crystal",
+    "code": 150036
   },
   {
     "name": "Killing Machine Crystal",
@@ -980,8 +1328,24 @@
     "code": 11150002
   },
   {
+    "name": "Magic Marionette Crystal",
+    "code": 3811278012
+  },
+  {
+    "name": "Alarmour Crystal",
+    "code": 150037
+  },
+  {
     "name": "Living Statue Crystal",
     "code": 11150004
+  },
+  {
+    "name": "Ewwnicorn Crystal",
+    "code": 1280449519
+  },
+  {
+    "name": "Fandangow Crystal",
+    "code": 1124207665
   },
   {
     "name": "Devilmoth Crystal",
@@ -990,6 +1354,10 @@
   {
     "name": "Handsome Crab Crystal",
     "code": 11130004
+  },
+  {
+    "name": "Snowbird Crystal",
+    "code": 11130023
   },
   {
     "name": "Hybird Crystal",
@@ -1024,8 +1392,16 @@
     "code": 11110003
   },
   {
+    "name": "Patissier Knight Crystal",
+    "code": 3206750043
+  },
+  {
     "name": "Queen Slime Crystal",
     "code": 2078557154
+  },
+  {
+    "name": "Seraphi Crystal",
+    "code": 11110030
   },
   {
     "name": "Dragon Slime Crystal",
@@ -1040,8 +1416,28 @@
     "code": 11110004
   },
   {
+    "name": "Estark Crystal",
+    "code": 11180009
+  },
+  {
+    "name": "Hargon Crystal",
+    "code": 11180012
+  },
+  {
+    "name": "Grandmaster Nimzo Crystal",
+    "code": 11180010
+  },
+  {
+    "name": "Malroth Crystal",
+    "code": 11180013
+  },
+  {
     "name": "Baramos Crystal",
     "code": 11180003
+  },
+  {
+    "name": "Psaro the Manslayer Crystal",
+    "code": 746440237
   },
   {
     "name": "Dragonlord Crystal",

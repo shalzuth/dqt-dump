@@ -1,11 +1,35 @@
 [
   {
+    "name": "****",
+    "code": 2564364744
+  },
+  {
+    "name": "Atlas",
+    "code": 16004601
+  },
+  {
+    "name": "Dracky",
+    "code": 16000101
+  },
+  {
+    "name": "Bjørn",
+    "code": 14004401
+  },
+  {
+    "name": "Slime Knight",
+    "code": 11000801
+  },
+  {
     "name": "Leery Lantern",
     "code": 16003201
   },
   {
     "name": "Spooky Valencia",
     "code": 16003101
+  },
+  {
+    "name": "Gold Golem",
+    "code": 15000801
   },
   {
     "name": "Foo Dog",
@@ -40,12 +64,24 @@
     "code": 140026
   },
   {
+    "name": "Bjørn",
+    "code": 140044
+  },
+  {
+    "name": "Draguar",
+    "code": 140040
+  },
+  {
     "name": "Pruslas",
     "code": 140032
   },
   {
     "name": "Orc Chieftain",
     "code": 140016
+  },
+  {
+    "name": "Slon",
+    "code": 140038
   },
   {
     "name": "Bunicorn",
@@ -74,6 +110,10 @@
   {
     "name": "Striking Sabrecat",
     "code": 140028
+  },
+  {
+    "name": "Marquis de Léon",
+    "code": 140023
   },
   {
     "name": "Bewarewolf",
@@ -112,8 +152,24 @@
     "code": 140014
   },
   {
+    "name": "Orc King",
+    "code": 140046
+  },
+  {
+    "name": "Orc Lv 20",
+    "code": 140042
+  },
+  {
     "name": "Jailcat",
     "code": 140007
+  },
+  {
+    "name": "Redcrim",
+    "code": 140041
+  },
+  {
+    "name": "Rhinoceraxe",
+    "code": 140033
   },
   {
     "name": "Abracadabrador",
@@ -124,12 +180,36 @@
     "code": 140031
   },
   {
+    "name": "Rhinothrope",
+    "code": 140048
+  },
+  {
     "name": "Candy Cat",
     "code": 140003
   },
   {
     "name": "Tuskateer",
     "code": 140015
+  },
+  {
+    "name": "Jolly Sasquash",
+    "code": 140043
+  },
+  {
+    "name": "Clawde",
+    "code": 140045
+  },
+  {
+    "name": "Ewwnicorn",
+    "code": 140039
+  },
+  {
+    "name": "Powie Yowie",
+    "code": 140036
+  },
+  {
+    "name": "Kon",
+    "code": 140037
   },
   {
     "name": "Knight Aberrant",
@@ -148,16 +228,48 @@
     "code": 160016
   },
   {
+    "name": "Bodkin Bowyer",
+    "code": 160035
+  },
+  {
+    "name": "Atlas",
+    "code": 160046
+  },
+  {
+    "name": "Atlas",
+    "code": 16004602
+  },
+  {
     "name": "Imp",
     "code": 160009
+  },
+  {
+    "name": "Pazuzu",
+    "code": 160045
   },
   {
     "name": "Beleth",
     "code": 160008
   },
   {
+    "name": "Belial",
+    "code": 160044
+  },
+  {
+    "name": "Grimlin",
+    "code": 160040
+  },
+  {
     "name": "Boss Troll",
     "code": 160030
+  },
+  {
+    "name": "Cyclops",
+    "code": 160043
+  },
+  {
+    "name": "Batmandrill",
+    "code": 160041
   },
   {
     "name": "Bodkin Fletcher",
@@ -172,12 +284,20 @@
     "code": 160006
   },
   {
+    "name": "Hoodlum",
+    "code": 160028
+  },
+  {
     "name": "Aamon",
     "code": 160034
   },
   {
     "name": "Gigantes",
     "code": 160017
+  },
+  {
+    "name": "Gremlin",
+    "code": 160039
   },
   {
     "name": "Barbatos",
@@ -196,8 +316,16 @@
     "code": 160007
   },
   {
+    "name": "Lunatick",
+    "code": 160048
+  },
+  {
     "name": "Raving Lunatick",
     "code": 160024
+  },
+  {
+    "name": "Madusa",
+    "code": 160042
   },
   {
     "name": "Minidemon",
@@ -214,6 +342,10 @@
   {
     "name": "Winky",
     "code": 160037
+  },
+  {
+    "name": "Santa Krystalinda",
+    "code": 160038
   },
   {
     "name": "Leery Lout",
@@ -276,6 +408,10 @@
     "code": 120005
   },
   {
+    "name": "Black Dragon",
+    "code": 120022
+  },
+  {
     "name": "Dread Dragon",
     "code": 120012
   },
@@ -316,6 +452,10 @@
     "code": 120003
   },
   {
+    "name": "Mandrake Marauder",
+    "code": 120021
+  },
+  {
     "name": "Wharfhorse",
     "code": 120011
   },
@@ -328,6 +468,10 @@
     "code": 120017
   },
   {
+    "name": "Halberdsaurus",
+    "code": 120015
+  },
+  {
     "name": "Orochi",
     "code": 120016
   },
@@ -336,8 +480,44 @@
     "code": 190001
   },
   {
+    "name": "Bianca",
+    "code": 190004
+  },
+  {
+    "name": "Debora",
+    "code": 190006
+  },
+  {
+    "name": "Nera",
+    "code": 190005
+  },
+  {
+    "name": "Kiryl",
+    "code": 190002
+  },
+  {
+    "name": "Peronel",
+    "code": 190008
+  },
+  {
     "name": "Ragnar",
     "code": 190003
+  },
+  {
+    "name": "Rickerd",
+    "code": 190007
+  },
+  {
+    "name": "Frostburn",
+    "code": 150035
+  },
+  {
+    "name": "Blizzybody",
+    "code": 150030
+  },
+  {
+    "name": "Bloody Hand",
+    "code": 150034
   },
   {
     "name": "Mud Mannequin",
@@ -350,6 +530,10 @@
   {
     "name": "Freezing Fog",
     "code": 150025
+  },
+  {
+    "name": "Balhib",
+    "code": 150028
   },
   {
     "name": "Gold Golem",
@@ -372,12 +556,20 @@
     "code": 150024
   },
   {
+    "name": "Flamethrower",
+    "code": 150032
+  },
+  {
     "name": "Lethal Armour",
     "code": 150022
   },
   {
     "name": "Killing Machine",
     "code": 150013
+  },
+  {
+    "name": "Overkilling Machine",
+    "code": 150036
   },
   {
     "name": "Killing Machine Light",
@@ -412,8 +604,20 @@
     "code": 150007
   },
   {
+    "name": "Fortunetelling Mimic",
+    "code": 150033
+  },
+  {
+    "name": "Magic Marionette",
+    "code": 150029
+  },
+  {
     "name": "Restless Armour",
     "code": 150010
+  },
+  {
+    "name": "Alarmour",
+    "code": 150037
   },
   {
     "name": "Shadow",
@@ -436,6 +640,10 @@
     "code": 150020
   },
   {
+    "name": "Wickerman",
+    "code": 150031
+  },
+  {
     "name": "Living Statue",
     "code": 150011
   },
@@ -444,8 +652,20 @@
     "code": 150003
   },
   {
+    "name": "Killerpillar",
+    "code": 130029
+  },
+  {
+    "name": "Chimaera Lv 35",
+    "code": 130026
+  },
+  {
     "name": "Chimaera",
     "code": 130007
+  },
+  {
+    "name": "Fandangow",
+    "code": 130025
   },
   {
     "name": "Devilmoth",
@@ -464,12 +684,20 @@
     "code": 130008
   },
   {
+    "name": "Snowbird",
+    "code": 130023
+  },
+  {
     "name": "Hawk Man",
     "code": 130006
   },
   {
     "name": "Hades Condor",
     "code": 130010
+  },
+  {
+    "name": "Firebird",
+    "code": 130024
   },
   {
     "name": "Carnivine",
@@ -494,6 +722,10 @@
   {
     "name": "Mushroom Mage",
     "code": 130017
+  },
+  {
+    "name": "Mandragore",
+    "code": 130028
   },
   {
     "name": "Funghoul",
@@ -522,6 +754,10 @@
   {
     "name": "Squidzilla",
     "code": 130016
+  },
+  {
+    "name": "Treevil",
+    "code": 130027
   },
   {
     "name": "Crabber Dabber Doo",
@@ -600,8 +836,16 @@
     "code": 110027
   },
   {
+    "name": "Patissier Knight",
+    "code": 110029
+  },
+  {
     "name": "Queen Slime",
     "code": 110023
+  },
+  {
+    "name": "Seraphi",
+    "code": 110030
   },
   {
     "name": "Man o' War",
@@ -652,6 +896,14 @@
     "code": 180008
   },
   {
+    "name": "Estark",
+    "code": 180009
+  },
+  {
+    "name": "Hargon",
+    "code": 180012
+  },
+  {
     "name": "Robbin' 'Ood",
     "code": 180002
   },
@@ -660,12 +912,24 @@
     "code": 180001
   },
   {
+    "name": "Nimzo",
+    "code": 180011
+  },
+  {
+    "name": "Grandmaster Nimzo",
+    "code": 180010
+  },
+  {
     "name": "Dragonlord",
     "code": 180003
   },
   {
     "name": "Dragonlord's True Form",
     "code": 180006
+  },
+  {
+    "name": "Malroth",
+    "code": 180013
   },
   {
     "name": "Zoma",
@@ -696,8 +960,16 @@
     "code": 170001
   },
   {
+    "name": "Ghoul",
+    "code": 170024
+  },
+  {
     "name": "Hell Gladiator",
     "code": 170016
+  },
+  {
+    "name": "Spitegeist",
+    "code": 170025
   },
   {
     "name": "Dark Skeleton",
